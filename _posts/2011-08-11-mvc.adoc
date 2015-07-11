@@ -1,14 +1,16 @@
+= Paradigma de programación MVC
+
 ---
 title: Paradigma de programación MVC
 author: admin
 layout: post
 permalink: /mvc/
 dsq_thread_id:
-  - 
+  -
 categories:
   - Artículos
 ---
-# 
+#
 
 ![entendiendo modelo vista controlador][1]
 
@@ -32,7 +34,7 @@ Este tipo de abstracción es útil para tener un mayor control sobre el html que
 
 En fin con mvc reutilizaremos mas nuestro código así como también seremos mas ordenados al manejar capas de abstracción.
 
-Otra ventaja es que el ciclo de petición de mvc es mas corto ![:)][2] 
+Otra ventaja es que el ciclo de petición de mvc es mas corto ![:)][2]
 
  [2]: http://eliezerdiaz.com/wp-includes/images/smilies/icon_smile.gif
 
