@@ -7,11 +7,11 @@ siteurl += "/themes/Saga";
  * HIGHLIGHT CODE *
  ******************/
 
-if($("code").length !== 0){
-    $.getScript(siteurl+"/assets/js/helper/highlight.min.js", function() {
-        hljs.initHighlightingOnLoad();
-    });
-}
+// if($("code").length !== 0){
+//     $.getScript(siteurl+"/assets/js/helper/highlight.min.js", function() {
+//         hljs.initHighlightingOnLoad();
+//     });
+// }
 
 /**********************
  * RESPONSIVE VIDEOS  *
