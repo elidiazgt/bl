@@ -1,6 +1,6 @@
 = Posicionamiento en buscadores
 
-:hp-image: http://photo.foter.com/photos/50/the-right-keywords.jpg
+:hp-image: http://photo.foter.com/photos/25/seo-myths.jpg
 :hp-tags: Articles, Seo
 
 
