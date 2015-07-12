@@ -24,5 +24,3 @@ La capa controladora puede tener acceso a la capa modelo, pero nunca a la capa d
 Este tipo de abstracción es útil para tener un mayor control sobre el html que es generado al contrario que pasa con los webforms de asp donde puedes tener bastantes controles y tocar poco código, pero puede ser un poco difícil trabajar con elementos javascript del lado de la vista.
 
 En fin con mvc reutilizaremos mas nuestro código así como también seremos mas ordenados al manejar capas de abstracción.
-
-Otra ventaja es que el ciclo de petición de mvc es mas corto !
