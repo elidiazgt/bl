@@ -1,15 +1,9 @@
 
 = Paradigma de programación MVC
 
-  - 
-categories:
-  - Artículos
+https://farm2.staticflickr.com/1213/5149833928_52cc8912af_b.jpg
 
 
-
-![entendiendo modelo vista controlador][1]
-
- [1]: http://www.eliezerdiaz.com/wp-content/uploads/2011/09/mvc.jpg "mvc"
 
 Hace un poco mas de un año tuve mi primer encuentro con el paradigma llamado mvc dentro del framework symphony, pero no lo logre entender del todo y lo deje para otro momento, pero ahora lo vuelvo a retomar con .net y espero volverme experto en esto.
 
@@ -29,10 +23,4 @@ Este tipo de abstracción es útil para tener un mayor control sobre el html que
 
 En fin con mvc reutilizaremos mas nuestro código así como también seremos mas ordenados al manejar capas de abstracción.
 
-Otra ventaja es que el ciclo de petición de mvc es mas corto ![:)][2] 
-
- [2]: http://eliezerdiaz.com/wp-includes/images/smilies/icon_smile.gif
-
-En codeplex hay un [tutorial sobre mvc bastante completo][3] para entender el mvc
-
- [3]: http://mvcmusicstore.codeplex.com/
+Otra ventaja es que el ciclo de petición de mvc es mas corto !
