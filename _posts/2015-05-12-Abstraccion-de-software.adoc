@@ -1,14 +1,7 @@
----
-title: Abstraccion de software
-author: eli
-layout: post
-permalink: /abstraccion-de-software/
-dsq_thread_id:
-  - 589550400
-categories:
-  - Artículos
----
-# 
+= Abstraccion de software
+:hp-image: 
+:hp-tags: Articles,Software
+
 La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas
 esta capacidad nos permite identificar reducir y aislar informacion, que luego 
 utilizamos para manejar los eventos que nos interesan.
