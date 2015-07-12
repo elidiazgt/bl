@@ -1,5 +1,6 @@
 = Posicionamiento en buscadores
-:hp-tags: Artículos
+:hp-image: http://photo.foter.com/photos/50/the-right-keywords.jpg
+:hp-tags: Articles,
 
 
 Segun  Wikipedia es: 
