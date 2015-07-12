@@ -16,13 +16,12 @@ Me encontre con este articulo muy bueno (ingles) que trata sobre el [Bridge Patt
 
 ## Listado de patrones de diseno
 
-
 image::http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg[Design pattern 1]
 
 
+image::http://41.media.tumblr.com/eca7b79dfe053640e2191de22473c4ed/tumblr_noysmqaReq1tb3anfo1_1280.jpg[Design pattern 2]
 
+## Interaccion entre terminos de patrones de diseno
 
-![Alt text](http://41.media.tumblr.com/eca7b79dfe053640e2191de22473c4ed/tumblr_noysmqaReq1tb3anfo1_1280.jpg "Patrones de diseno 2")
+image::http://41.media.tumblr.com/31bcfdc78d45ba49e9e5861821f71c0a/tumblr_noyspyXlpQ1tb3anfo1_1280.jpg[Patter interaction]
 
-##Interaccion entre terminos de patrones de diseno
-![Alt text](http://41.media.tumblr.com/31bcfdc78d45ba49e9e5861821f71c0a/tumblr_noyspyXlpQ1tb3anfo1_1280.jpg "Patrones de diseno 2")
