@@ -1,14 +1,6 @@
----
-title: Posicionamiento en buscadores
-author: admin
-layout: post
-permalink: /posicionamiento-en-buscadores/
-dsq_thread_id:
-  - 589550400
-categories:
-  - Artículos
----
-# 
+= Posicionamiento en buscadores
+:hp-tags: Artículos
+
 
 Segun  Wikipedia es: 
 
