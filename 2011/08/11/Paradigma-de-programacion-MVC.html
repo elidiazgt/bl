@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-    <title>Paradigma de programación MVC</title>
-    <meta name="description" content="" />
-
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="shortcut icon" href="//elidiaz.com/themes/Roon/favicon.ico">
-
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic|Open+Sans:400italic,700italic,700,400">
-    <link rel="stylesheet" type="text/css" href="//elidiaz.com/themes/Roon/assets/css/screen.css?v=1.0.0" />
-
+    <title>Paradigma de programación MVC</title>
+    <meta name="description" content="" />
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display+SC:700' rel='stylesheet' type='text/css'>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="//elidiaz.com/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/favicon.ico" rel="shortcut icon">
     <link rel="canonical" href="http://elidiaz.com/2011/08/11/Paradigma-de-programacion-MVC.html" />
     
     <meta property="og:site_name" content="Eli Diaz" />
@@ -24,7 +22,7 @@
     <meta property="og:url" content="http://elidiaz.com/2011/08/11/Paradigma-de-programacion-MVC.html" />
     <meta property="og:image" content="https://farm6.staticflickr.com/5093/5396678521_7923cc70b0_b.jpg" />
     <meta property="article:published_time" content="2011-08-11T06:00:00.000Z" />
-    <meta property="article:modified_time" content="2015-07-12T21:59:40.105Z" />
+    <meta property="article:modified_time" content="2015-07-12T22:52:50.444Z" />
     <meta property="article:tag" content="articles" />
     <meta property="article:tag" content="programming" />
     <meta property="article:tag" content="mvc" />
@@ -50,7 +48,7 @@
     "headline": "Paradigma de programación MVC",
     "url": "http://elidiaz.com/2011/08/11/Paradigma-de-programacion-MVC.html",
     "datePublished": "2011-08-11T06:00:00.000Z",
-    "dateModified": "2015-07-12T21:59:40.105Z",
+    "dateModified": "2015-07-12T22:52:50.444Z",
     "image": "https://farm6.staticflickr.com/5093/5396678521_7923cc70b0_b.jpg",
     "keywords": "articles, programming, mvc",
     "description": "Hace un poco mas de un año tuve mi primer encuentro con el paradigma llamado mvc dentro del framework symphony, pero no lo logre entender del todo y lo deje para otro momento, pero ahora lo vuelvo a retomar con..."
@@ -61,24 +59,50 @@
     <link rel="alternate" type="application/rss+xml" title="Eli Diaz" href="http://elidiaz.com/rss" />
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
 </head>
-<body class="post-template tag-articles tag-programming tag-mvc  ">
-
-    
-
-        <div id="feature_image">
-            <div class="inner" style="background-image: url('https://farm6.staticflickr.com/5093/5396678521_7923cc70b0_b.jpg')">
-                <img src="https://farm6.staticflickr.com/5093/5396678521_7923cc70b0_b.jpg">
-            </div>
-        </div>
-
-    <article role="main" class="image">
-        <header>
-            <a href="http://elidiaz.com" id="home_link">«</a>
-            <div class="meta"><time datetime="2011-08-11"><a href="/2011/08/11/Paradigma-de-programacion-MVC.html">August 11, 2011</a></time> <span class="count" id="js-reading-time"></span></div>
-            <h1>Paradigma de programación MVC</h1>
-        </header>
-
-        <div class="text" id="js-post-content">
+<body class="post-template tag-articles tag-programming tag-mvc">
+     <header id="header">
+     <div class="header-background">
+     <section class="blog-content animated fadeIn">
+         <a id="site-url" class="blog-title" href="http://elidiaz.com">Eli Diaz</a>
+         <span class="blog-description">Full stack javascript developer, builder of useful tools to inspire, educate and empower people.</span>
+         <a href='/bio'>Bio</a>
+         <a href='/Articles'>Articulos</a>
+         <nav class="links fadeIn animated">
+             <ul>
+                 <li><a href='/bio'>Bio</a></li>
+                 <li><a href='/Articles'>Articulos</a></li>
+                 <!-- <li class="rss"><a title="RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+         
+             </ul>
+         </nav>
+     </section>
+     </div>
+ </header>
+<header id="header" class="animated fadeIn" style="background-image: url(https://farm6.staticflickr.com/5093/5396678521_7923cc70b0_b.jpg)">
+    <div class="header-background">
+    <section class="blog-content">
+        <a id="site-url" class="blog-title" href="http://elidiaz.com">Eli Diaz</a>
+        <span class="blog-description">Full stack javascript developer, builder of useful tools to inspire, educate and empower people.</span>
+        <nav class="links fadeIn animated">
+            <ul>
+                <li><a href='/bio'>Bio</a></li>
+                <li><a href='/Articles'>Articulos</a></li>
+                <!-- <li class="rss"><a title="RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+        
+            </ul>
+        </nav>
+    </section>
+    <section class="header-content">
+        <h1 class="post-title animated fadeInUp">Paradigma de programación MVC</h1>
+        <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="1313042400" datetime="2011-08-11T00:00" title="11 August 2011">2011-08-11 00:00:00<ago class="ago"></time></span>
+            <span class="tags animated fadeInUp"><i class="fa fa-tags"></i> <a href="http://elidiaz.com/tag/articles">articles</a>, <a href="http://elidiaz.com/tag/programming">programming</a>, <a href="http://elidiaz.com/tag/mvc">mvc</a></span>
+            <span class="author animated fadeInUp"><i class="fa fa-user"></i> <a href="">Eli Diaz</a></span></span>
+    </section>
+    </div>
+</header>
+<main id="main" class="content">
+    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post tag-articles tag-programming tag-mvc">
+        <section class="post-content">
             <div class="paragraph">
 <p>Hace un poco mas de un año tuve mi primer encuentro con el paradigma llamado mvc dentro del framework symphony, pero no lo logre entender del todo y lo deje para otro momento, pero ahora lo vuelvo a retomar con .net y espero volverme experto en esto.</p>
 </div>
@@ -106,153 +130,53 @@
 <div class="paragraph">
 <p>En fin con mvc reutilizaremos mas nuestro código así como también seremos mas ordenados al manejar capas de abstracción.</p>
 </div>
-        </div>
+        </section>
 
-        <menu>
-            <a href="" id="btn_share" class="btn" title="Share">
-                <span aria-hidden="true" data-icon="S"></span>
-                <strong>Share</strong>
-            </a>
-            <a href="http://twitter.com/share?text=Paradigma%20de%20programaci%C3%B3n%20MVC&url=http://elidiaz.com/2011/08/11/Paradigma-de-programacion-MVC.html" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" id="btn_comment" class="btn" target="_blank">
-                <span aria-hidden="true" data-icon="C"></span> Comment on Twitter
-            </a>
-        </menu>
-
-
-        <footer class="post-footer" role="contentinfo">
-
-            <div class="vcard">
-                <!-- <a href="http://elidiaz.com/rss" id="btn_feed" class="btn" title="Feed" target="_blank">
-                    <span aria-hidden="true" data-icon=")"></span>
-                    <strong>Feed</strong>
-                </a> -->
-
-                <a href="" class="photo">
-                    <span style="background-image: url('https://avatars.githubusercontent.com/u/11800064?v=3');">
-                        <img src="https://avatars.githubusercontent.com/u/11800064?v=3" alt="Eli Diaz">
-                    </span>
-                </a>
-
-                <div class="details">
-                    <h4><a href="" class="url n">Eli Diaz</a></h4>
-                    
-                    <a href="http://elidiaz.com" class="js-remove-domain-schema">http://elidiaz.com</a>
-                </div>
-            </div>
-
-            <div id="user_bio">
-                <div class="inner">
-                    
-                </div>
-            </div>
-
-        </footer>
-
-
-
-
-    <section class="post-comments">
-      <div id="disqus_thread"></div>
-      <script type="text/javascript">
-      var disqus_shortname = 'elidiaz'; // required: replace example with your forum shortname
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    </section>
-
-
+    
+        <section class="post-comments">
+          <div id="disqus_thread"></div>
+          <script type="text/javascript">
+          var disqus_shortname = 'elidiaz'; // required: replace example with your forum shortname
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+          <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        </section>
+    
     </article>
 
-    <div id="share_modal">
-        <div class="wrap">
-            <div class="inner">
-                <header>
-                    Share
-                    <a href="" class="close" title="Close">&times;</a>
-                </header>
-
-                <div class="roon-share-links">
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-dnt="true">Tweet</a>
-                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-                    <div id="fb-elems">
-                        <div id="fb-root"></div>
-                        <script>(function(d, s, id) {
-                        var js, fjs = d.getElementsByTagName(s)[0];
-                        if (d.getElementById(id)) return;
-                        js = d.createElement(s); js.id = id;
-                        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=463438580397968";
-                        fjs.parentNode.insertBefore(js, fjs);
-                        }(document, 'script', 'facebook-jssdk'));</script>
-                        <div class="fb-like" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false" data-font="arial"></div>
-                    </div>
-
-                    <div id="pinit-btn">
-                        <a href="//pinterest.com/pin/create/button/?url=http://elidiaz.com/2011/08/11/Paradigma-de-programacion-MVC.html&amp;description=Paradigma%20de%20programaci%C3%B3n%20MVC-Eli%20Diaz " data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png"></a>
-                        <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-                    </div>
-                </div>
+</main>
+    <footer class="animated fadeIn" id="footer">
+        <section class="colophon">
+        
+        <!-- Begin MailChimp Signup Form -->
+        <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+        <div id="mc_embed_signup">
+        <form action="//elidiaz.us11.list-manage.com/subscribe/post?u=338cfd237d2d246aa1166e0e1&amp;id=5663b9d3ff" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+        	<label for="mce-EMAIL">Recibe los ultimos articulos en tu correo.</label>
+        	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Ingresa tu Correo electronico" required>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;"><input type="text" name="b_f83ef4737eb64377dc769dea2_82d69d0297" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Suscribete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
             </div>
+        </form>
         </div>
-    </div>
-
-
-
-
-        <a href="http://elidiaz.com" id="blog_badge">
-            <span style="background-image: url('https://avatars1.githubusercontent.com/u/11800064?v=3&amp;s=460');">Eli Diaz</span>
-        </a>
-
-
-    <script>
-
-            function get_text(el) {
-                ret = "";
-                var length = el.childNodes.length;
-                for(var i = 0; i < length; i++) {
-                    var node = el.childNodes[i];
-                    if(node.nodeType != 8) {
-                        ret += node.nodeType != 1 ? node.nodeValue : get_text(node);
-                    }
-                }
-                return ret;
-            }
-            function reading_time () {
-                var post_content = document.getElementById('js-post-content');
-                if (post_content) {
-                    var words = get_text(post_content),
-                        count = words.split(/\s+/).length,
-                        read_time = Math.ceil((count / 150)),
-                        read_time_node = document.createTextNode(read_time + ' min read');
-                    document.getElementById('js-reading-time').appendChild(read_time_node);
-                }
-            }
-
-        function no_schema_links () {
-            var links = document.querySelectorAll('.js-remove-domain-schema');
-            if (links) {
-                for (i = 0; i < links.length; ++i) {
-                    var link = links[i],
-                        text = link.innerHTML,
-                        no_schema = text.replace(/.*?:\/\//g, "");
-                    link.innerHTML = no_schema;
-                }
-            }
-        }
-
-        window.onload = function () {
-            no_schema_links();
-
-            reading_time();
-        }
-    </script>
-
+        
+        <!--End mc_embed_signup-->
+        
+        </section>
+        <section class="bottom">
+            <section class="attribution">
+              <section class="copyright">Copyright &copy; <span itemprop="copyrightHolder">Eli Diaz</span>. <span rel="license">All Rights Reserved</span>.</section>
+            </section>
+        </section>
+    </footer>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
       <script type="text/javascript">
         jQuery( document ).ready(function() {
@@ -265,33 +189,8 @@
 
         hljs.initHighlightingOnLoad();      
       </script>
-
-        <script>
-            $(function(){
-                var share_modal = $("#share_modal"),
-                    update_social_links = true;
-
-                $("#btn_share").click(function(){
-                    var that = $(this);
-                    share_modal.fadeIn(200);
-                    return false;
-                });
-
-                share_modal.click(function(e){
-                    if (e.target.className == "wrap" || e.target.id == "share_modal") {
-                        share_modal.fadeOut(200);
-                    }
-                    return false;
-                });
-
-                share_modal.find("div.inner > header > a.close").click(function(){
-                    share_modal.fadeOut(200);
-                    return false;
-                });
-            });
-        </script>
-
-
+    <script src="//elidiaz.com/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
+    
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -302,6 +201,5 @@
     ga('send', 'pageview');
 
     </script>
-
 </body>
 </html>
