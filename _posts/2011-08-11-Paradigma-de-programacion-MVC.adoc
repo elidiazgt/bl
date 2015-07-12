@@ -1,7 +1,7 @@
 
 = Paradigma de programación MVC
 
-:hp-image: https://farm2.staticflickr.com/1213/5149833928_52cc8912af_b.jpg
+:hp-image: https://farm6.staticflickr.com/5093/5396678521_7923cc70b0_b.jpg
 
 :hp-tags: articles,programming,mvc
 
