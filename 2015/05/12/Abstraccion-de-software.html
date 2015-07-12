@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Abstraccion de software</title>
+    <meta name="description" content="" />
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display+SC:700' rel='stylesheet' type='text/css'>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="//elidiazgt.github.io/blog/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiazgt.github.io/blog/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiazgt.github.io/blog/themes/Saga/favicon.ico" rel="shortcut icon">
+    <link rel="canonical" href="https://elidiazgt.github.io/blog/2015/05/12/Abstraccion-de-software.html" />
+    
+    <meta property="og:site_name" content="Eli Diaz" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Abstraccion de software" />
+    <meta property="og:description" content="La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar informacion, que luego utilizamos para manejar los eventos que nos interesan. A la pregunta &quot;Estare utilizando los terminos correctos..." />
+    <meta property="og:url" content="https://elidiazgt.github.io/blog/2015/05/12/Abstraccion-de-software.html" />
+    <meta property="og:image" content="http://photo.foter.com/photos/31/acrylic-abstract-fluid-painting.jpg" />
+    <meta property="article:published_time" content="2015-05-12T06:00:00.000Z" />
+    <meta property="article:modified_time" content="2015-07-12T17:30:36.513Z" />
+    <meta property="article:tag" content="Articles" />
+    <meta property="article:tag" content="Software" />
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Abstraccion de software" />
+    <meta name="twitter:description" content="La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar informacion, que luego utilizamos para manejar los eventos que nos interesan. A la pregunta &quot;Estare utilizando los terminos correctos..." />
+    <meta name="twitter:url" content="https://elidiazgt.github.io/blog/2015/05/12/Abstraccion-de-software.html" />
+    <meta name="twitter:image:src" content="http://photo.foter.com/photos/31/acrylic-abstract-fluid-painting.jpg" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "Eli Diaz",
+    "author": {
+        "@type": "Person",
+        "name": "Eli Diaz",
+        "image": "https://avatars.githubusercontent.com/u/11800064?v=3",
+        "url": "undefined/author/undefined",
+        "sameAs": "http://elidiaz.com"
+    },
+    "headline": "Abstraccion de software",
+    "url": "https://elidiazgt.github.io/blog/2015/05/12/Abstraccion-de-software.html",
+    "datePublished": "2015-05-12T06:00:00.000Z",
+    "dateModified": "2015-07-12T17:30:36.513Z",
+    "image": "http://photo.foter.com/photos/31/acrylic-abstract-fluid-painting.jpg",
+    "keywords": "Articles, Software",
+    "description": "La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar informacion, que luego utilizamos para manejar los eventos que nos interesan. A la pregunta &quot;Estare utilizando los terminos correctos..."
+}
+    </script>
+
+    <meta name="generator" content="Ghost ?" />
+    <link rel="alternate" type="application/rss+xml" title="Eli Diaz" href="https://elidiazgt.github.io/blog/rss" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
+</head>
+<body class="post-template tag-Articles tag-Software">
+    <header id="header" class="animated fadeIn" style="background-image: url(http://photo.foter.com/photos/31/acrylic-abstract-fluid-painting.jpg)">
+    <div class="header-background">
+    <section class="blog-content">
+        <a id="site-url" class="blog-title" href="https://elidiazgt.github.io/blog">Eli Diaz</a>
+        <span class="blog-description">Full stack javascript developer, builder of useful tools to inspire, educate and empower people.</span>
+        <nav class="links fadeIn animated">
+            <ul>
+                <!-- <li class="rss"><a title="RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+        
+            </ul>
+        </nav>
+    </section>
+    <section class="header-content">
+        <h1 class="post-title animated fadeInUp">Abstraccion de software</h1>
+        <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="1431410400" datetime="2015-05-12T00:00" title="12 May 2015">2015-05-12 00:00:00<ago class="ago"></time></span>
+            <span class="tags animated fadeInUp"><i class="fa fa-tags"></i> <a href="https://elidiazgt.github.io/blog/tag/Articles">Articles</a>, <a href="https://elidiazgt.github.io/blog/tag/Software">Software</a></span>
+            <span class="author animated fadeInUp"><i class="fa fa-user"></i> <a href="">Eli Diaz</a></span></span>
+    </section>
+    </div>
+</header>
+<main id="main" class="content">
+    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post tag-Articles tag-Software">
+        <section class="post-content">
+            <div class="paragraph">
+<p>La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas
+esta capacidad nos permite identificar reducir y aislar informacion, que luego
+utilizamos para manejar los eventos que nos interesan.</p>
+</div>
+<div class="paragraph">
+<p>A la pregunta "Estare utilizando los terminos correctos a la hora de estructurar este proyecto?", vinieron horas de navegacion que me llevaron a las exelentes graficas que les comparto mas abajo.</p>
+</div>
+<div class="paragraph">
+<p>No tenia idea que existieran tantas y cada una de ellas satisface una necesidad especifica, que puede ser replicada en cualquier proyecto que lo necesite.</p>
+</div>
+<div class="paragraph">
+<p>Composite, prototype y singleton son los que mas me ha tocado observar donde he trabajado.</p>
+</div>
+<div class="paragraph">
+<p>Me encontre con este articulo muy bueno (ingles) que trata sobre el [Bridge Pattern](<a href="http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern/" class="bare">http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern/</a>)</p>
+</div>
+<div class="paragraph">
+<p>##Listado de patrones de diseno
+![Alt text](<a href="http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg" class="bare">http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg</a> "Patrones de diseno 1")</p>
+</div>
+<div class="paragraph">
+<p>![Alt text](<a href="http://41.media.tumblr.com/eca7b79dfe053640e2191de22473c4ed/tumblr_noysmqaReq1tb3anfo1_1280.jpg" class="bare">http://41.media.tumblr.com/eca7b79dfe053640e2191de22473c4ed/tumblr_noysmqaReq1tb3anfo1_1280.jpg</a> "Patrones de diseno 2")</p>
+</div>
+<div class="paragraph">
+<p>##Interaccion entre terminos de patrones de diseno
+![Alt text](<a href="http://41.media.tumblr.com/31bcfdc78d45ba49e9e5861821f71c0a/tumblr_noyspyXlpQ1tb3anfo1_1280.jpg" class="bare">http://41.media.tumblr.com/31bcfdc78d45ba49e9e5861821f71c0a/tumblr_noyspyXlpQ1tb3anfo1_1280.jpg</a> "Patrones de diseno 2")</p>
+</div>
+        </section>
+
+    
+        <section class="post-comments">
+          <div id="disqus_thread"></div>
+          <script type="text/javascript">
+          var disqus_shortname = 'elidiazgt'; // required: replace example with your forum shortname
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+          <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        </section>
+    
+    </article>
+
+</main>
+    <footer class="animated fadeIn" id="footer">
+        <section class="colophon">
+        
+        <!-- Begin MailChimp Signup Form -->
+        <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+        <div id="mc_embed_signup">
+        <form action="//elidiaz.us11.list-manage.com/subscribe/post?u=338cfd237d2d246aa1166e0e1&amp;id=5663b9d3ff" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+        	<label for="mce-EMAIL">Recibe los ultimos articulos en tu correo.</label>
+        	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Ingresa tu Correo electronico" required>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;"><input type="text" name="b_f83ef4737eb64377dc769dea2_82d69d0297" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Suscribete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+            </div>
+        </form>
+        </div>
+        
+        <!--End mc_embed_signup-->
+        
+        </section>
+        <section class="bottom">
+            <section class="attribution">
+              <section class="copyright">Copyright &copy; <span itemprop="copyrightHolder">Eli Diaz</span>. <span rel="license">All Rights Reserved</span>.</section>
+            </section>
+        </section>
+    </footer>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();      
+      </script>
+    <script src="//elidiazgt.github.io/blog/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
+    
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-37338049-1', 'auto');
+    ga('send', 'pageview');
+
+    </script>
+</body>
+</html>
