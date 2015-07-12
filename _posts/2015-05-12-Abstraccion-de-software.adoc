@@ -17,7 +17,7 @@ Me encontre con este articulo muy bueno (ingles) que trata sobre el [Bridge Patt
 
 [[img-sunset]]
 .A mountain sunset
-image::sunset.jpg[Sunset, 300, 200, link="http://www.flickr.com/photos/javh/5448336655"]
+image::http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg[Sunset, 300, 200, link="http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg"]
 
 
 ##Listado de patrones de diseno
