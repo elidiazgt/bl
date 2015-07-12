@@ -1,5 +1,5 @@
 = Encontre a Trello
-:hp-image: 
+:hp-image: https://farm3.staticflickr.com/2663/3879260297_dfc867d531_b.jpg
 :hp-tags: Articles, proyectos,organizacion,trello
 
 
