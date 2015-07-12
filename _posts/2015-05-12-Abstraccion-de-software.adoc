@@ -1,5 +1,5 @@
 = Abstraccion de software
-:hp-image: 
+:hp-image: http://photo.foter.com/photos/31/acrylic-abstract-fluid-painting.jpg
 :hp-tags: Articles,Software
 
 La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas
