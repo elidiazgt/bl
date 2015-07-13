@@ -98,12 +98,12 @@
 .box{
 	width:100%;
 	height:100%;
-	background-color:#252525;
+	background-color:#fff;
 	text-align: center;
 }
 .slider_text{
   background-color:rgba(0, 0, 0, 0.01);
-  color: white;
+  color: black;
   line-height: 270px;
   text-align: center;
   font-size: 1.5em;
