@@ -9,7 +9,8 @@
     "links": "partials/links.hbs",
     "footer": "partials/footer.hbs",
     "loop": "partials/loop.hbs",
-    "header": "partials/header.hbs"
+    "header": "partials/header.hbs",
+    "slider": "partials/slider.hbs"
   },
   "version":"1.0.0"
 }
