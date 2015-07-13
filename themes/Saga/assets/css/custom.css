@@ -1,6 +1,6 @@
 #header{
   background-color: #343434 !important;
-  
+  max-height: 60px !important;
 }
 #header a:hover{
   color: #fff !important;
