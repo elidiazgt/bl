@@ -2,9 +2,10 @@
 /* jshint browser: true */
 
 /* Glide */
-$('#Glide').glide({
-        type: 'carousel'
-    });
+
+var slider = $('#Glide').glide();
+var slider_api = slider.data('glide_api');
+		
 		
 
 var siteurl = $('#site-url').attr("href"); // Get url for blog (in case site is run under a sub-domain)
