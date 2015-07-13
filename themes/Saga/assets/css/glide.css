@@ -41,7 +41,7 @@
   padding: 18px;
   background: rgba(0, 0, 0, 0.1);
   cursor: pointer;
-  color:blue;
+  color:white;
   font-size: 1.5em;
 }
 .glide__arrow.prev {
@@ -103,8 +103,11 @@
 }
 .slider_text{
   background-color:rgba(0, 0, 0, 0.01);
-  color: black;
+  color: white;
   line-height: 270px;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 3.5em;
+}
+.slider_comment{
+font-size: 1em;	
 }
