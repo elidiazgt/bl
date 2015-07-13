@@ -21,10 +21,10 @@
 #blog-description{
   margin-left: 20px !important;
 }
-.blog-content #header{
+.post-template #header .blog-content{
   padding:0;
 }
-.blog-description{
+.post-template #header .blog-content .blog-description{
   display:block;
 }
 /* Slider images*/
