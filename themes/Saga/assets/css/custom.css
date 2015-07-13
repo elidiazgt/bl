@@ -8,7 +8,9 @@
 #site-url{
   font-size: 3rem;
 }
-#links li a{
-  display: inline-flex;
+#links li{
+  display: inline-flex !important;
+}
+#links a:hover{
   background-color: #a72c33 !important;
 }
