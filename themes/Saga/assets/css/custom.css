@@ -4,13 +4,12 @@
 }
 #header a:hover{
   color: #fff !important;
+  background-color: #a72c33 !important;
 }
 #site-url{
   font-size: 3rem;
 }
-#links li{
+.links li{
   display: inline-flex !important;
 }
-#links a:hover{
-  background-color: #a72c33 !important;
-}
+
