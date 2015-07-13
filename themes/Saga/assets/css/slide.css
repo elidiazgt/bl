@@ -107,5 +107,9 @@ input#img-1:checked ~ .nav-dots label#img-dot-1,
 input#img-2:checked ~ .nav-dots label#img-dot-2,
 input#img-3:checked ~ .nav-dots label#img-dot-3 {
 	background: rgba(0, 0, 0, 0.8);
-	margin: 0;
+}
+img#img-1,
+img#img-2,
+img#img-3{
+	margin:0;
 }
