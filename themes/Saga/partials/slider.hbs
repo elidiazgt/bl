@@ -1,39 +1,20 @@
-<ul class="slides">
-    <input type="radio" name="radio-btn" id="img-1" checked />
-    <li class="slide-container">
-		<div class="slide">
-			<img src="http://farm9.staticflickr.com/8072/8346734966_f9cd7d0941_z.jpg" />
-        </div>
-		<div class="nav">
-			<label for="img-6" class="prev">&#x2039;</label>
-			<label for="img-2" class="next">&#x203a;</label>
-		</div>
-    </li>
+<div id="Glide" class="glide">
 
-    <input type="radio" name="radio-btn" id="img-2" />
-    <li class="slide-container">
-        <div class="slide">
-          <img src="http://farm9.staticflickr.com/8504/8365873811_d32571df3d_z.jpg" />
-        </div>
-		<div class="nav">
-			<label for="img-1" class="prev">&#x2039;</label>
-			<label for="img-3" class="next">&#x203a;</label>
-		</div>
-    </li>
+			<div class="glide__arrows">
+				<span class="glide__arrow prev" data-glide-dir="<">prev</span>
+				<span class="glide__arrow next" data-glide-dir=">">next</span>
+			</div>
 
-    <input type="radio" name="radio-btn" id="img-3" />
-    <li class="slide-container">
-        <div class="slide">
-          <img src="http://farm9.staticflickr.com/8068/8250438572_d1a5917072_z.jpg" />
-        </div>
-		<div class="nav">
-			<label for="img-2" class="prev">&#x2039;</label>
-			<label for="img-4" class="next">&#x203a;</label>
-		</div>
-    </li>
-    <li class="nav-dots">
-      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
-      <label for="img-2" class="nav-dot" id="img-dot-2"></label>
-      <label for="img-3" class="nav-dot" id="img-dot-3"></label>
-    </li>
-</ul>
+			<ul class="glide__wrapper">
+				<li class="glide__slide">
+					<div class="box" style="background-color: red;"></div>
+				</li>
+				<li class="glide__slide">
+					<div class="box" style="background-color: blue;"></div>
+				</li>
+				<li class="glide__slide">
+					<div class="box" style="background-color: purple;"></div>
+				</li>
+			</ul>
+
+			<ul class="glide__bullets"></ul></div>
