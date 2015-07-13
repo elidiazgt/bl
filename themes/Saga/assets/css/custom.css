@@ -1,5 +1,5 @@
 .top-bar{
-  background-color: #343434 !important;
+  /*background-color: #343434 !important;*/
   max-height: 60px !important;
 }
 .top-bar a:hover{
@@ -7,8 +7,6 @@
   background-color: #a72c33 !important;
     padding-left: 5px;
     padding-right: 5px;
-
-  
 }
 #main-archive{
     background: #F9F9F9 !important;
