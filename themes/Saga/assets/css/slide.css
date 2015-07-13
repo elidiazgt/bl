@@ -1,8 +1,9 @@
 
 .slides {
     padding: 0;
-    width: 609px;
-    height: 420px;
+    width: 100%;
+     max-height: 350px;
+  height: 242px;
     display: block;
     margin: 0 auto;
     position: relative;
@@ -24,8 +25,9 @@
 .slide {
     top: 0;
     opacity: 0;
-    width: 609px;
-    height: 420px;
+    width: 100%;
+     max-height: 350px;
+  height: 242px;
     display: block;
     position: absolute;
 
