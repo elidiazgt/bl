@@ -93,3 +93,6 @@
 .glide--slideshow .glide__slide.active {
   z-index: 1;
 }
+.box{
+	background-color:rgba(0, 0, 0, 0.01);
+}
