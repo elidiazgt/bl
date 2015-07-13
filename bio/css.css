@@ -1,3 +1,8 @@
 html{
 font-family: "Playfair Display SC",serif;
 }
+.date{
+    font-size: 120px;
+  color: #fff;
+  font-weight: 400;
+}
