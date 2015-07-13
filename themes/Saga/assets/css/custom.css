@@ -21,6 +21,13 @@
 #blog-description{
   margin-left: 20px !important;
 }
+.blog-content #header{
+  padding:0;
+}
+.blog-description{
+  display:block;
+}
+/* Slider images*/
 #slider_box1{
   background-image :url(http://photo.foter.com/photos/23/and-my-heart-will-go-on-and-on.jpg);
 }
