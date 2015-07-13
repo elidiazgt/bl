@@ -2,7 +2,7 @@
 /* jshint browser: true */
 
 /* Glide */
-$('#Carousel').glide({
+$('#Glide').glide({
         type: 'carousel'
     });
 		
