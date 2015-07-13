@@ -8,3 +8,7 @@
 #site-url{
   font-size: 3rem;
 }
+#links li a{
+  display: inline-flex;
+  background-color: #a72c33 !important;
+}
