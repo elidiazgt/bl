@@ -5,11 +5,18 @@
 #header a:hover{
   color: #fff !important;
   background-color: #a72c33 !important;
+    padding-left: 5px;
+    padding-right: 5px;
+
+  
 }
 #site-url{
   font-size: 3rem !important;
 }
 .links li{
   display: inline-flex !important;
+  margin-left: 5px;
 }
-
+#blog-description{
+  margin-left: 20px !important;
+}
