@@ -1,8 +1,6 @@
-#header{
-  background:#444 !important;
-}
+
 .top-bar{
-  background-color: rgba(0, 0, 0, 0.6) !important;
+  background-color: #243743;
   max-height: 60px !important;
 }
 .top-bar a:hover{
@@ -30,4 +28,9 @@
 .post-template #header .blog-content .blog-description{
   display:block;
 }
-
+#footer{
+  background-color:none !important;
+}
+#main.archive{
+  background-color:white !important;
+}
