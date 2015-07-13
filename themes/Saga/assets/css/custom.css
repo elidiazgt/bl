@@ -1,3 +1,7 @@
 #header{
   background-color: #343434 !important;
+  
+}
+#header a:hover{
+  color: #fff;
 }
