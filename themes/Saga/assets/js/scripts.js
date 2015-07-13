@@ -1,6 +1,11 @@
 /* global hljs, $, console */
 /* jshint browser: true */
 
+/* Glide */
+var slider = $('#Glide').glide();
+var slider_api = slider.data('glide_api');
+		
+
 var siteurl = $('#site-url').attr("href"); // Get url for blog (in case site is run under a sub-domain)
 siteurl += "/themes/Saga";
 /******************
