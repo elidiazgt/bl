@@ -1,8 +1,8 @@
-#header{
+#top-bar{
   background-color: #343434 !important;
   max-height: 60px !important;
 }
-#header a:hover{
+#top-bar a:hover{
   color: #fff !important;
   background-color: #a72c33 !important;
     padding-left: 5px;
