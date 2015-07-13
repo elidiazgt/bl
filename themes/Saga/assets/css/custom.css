@@ -30,13 +30,4 @@
 .post-template #header .blog-content .blog-description{
   display:block;
 }
-/* Slider images*/
-#slider_box1{
-  background-image :url(http://photo.foter.com/photos/23/and-my-heart-will-go-on-and-on.jpg);
-}
-#slider_box2{
-  background-image :url(http://photo.foter.com/photos/22/determination-2.jpg);
-}
-#slider_box3{
-  background-image :url(https://farm5.staticflickr.com/4100/4854554338_0d182cc07c_b.jpg);
-}
+
