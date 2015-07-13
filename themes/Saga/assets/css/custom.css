@@ -7,7 +7,7 @@
   background-color: #a72c33 !important;
 }
 #site-url{
-  font-size: 3rem;
+  font-size: 3rem !important;
 }
 .links li{
   display: inline-flex !important;
