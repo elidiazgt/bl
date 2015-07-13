@@ -1,3 +1,7 @@
+---
+layout: page
+title: bio
+---
 Quien es Eli Diaz?
 
 <p class="message">Hola, yo soy Eli Diaz y me encanta vivir en esta generacion donde es recurrente escuchar historias de exito, protagonizadas por personas que a base de voluntad, determinacion y fe logran hacer hazañas y crear empresas que no han sido vistas antes. 
