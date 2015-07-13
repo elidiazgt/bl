@@ -30,7 +30,10 @@ li {
   padding: 20px;
   float: left;
   margin-bottom: 30px;
-  background-color: #eee;
+  
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  color: white;
 }
 
 li.left {
