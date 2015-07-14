@@ -23,6 +23,7 @@
 }
 #blog-description{
   margin-left: 20px !important;
+  line-height: 65px !important;
 }
 .post-template #header .blog-content{
   padding:0;
