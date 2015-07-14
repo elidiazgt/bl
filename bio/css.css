@@ -2,8 +2,9 @@ html{
     font-family: "Playfair Display SC",serif;
 }
 body{
-    background: url(http://i.imgur.com/i3OA2PJ.jpg) !important;
+    /*background: url(http://i.imgur.com/i3OA2PJ.jpg) !important;*/
     color:white;
+    background-color:rgb(36, 55, 67);
 }
 h1{
     font-size:3rem;
@@ -20,3 +21,4 @@ h1{
     background-color: rgb(36, 55, 67);
     color:white;
 }
+
