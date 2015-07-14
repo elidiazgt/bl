@@ -21,7 +21,7 @@
   display: inline-flex !important;
   margin-left: 5px;
 }
-#blog-description{
+.blog-description{
   margin-left: 20px !important;
   line-height: 65px !important;
 }
