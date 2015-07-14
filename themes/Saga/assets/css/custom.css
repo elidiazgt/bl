@@ -4,6 +4,9 @@ body{
 h1, h2 {
   font-family: "Playfair Display SC",serif !important;
 }
+#header{
+    margin-bottom: 10px;
+}
 #header .blog-content .blog-title, .archive-template{
   font-family: 'Cinzel Decorative' !important;
 }
