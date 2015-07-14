@@ -1,3 +1,16 @@
+.timeline_title{
+   font-size: 36px;
+  font-weight: 900;
+  color: #df464d;
+}
+.date{
+    font-size: 3rem;
+  color: #fff;
+  font-weight: 400;
+}
+
+/*timeline*/
+
 * {
   box-sizing: border-box;   
 }
