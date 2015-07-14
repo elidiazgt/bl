@@ -5,7 +5,8 @@ h1{
     font-size:3rem;
 }
 .center{
-    text-align: center
+    text-align: center;
+    margin: 25px;
 }
 .description{
     width: 50%;
