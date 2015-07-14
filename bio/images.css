@@ -1,26 +1,27 @@
 .timeline:before{
   background: rgba(0,255,255, 0.5);
 }
-#hometown{
-  background-image:url(https://farm4.staticflickr.com/3202/3020529233_b5841361cb_b.jpg);
-}
-#guatemala{
-  background-image:url(https://farm6.staticflickr.com/5556/15122145861_18c9b9a4a0_c.jpg);
-}
-#work{
-  background-image:url(https://c1.staticflickr.com/5/4064/4559242976_0216675176_b.jpg);
-}
-#startup{
-  background-image:url(https://farm7.staticflickr.com/6106/6293319822_b17360b169_b.jpg);
-}
-.timeline{
-	background-image:
-	url(https://farm4.staticflickr.com/3202/3020529233_b5841361cb_b.jpg) 0 0 repeat
-	,url(https://farm6.staticflickr.com/5556/15122145861_18c9b9a4a0_c.jpg) 0 300 repeat
-	,url(https://c1.staticflickr.com/5/4064/4559242976_0216675176_b.jpg) 0 600 repeat
-	,url(https://farm7.staticflickr.com/6106/6293319822_b17360b169_b.jpg) 0 900 repeat;
-}
+/*#hometown{*/
+/*  background-image:url(https://farm4.staticflickr.com/3202/3020529233_b5841361cb_b.jpg);*/
+/*}*/
+/*#guatemala{*/
+/*  background-image:url(https://farm6.staticflickr.com/5556/15122145861_18c9b9a4a0_c.jpg);*/
+/*}*/
+/*#work{*/
+/*  background-image:url(https://c1.staticflickr.com/5/4064/4559242976_0216675176_b.jpg);*/
+/*}*/
+/*#startup{*/
+/*  background-image:url(https://farm7.staticflickr.com/6106/6293319822_b17360b169_b.jpg);*/
+/*}*/
+/*.timeline{*/
+/*	background-image:*/
+/*	url(https://farm4.staticflickr.com/3202/3020529233_b5841361cb_b.jpg) 0 0 repeat*/
+/*	,url(https://farm6.staticflickr.com/5556/15122145861_18c9b9a4a0_c.jpg) 0 300 repeat*/
+/*	,url(https://c1.staticflickr.com/5/4064/4559242976_0216675176_b.jpg) 0 600 repeat*/
+/*	,url(https://farm7.staticflickr.com/6106/6293319822_b17360b169_b.jpg) 0 900 repeat;*/
+/*}*/
 .circular {
+	border: 3px solid white;
 	margin: 0 auto;
 	width: 150px;
 	height: 150px;
