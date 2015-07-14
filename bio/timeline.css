@@ -9,13 +9,10 @@
   color: #fff;
   font-weight: 400;
 }
-
 /*timeline*/
-
 * {
   box-sizing: border-box;   
 }
-
 .timeline ul {
   position: relative;
   overflow: hidden;
@@ -24,7 +21,6 @@
   margin: 30px auto;
   padding: 0;
 }
-
 .timeline ul:after {
   content:"";
   z-index: 1;
@@ -45,7 +41,7 @@
   float: left;
   margin-bottom: 30px;
   
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 1);
   border-radius: 5px;
   color: white;
 }
@@ -78,7 +74,7 @@
   left: -6px;
   width: 12px;
   height: 12px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 1);
   transform: rotate(45deg);
 }
 
