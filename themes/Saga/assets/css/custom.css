@@ -1,5 +1,5 @@
 #header .blog-content .blog-title, .archive-template{
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Cinzel Decorative' !important;
 }
 .top-bar{
   background-color: #243743;
