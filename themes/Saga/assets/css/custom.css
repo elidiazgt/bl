@@ -1,4 +1,6 @@
-
+#header .blog-content .blog-title, .archive-template{
+  font-family: 'Cinzel Decorative', cursive;
+}
 .top-bar{
   background-color: #243743;
   max-height: 60px !important;
