@@ -1,6 +1,8 @@
 html{
-font-family: "Playfair Display SC",serif;
-background: url(http://i.imgur.com/i3OA2PJ.jpg) !important;
+    font-family: "Playfair Display SC",serif;
+}
+body{
+    background: url(http://i.imgur.com/i3OA2PJ.jpg) !important;
 }
 h1{
     font-size:3rem;
