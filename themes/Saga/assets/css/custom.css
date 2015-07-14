@@ -1,8 +1,8 @@
 body{
-  font-family: Georgia, serif;
+  font-family: Georgia, serif !important;
 }
 h1, h2 {
-  font-family: "Playfair Display SC",serif;
+  font-family: "Playfair Display SC",serif !important;
 }
 #header .blog-content .blog-title, .archive-template{
   font-family: 'Cinzel Decorative' !important;
