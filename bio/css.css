@@ -19,3 +19,7 @@ h2{
     width: 50%;
     margin: 0 auto;
 }
+#header{
+    background-color: rgb(36, 55, 67);
+    color:white;
+}
