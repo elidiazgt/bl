@@ -1,0 +1,3 @@
+{% for bout in site.about %}
+  {{ bout.title }}
+{% endfor %}
