@@ -1,3 +1,12 @@
-= no title
+= Depuracion en el navegador
+:hp-image: https://farm3.staticflickr.com/2351/1596018210_f367327780_b.jpg
+:hp-tags: Articles,debug, browser
 
-no content
+
+Hace un tiempo encontre un video de link:http://paulirish.com[paul irish] una persona que admiro y que trabaja en el desarrollo de herramientas para el desarrollador en google especializado en front end. En este video el demostraba el uso de la consola de chrome para depurar los archivos cargados en su navegador.
+
+Con el tiempo descubri que se realizo un curso de codeschool link:http://discover-devtools.codeschool.com[Discover Devtools], donde vas aprendiendo paso a paso como sacarle provecho a esta herramienta, con el tiempo tambien salio link:https://github.com/node-inspector/node-inspector[Node Inspector] que con la ayuda de la empresa StrongLoop ahora podemos usar esa misma herramienta para depurar nuestras aplicaciones hechas en node.
+
+Cuando cambie mi navegador a chrome, sabia que habia hecho buena eleccion, pero con esta herramienta se refuerza mi admiracion por toda la gente que trabaja para hacer que este software mejore dia a dia.
+
+video::4mf_yNLlgic[youtube]
