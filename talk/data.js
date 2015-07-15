@@ -14,6 +14,11 @@ data = {
     "title": "Javascript Avanzado",
     "url": "javascript-avanzado",
     "description": "Frameworks, herramientas de depuracion y futuro del lenguaje."    
+  },
+    {
+    "title": "Javascript Version 6",
+    "url": "javascript-version-6",
+    "description": "Nuevos elementos del lenguaje."    
   }
   
 ]}
