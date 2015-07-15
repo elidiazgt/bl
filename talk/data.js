@@ -1,14 +1,19 @@
 data = {
  "link_list": [
   {
-    "title": "Javascript 101",
-    "url": "javascript-101",
-    "description": "Introduccion basica del lenguaje, su historia, sintaxis y api."    
+    "title": "Javascript Basico",
+    "url": "javascript-basico",
+    "description": "Historia del lenguaje, sintaxis y api."    
   },
   {
-    "title": "Javascript Moderno",
-    "url": "javascript-moderno",
-    "description": "Guias de estilo, flujo de trabajo y librerias populares."    
+    "title": "Javascript Intermedio",
+    "url": "javascript-intermedio",
+    "description": "Patrones de diseño, pruebas y flujo de trabajo."    
+  },
+    {
+    "title": "Javascript Avanzado",
+    "url": "javascript-avanzado",
+    "description": "Frameworks, herramientas de depuracion y futuro del lenguaje."    
   }
   
 ]}
