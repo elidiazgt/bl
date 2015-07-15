@@ -1,15 +1,14 @@
 data = {
  "link_list": [
   {
-    "title": "Javascript",
-    "url": "url",
-    "description": "Demo"    
+    "title": "Javascript 101",
+    "url": "javascript-101",
+    "description": "Introduccion basica del lenguaje, su historia, sintaxis y api."    
   },
   {
-    "title": "Javascript",
-    "url": "url",
-    "description": "Demo"    
+    "title": "Javascript Moderno",
+    "url": "javascript-moderno",
+    "description": "Guias de estilo, flujo de trabajo y librerias populares."    
   }
   
 ]}
-
