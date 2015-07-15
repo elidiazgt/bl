@@ -1,8 +1,15 @@
 ---
 title: List
 layout: list
+published: true
 ---
 
-## How about this?
+<script id="template" type="x-handlebars-template">
 
-??
+  {{#each link_list}}
+  <h2><a href="/talk/{{url}}">{{title}}</a></h2>
+  <div>{{description}}</div>
+  {{/each}}
+
+</script><div id="results"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js"></script><script src="js.js"></script>
