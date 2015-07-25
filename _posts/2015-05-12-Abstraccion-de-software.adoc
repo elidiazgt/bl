@@ -2,8 +2,7 @@
 :hp-image: http://photo.foter.com/photos/272/abstract-flowing-fluid-colours.jpg
 :hp-tags: articles,software
 
-La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas
-esta capacidad nos permite identificar reducir y aislar informacion, que luego 
+La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar informacion, que luego 
 utilizamos para manejar los eventos que nos interesan.
 
 A la pregunta "Estare utilizando los terminos correctos a la hora de estructurar este proyecto?", vinieron horas de navegacion que me llevaron a las exelentes graficas que les comparto mas abajo.
@@ -12,13 +11,23 @@ No tenia idea que existieran tantas y cada una de ellas satisface una necesidad 
 
 Composite, prototype y singleton son los que mas me ha tocado observar donde he trabajado.
 
-Me encontre con este articulo muy bueno (ingles) que trata sobre el link:http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern[Bridge Pattern]
+Me encontre con este articulo muy bueno (ingles) que trata sobre el link:http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern[Bridge Pattern].
+
+Pero a la pregunta de cual es el mejor patron, no existe el patron ideal, dependiendo el tamaño del proyecto y de la experiencia que tienes con el se podra determinar el exito que tendras, si es un proyecto que involucra varias personas es obligatorio usar uno y que queden bien claros sus alcances, no queremos que los developers se sobreescriban entre si, mas bien que todos podamos reutilizar el codigo que escribimos.
+
+
+
+
+
+
+
+
 
 ## Listado de patrones de diseno
 
 [[gallery]]
 image::http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg[Design pattern 1 rel="lightbox"]
-image::http://41.media.tumblr.com/eca7b79dfe053640e2191de22473c4ed/tumblr_noysmqaReq1tb3anfo1_1280.jpg[Design pattern 2 rel="lightbox"]
+image::http://41.media.tumblr.com/eca7b79dfe053640e191de22473c4ed/tumblr_noysmqaReq1tb3anfo1_1280.jpg[Design pattern 2 rel="lightbox"]
 
 ## Interaccion entre terminos de patrones de diseno
 
