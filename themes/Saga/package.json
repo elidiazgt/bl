@@ -2,5 +2,10 @@
   "name": "Saga",
   "version": "1.2.3",
   "description": "Tell your story! A Ghost theme designed for photoblogging",
-  "author": "Gustav Lindqvist"
+  "author": "Gustav Lindqvist",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compass": "^1.0.3",
+    "grunt-contrib-watch": "^0.6.1"
+  }
 }
