@@ -4,11 +4,8 @@ body{
 h1, h2 {
   font-family: "Playfair Display SC",serif !important;
 }
-#header{
-    margin-bottom: 10px;
-}
 #header .blog-content .blog-title, .archive-template{
-  font-family: 'Cinzel Decorative' !important;
+  color:#51DFA5;
 }
 .top-bar{
   background-color: #243743;
@@ -25,6 +22,8 @@ h1, h2 {
 }
 #site-url{
   font-size: 3rem !important;
+  color: #8480F8!important;
+  font-family: "Playfair Display SC",serif !important;
 }
 .links li{
   display: inline-flex !important;
@@ -41,8 +40,36 @@ h1, h2 {
   display:block;
 }
 #footer{
-  background-color:#1a1919 !important;
+  background-color:#C5FCF9 !important;
 }
 #main.archive{
   background-color:white !important;
+}
+#navigation {
+position: fixed !important;
+top: 0;
+width: 100%;
+color: #ffffff;
+height: 100%;
+text-align: center;
+padding-top: 15px;
+/* Adds shadow to the bottom of the bar */
+-webkit-box-shadow: 0px 0px 8px 0px #000000;
+-moz-box-shadow: 0px 0px 8px 0px #000000;
+box-shadow: 0px 0px 8px 0px #000000;
+/* Adds the transparent background */
+background-color: rgba(1, 1, 1, 0.8);
+color: rgba(1, 1, 1, 0.8);
+    z-index: 999;
+}
+#navigation a {
+font-size: 14px;
+padding-left: 15px;
+padding-right: 15px;
+color: white;
+text-decoration: none;
+}
+
+#navigation a:hover {
+color: grey;
 }

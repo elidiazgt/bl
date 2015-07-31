@@ -1,4 +1,7 @@
+#Glide{
 
+  margin-top: -9px;
+}
 .slides {
     padding: 0;
     width: 100%;
@@ -108,4 +111,3 @@ input#img-2:checked ~ .nav-dots label#img-dot-2,
 input#img-3:checked ~ .nav-dots label#img-dot-3 {
 	background: rgba(0, 0, 0, 0.8);
 }
-
