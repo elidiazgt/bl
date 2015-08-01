@@ -9,6 +9,7 @@
  
   color:#A31621;
   display: list-item;
+   font-family: "Playfair Display SC",serif;
 }
 .timeline li {
   z-index: 2;
