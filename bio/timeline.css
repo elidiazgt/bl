@@ -1,13 +1,14 @@
 .timeline_title{
    font-size: 36px;
   font-weight: 900;
-  color: #51DFA5;
+  color: #C5FCF9;
   display: list-item;
 }
 .date{
     font-size: 3rem;
-  color: #C5FCF9;
+  
   font-weight: 400;
+  color: #51DFA5;
 }
 /*timeline*/
 * {
