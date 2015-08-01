@@ -8,6 +8,7 @@ body{
 }
 h1{
     font-size:3rem;
+  color:#8480F8;
 }
 .center{
     text-align: center;
@@ -16,6 +17,7 @@ h1{
 .description{
     width: 50%;
     margin: 0 auto;
+  
 }
 #header{
     background-color: #797073 !important;
