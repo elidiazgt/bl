@@ -8,7 +8,7 @@ h1, h2 {
   color:#51DFA5;
 }
 .top-bar{
-  background-color: #243743;
+  background-color: rgba(30, 43, 51, 0.96);
   max-height: 60px !important;
 }
 .top-bar a:hover{
@@ -58,7 +58,6 @@ padding-top: 15px;
 -moz-box-shadow: 0px 0px 8px 0px #000000;
 box-shadow: 0px 0px 8px 0px #000000;
 /* Adds the transparent background */
-background-color: rgba(1, 1, 1, 0.8);
 color: rgba(1, 1, 1, 0.8);
     z-index: 999;
 }

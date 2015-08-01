@@ -14,7 +14,6 @@ body {
 #header {
     max-height: 100vh;
     overflow: hidden;
-    background-color: #333;
     background-size: cover;
     background-position: center;
     .header-background {
@@ -119,10 +118,6 @@ body {
     #header {
         height: 60px;
         position: relative;
-        background: $white;
-        .header-background {
-            background: none;
-        }
         .blog-content {
             position: absolute;
             width: 100%;
