@@ -2,13 +2,13 @@
     font-size: 3rem;
   
   font-weight: 400;
-  color: #51DFA5;
+  color: #DF425F;
 }
 .timeline_title{
    font-size: 36px;
   font-weight: 900;
  
-  color:#F7928A;
+  color:#FF5C4C;
   display: list-item;
 }
 .timeline li {
@@ -21,7 +21,7 @@
   
   background-color: rgba(0, 0, 0, 1);
   border-radius: 5px;
-   color: #C5FCF9;
+   color: #844B78;
 }
 /*timeline*/
 * {
