@@ -5,7 +5,21 @@
     <section class="blog-content">
         <a id="site-url" class="blog-title" href="{{@blog.url}}">{{@blog.title}}</a>
         <span class="blog-description">{{@blog.description}}</span>
-        {{> links}}
+
+        <nav class="links fadeIn animated">
+                <ul>
+                    <li><a href="/bio">Bio</a></li>
+                    <li><a href="/talk">Charlas</a></li>
+                    <!-- <li class="rss"><a title="<!--RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+                    <li class="github"><a title="GitHub" href="http://github.com/elidiazgt"><i class="fa fa-fw fa-github-square"></i></a></li>
+                    <li class="twitter"><a title="Twitter" href="http://twitter.com/elidiazgt"><i class="fa fa-fw fa-twitter-square"></i></a></li>
+                    <li class="instagram"><a title="Instagram" href="http://instagram.com/elidiazgt"><i class="fa fa-fw fa-instagram"></i></a></li>
+                    <li class="linkedin"><a title="LinkedIn" href="https://gt.linkedin.com/in/elidiazgt"><i class="fa fa-fw fa-linkedin-square"></i></a></li>
+
+                </ul>
+            </nav>
+
+
     </section>
     <section class="header-content">
         <h1 class="post-title animated fadeInUp">{{{title}}}</h1>
