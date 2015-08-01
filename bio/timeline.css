@@ -1,3 +1,9 @@
+.date{
+    font-size: 3rem;
+  
+  font-weight: 400;
+  color: #51DFA5;
+}
 .timeline_title{
    font-size: 36px;
   font-weight: 900;
@@ -5,11 +11,17 @@
   color:#F7928A;
   display: list-item;
 }
-.date{
-    font-size: 3rem;
+.timeline li {
+  z-index: 2;
+  position: relative;
+  width: 380px;
+  padding: 20px;
+  float: left;
+  margin-bottom: 30px;
   
-  font-weight: 400;
-  color: #51DFA5;
+  background-color: rgba(0, 0, 0, 1);
+  border-radius: 5px;
+   color: #C5FCF9;
 }
 /*timeline*/
 * {
@@ -35,18 +47,7 @@
   background-color: #eee;
 }
 
-.timeline li {
-  z-index: 2;
-  position: relative;
-  width: 380px;
-  padding: 20px;
-  float: left;
-  margin-bottom: 30px;
-  
-  background-color: rgba(0, 0, 0, 1);
-  border-radius: 5px;
-   color: #C5FCF9;
-}
+
 
 .timeline li.left {
   float: left;
