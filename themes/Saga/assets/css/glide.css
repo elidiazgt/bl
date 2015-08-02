@@ -109,13 +109,35 @@
   line-height: 270px;
   text-align: center;
   font-size: 3.5em;
+
+
 }
 .slider_comment{
-	font-size: 1em;
+  color: #fff;
+    font-size: 20px;
+    line-height: 1.5;
 }
+
+.vcard_container{
+  width: 70%;
+  margin-left: 200px;
+}
+.vcard_text{
+  color: #fff;
+    font-size: 20px;
+    line-height: 1.5;
+    width: 50%;
+    margin: 0 auto;
+    font-style: oblique;
+}
+.center{
+
+
+}
+
 /* Slider images*/
 #slider_box1{
-  background-image :url(https://farm3.staticflickr.com/2893/9421896995_5e7ca7d32c_c.jpg);
+  background-image :url(http://40.media.tumblr.com/1344f7e7f43a3cc96402aeac969d79b7/tumblr_nrj3mmS8JM1qa69foo1_1280.jpg);
 }
 #slider_box2{
   background-image :url(http://photo.foter.com/photos/22/determination-2.jpg);

@@ -346,9 +346,9 @@ body {
     -webkit-animation-delay: 1s; /* Chrome, Safari, Opera */
     animation-delay: 1s;
     .colophon {
-        padding: 50px 20px;
         max-width: 600px;
         margin: 0 auto;
+        height: 260px;
         section {
             margin: 10px 0;
             &:first-child {
@@ -364,7 +364,7 @@ body {
         background: rgb(26, 25, 25);
         .attribution {
             max-width: 600px;
-            margin: 0 auto;
+            margin: 0 0 0 10px;
             a {
                 color: darken($white, 40%);
                 &:hover {
