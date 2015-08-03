@@ -1,6 +1,6 @@
 = Depuracion en el navegador
 :hp-image: https://farm3.staticflickr.com/2351/1596018210_f367327780_b.jpg
-:hp-tags: Articles,debug, browser
+:hp-tags: development,software, browser
 
 
 Hace un tiempo encontre un video de link:http://paulirish.com[paul irish] una persona que admiro y que trabaja en el desarrollo de herramientas para el desarrollador en google especializado en front end. En este video el demostraba el uso de la consola de chrome para depurar los archivos cargados en su navegador.
