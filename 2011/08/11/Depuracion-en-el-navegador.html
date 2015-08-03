@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-    <title>Depuracion en el navegador</title>
-    <meta name="description" content="" />
-
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="shortcut icon" href="//elidiaz.com/themes/Casper/favicon.ico">
-
-    <link rel="stylesheet" type="text/css" href="//elidiaz.com/themes/Casper/assets/css/screen.css?v=1.0.0" />
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
-
+    <title>Depuracion en el navegador</title>
+    <meta name="description" content="" />
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display+SC:700' rel='stylesheet' type='text/css'>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="//elidiaz.com/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/slide.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/custom.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/glide.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/favicon.ico" rel="shortcut icon">
     <link rel="canonical" href="http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html" />
     
     <meta property="og:site_name" content="Eli Diaz" />
@@ -24,7 +25,7 @@
     <meta property="og:url" content="http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html" />
     <meta property="og:image" content="https://farm3.staticflickr.com/2351/1596018210_f367327780_b.jpg" />
     <meta property="article:published_time" content="2011-08-11T06:00:00.000Z" />
-    <meta property="article:modified_time" content="2015-08-03T18:11:18.983Z" />
+    <meta property="article:modified_time" content="2015-08-03T18:13:01.813Z" />
     <meta property="article:tag" content="Articles" />
     <meta property="article:tag" content="debug" />
     <meta property="article:tag" content="browser" />
@@ -50,7 +51,7 @@
     "headline": "Depuracion en el navegador",
     "url": "http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html",
     "datePublished": "2011-08-11T06:00:00.000Z",
-    "dateModified": "2015-08-03T18:11:18.983Z",
+    "dateModified": "2015-08-03T18:13:01.813Z",
     "image": "https://farm3.staticflickr.com/2351/1596018210_f367327780_b.jpg",
     "keywords": "Articles, debug,  browser",
     "description": "Hace un tiempo encontre un video de paul irish una persona que admiro y que trabaja en el desarrollo de herramientas para el desarrollador en google especializado en front end. En este video el demostraba el uso de la consola..."
@@ -62,29 +63,50 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
 </head>
 <body class="post-template tag-Articles tag-debug tag-browser">
+    <header id="header" class="animated fadeIn" style="background-image: url(https://farm3.staticflickr.com/2351/1596018210_f367327780_b.jpg)">
+    <div class="header-background">
+    <section class="blog-content">
+        <a id="site-url" class="blog-title" href="http://elidiaz.com">Eli Diaz</a>
+        <span class="blog-description">Full stack javascript developer, builder of useful tools to inspire, educate and empower people.</span>
 
-    
+        <nav class="links fadeIn animated">
+                <ul>
+                    <li><a href="/bio">Bio</a></li>
+                    <li><a href="/talk">Charlas</a></li>
+                    <!-- <li class="rss"><a title="<!--RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+                    <li class="github"><a title="GitHub" href="http://github.com/elidiazgt"><i class="fa fa-fw fa-github-square"></i></a></li>
+                    <li class="twitter"><a title="Twitter" href="http://twitter.com/elidiazgt"><i class="fa fa-fw fa-twitter-square"></i></a></li>
+                    <li class="instagram"><a title="Instagram" href="http://instagram.com/elidiazgt"><i class="fa fa-fw fa-instagram"></i></a></li>
+                    <li class="linkedin"><a title="LinkedIn" href="https://gt.linkedin.com/in/elidiazgt"><i class="fa fa-fw fa-linkedin-square"></i></a></li>
+
+                </ul>
+            </nav>
 
 
-<header class="main-header post-head " style="background-image: url(https://farm3.staticflickr.com/2351/1596018210_f367327780_b.jpg)">
-    <nav class="main-nav overlay clearfix">
-        <a class="back-button icon-arrow-left" href="http://elidiaz.com">Home</a>
-        <!-- <a class="subscribe-button icon-feed" href="http://elidiaz.com/rss/">Subscribe</a> -->
-    </nav>
+    </section>
+    <section class="header-content">
+        <h1 class="post-title animated fadeInUp">Depuracion en el navegador</h1>
+        <a href="#main" class="cb-vertical-down"><i class="fa fa-angle-down"></i></a>
+    </section>
+    </div>
 </header>
-
-<main class="content" role="main">
-
-    <article class="post tag-Articles tag-debug tag-browser">
-
-        <header class="post-header">
-            <h1 class="post-title">Depuracion en el navegador</h1>
-            <section class="post-meta">
-                <time class="post-date" datetime="2011-08-11">11 August 2011</time>  on <a href="http://elidiaz.com/tag/Articles">Articles</a>, <a href="http://elidiaz.com/tag/debug">debug</a>, <a href="http://elidiaz.com/tag/browser"> browser</a>
-            </section>
-        </header>
-
+<main id="main" class="content">
+    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post tag-Articles tag-debug tag-browser">
         <section class="post-content">
+          <span class="post-data">
+               <span class="author animated fadeInUp">
+                 Por: <a href=""> Eli Diaz </a>
+               </span>
+           </span> -
+            <span class="date animated fadeInUp">
+               <i class="fa fa-clock-o"></i>
+              <time class="timesince date" data-timesince="1313042400" datetime="2011-08-11T00:00" title="11 August 2011">2011-08-11 00:00:00<ago class="ago">
+              </time>
+            </span>
+            <div style="float:right">
+              <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
+          </div>
+            <br><br>
             <div class="paragraph">
 <p>Hace un tiempo encontre un video de <a href="http://paulirish.com">paul irish</a> una persona que admiro y que trabaja en el desarrollo de herramientas para el desarrollador en google especializado en front end. En este video el demostraba el uso de la consola de chrome para depurar los archivos cargados en su navegador.</p>
 </div>
@@ -99,44 +121,11 @@
 <iframe src="//www.youtube.com/embed/4mf_yNLlgic?rel=0&amp;list=" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
-        </section>
-
-        <footer class="post-footer">
-
-
-            <figure class="author-image">
-                <a class="img" href="" style="background-image: url(https://avatars.githubusercontent.com/u/11800064?v=3)"><span class="hidden">Eli Diaz's Picture</span></a>
-            </figure>
-
-            <section class="author">
-                <h4><a href="">Eli Diaz</a></h4>
-
-                    <p>Read <a href="">more posts</a> by this author.</p>
-                <div class="author-meta">
-                    <span class="author-location icon-location">Worldwide</span>
-                    <span class="author-link icon-link"><a href="http://elidiaz.com">http://elidiaz.com</a></span>
-                </div>
-            </section>
-
-
-            <section class="share">
-                <h4>Share this post</h4>
-                <a class="icon-twitter" href="https://twitter.com/share?text=Depuracion%20en%20el%20navegador&amp;url=http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                    <span class="hidden">Twitter</span>
-                </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                    <span class="hidden">Facebook</span>
-                </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                    <span class="hidden">Google+</span>
-                </a>
-            </section>
-
-        </footer>
-
+            <div style="float:right">
+              <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
+          </div>
+          <br>
+          <br>Temas: <span class="tags animated fadeInUp"><i class="fa fa-tags"></i> <a href="http://elidiaz.com/tag/Articles">Articles</a>, <a href="http://elidiaz.com/tag/debug">debug</a>, <a href="http://elidiaz.com/tag/browser"> browser</a></span>
 
         <section class="post-comments">
           <div id="disqus_thread"></div>
@@ -151,20 +140,71 @@
           </script>
           <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
           <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+             </section>
+
         </section>
-
-
+        <div class="fb-comments" data-href="http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html" data-numposts="5" data-colorscheme="light"></div>
     </article>
-
 </main>
-
-
-
-    <footer class="site-footer clearfix">
-        <section class="copyright"><a href="http://elidiaz.com">Eli Diaz</a> &copy; 2015</section>
-        <section class="poweredby">Proudly published with <a href="http://hubpress.io">HubPress</a></section>
+    <footer class="animated fadeIn" id="footer">
+        <section class="colophon">
+          <div class="column ">
+            Temas
+            <ul>
+              <li><a href="/tag/Lenguaje">Lenguaje</a> </li>
+              <li><a href="/tag/Negocios">Negocios</a></li>
+              <li><a href="/tag/Filosofia">Filosofia</a>  </li>
+              <li><a href="/tag/liderazgo">Liderazgo</a></li>
+              <li><a href="/tag/Marketing">Marketing</a>  </li>
+              <li><a href="/tag/Motivacion">Motivacion</a>  </li>
+              <li><a href="/tag/Competencia">Competencia</a></li>
+              <li><a href="/tag/Presentacion">Presentacion</a>  </li>
+              <li><a href="/tag/Emprendimiento">Emprendimiento</a></li>
+            </div>
+            <div class="column ">
+              Tecnologia
+              <ul>
+                <li><a href="/tag/dev">Dev</a></li>
+                <li><a href="/tag/data">Data</a></li>
+                <li><a href="/tag/ux-ui">Ux-Ui</a></li>
+                <li><a href="/tag/Agile">Agile</a>  </li>
+                <li><a href="/tag/Server">Server</a>  </li>
+                <li><a href="/tag/Virtual">Virtual</a>  </li>
+                <li><a href="/tag/Product">Product</a>  </li>
+                <li><a href="/tag/Browser">Browser</a> </li>
+                <li><a href="/tag/Software">Software</a></li>
+              </div>
+        
+              <div class="column ">
+              <form id="mc-embedded-subscribe-form"
+                    action="//elidiaz.us11.list-manage.com/subscribe/post?u=338cfd237d2d246aa1166e0e1&amp;id=5663b9d3ff"
+                    method="post" name="mc-embedded-subscribe-form" class="validate"
+                    target="_blank" novalidate>
+                    <input name="b_f83ef4737eb64377dc769dea2_82d69d0297"
+                             type="text" tabindex="-1" value="" style="display:none">
+        
+        
+                  <input id="mce-EMAIL"
+                        type="email" value="" name="EMAIL" class="email"
+                        placeholder="Ingresa tu Correo electronico" required>
+        
+                  <input id="mc-embedded-subscribe"
+                          type="submit" value="Suscribete a la lista de correo "
+                          name="subscribe"  class="button">
+              </form>
+            </div>
+          </section>
+        
+          <section class="bottom">
+            <section class="attribution">
+              <section class="copyright">Copyright &copy;
+                <span itemprop="copyrightHolder">Eli Diaz</span>.
+                 <span rel="license">All Rights Reserved</span>.</section>
+        
+            </section>
+        
+          </section>
     </footer>
-
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
       <script type="text/javascript">
         jQuery( document ).ready(function() {
@@ -177,9 +217,8 @@
 
         hljs.initHighlightingOnLoad();      
       </script>
-
-    <script type="text/javascript" src="//elidiaz.com/themes/Casper/assets/js/jquery.fitvids.js?v=1.0.0"></script>
-    <script type="text/javascript" src="//elidiaz.com/themes/Casper/assets/js/index.js?v=1.0.0"></script>
+    <script src="//elidiaz.com/themes/Saga/assets/js/glide.js?v=1.0.0"></script>
+    <script src="//elidiaz.com/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
 
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
