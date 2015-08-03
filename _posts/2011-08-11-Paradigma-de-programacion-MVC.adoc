@@ -3,7 +3,7 @@
 
 :hp-image: https://farm6.staticflickr.com/5093/5396678521_7923cc70b0_b.jpg
 
-:hp-tags: articles,programming,mvc
+:hp-tags: development,software
 
 
 
