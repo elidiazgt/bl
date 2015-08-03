@@ -1,5 +1,0 @@
-= Virtualizacion (desarrollo y produccion)
-:hp-image: http://40.media.tumblr.com/0bc3865ed930434390a4c8a7c7bf4700/tumblr_nozlce44nq1qa69foo1_1280.jpg
-:hp-tags: articles
-
-Durante bastante tiempo desarrolle mi codigo sobre window y sin control de versiones, hasta que tuve que compartir mi codigo con otros programadores y ahi empece a utilizar subversion, hasta ahi todo bien, pero 

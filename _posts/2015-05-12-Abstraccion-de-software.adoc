@@ -1,6 +1,6 @@
 = Abstraccion de software
 :hp-image: http://photo.foter.com/photos/272/abstract-flowing-fluid-colours.jpg
-:hp-tags: articles,software
+:hp-tags: dev,software
 
 La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar informacion, que luego 
 utilizamos para manejar los eventos que nos interesan.
