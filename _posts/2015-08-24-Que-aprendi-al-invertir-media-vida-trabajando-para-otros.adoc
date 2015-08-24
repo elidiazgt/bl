@@ -40,4 +40,4 @@ En esta empresa hubieron muchos cambios, tuvimos 3 oficinas, en dos ocaciones di
 . *La tentacion de agregar features a un producto es constante y nunca termina*
 
 == Maquetador wordpress
-Hubo un tiempo en el que ademas de mi trabajo en la startup ecomerce maquetaba para uno de mis maestros del curso online esto lo hacia porque su oficina quedaba cerca de mi universidad y el me dio la oportunidad de ayudarlo un par de horas 
+Hubo un tiempo en el que ademas de mi trabajo en la startup ecomerce maquetaba para uno de mis maestros del curso online esto lo hacia porque su oficina quedaba cerca de mi universidad y el me dio la oportunidad de ayudarlo un par de horas. Los proyectos de programacion aqui se tercerizaban y estaban mas enfocados en la generacion de contenido y creacion de comunidades alrededor de temas diversos
