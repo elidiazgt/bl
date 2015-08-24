@@ -8,17 +8,35 @@ Photo: Alex E. Proimos
 
 He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo aprendido.
 
-Empece trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy voy a plazmar las enseñanzas puntuales que he acumulado en el area de tecnologia, que es en donde mas experiencia tengo.
+Empece trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy voy a plazmar las enseñanzas puntuales que he acumulado en el area de tecnologia, que es en donde mas experiencia tengo, mi primer proyecto fue una link:http://mush.5u.com[revista escolar juvenil] pero eso no cuenta como trabajo porque nadie me pagaba por ella. 
 
 
 == Mi primer empleo: Dar clases de html y css sobre Dreamweaver
 
-En esa epoca tuve pocos alumnos, era un cybercafe en el que se daban clases de computacion y en donde se me permitio compartir lo poco que conocia, mis alumnos llegaban 1 hora todas las tardes, explicar el porque tomaba mas trabajo hacer un documento en word vs html, enseñarle a personas que al mismo tiemo estaban aprendiendo computacion era algo dificil, se necesitaba paciencia,cuesta explicar y explicar hasta que se entienda, es un reto poder comunicar sin quedarte sin aliento, *aprendi que siempre hay personas queriendo aprender* y que cambiarle la mentalidad a las personas sobre lo tedioso que puede resultar como funciona el internet es algo que no solo como maestro tocar hacer, *aprendi que comunicarse de manera simple es la mejor herramienta* y aun con esfuerzo hay veces en el que va a ser bastante dificil darse a entender.
+Era un cybercafe en el que se daban clases de computacion y en donde yo vendia espacios para un directorio digital, ahi me permitieron compartir lo poco que conocia de la web, mis alumnos llegaban todas las tardes y se necesitaba paciencia, cuesta explicarle a las personas lo tedioso que puede resultar como funciona el internet.
+
+Aprendi:
+
+. *Que siempre hay personas queriendo aprender*
+. *Que comunicarse de manera simple es la mejor herramienta*
+. 
 
 
 
 == Arreglar tragamonedas en un casino
-No dure mucho tiempo en ese lugar, en ese tiempo todavia era permitido fumar en lugares cerrados yo venia de provincia y para mi todo era complicado, la parte tecnologica era darles mantenimiento a las maquinas tragamonedas y arreglarlas en lo que pudiera si dejaban de funcionar si en caso no podia, llamar al tecnico externo. *Aqui aprendi que hay un rol de mantenimiento para cada equipo* yo siempre estuve acostumbrado a arreglar mi propia maquina a que si se descomponia batallar horas en internet para encontrar solucion y ser yo el que tenia la tarea de solventar ese inconveniente. *Tambien aprendi que hay personas muy independientes que no les importara nada mas que el dinero y mientras mas facil conseguirlo mejor.*
+No dure mucho tiempo en ese lugar, en ese tiempo todavia era permitido fumar en lugares cerrados yo venia de provincia y para mi todo era complicado, la parte tecnologica era darles mantenimiento a las maquinas tragamonedas y arreglarlas en lo que pudiera si dejaban de funcionar si en caso no podia, llamar al tecnico externo. 
+
+. *Aqui aprendi que hay un rol de mantenimiento para cada equipo, e invertir tiempo en ello te distancia de tu verdadero trabajo*
+. *Tambien aprendi que hay personas muy independientes que no les importara nada mas que el dinero y mientras mas facil conseguirlo mejor.*
 
 == Startup Ecomerce
-En esta empresa comence trabajando con el sueldo minimo de mi pais, porque yo lo decidi, estaba necesitado de un empleo y pense que pidiendo eso estaria me seleccionarian, ademas era de medio tiempo lo cual me permitia estudiar y medio pagar la renta. En este lugar me dieron la oportunidad de aprender, pase bastante tiempo sin ser productivo porque estaba asimilando lo que aveces me enseñaban y la mayor parte del tiempo era autodidacta, con animos de aprender y enfocarme en el proyecto en el que estaba involucrado decidi quedarme a dormir en el trabajo algunos dias, luego las oficinas fueron trasladadas 
+En esta empresa comence trabajando con el sueldo minimo de mi pais, porque yo lo decidi, estaba necesitado de un empleo y pense que pidiendo eso me seleccionarian, ademas era de medio tiempo lo cual me permitia estudiar y medio pagar la renta. En este lugar me dieron la oportunidad de aprender, pase bastante tiempo sin ser productivo porque estaba asimilando y la mayor parte del tiempo era autodidacta.
+
+En esta empresa hubieron muchos cambios, tuvimos 3 oficinas, en dos ocaciones hubieron cambios de jefe de proyecto, luego del rumbo del projecto en si y tambien de la tecnologia que se usaba fueron 2 años que recuerdo con nostalgia porque tuve 2 ingenieros muy buenos que guiaron mi camino de lo que hoy se.
+
+Aprendi que
+
+. *Definir el camino de un projecto y ademas apegarse a el es una de las cosas mas dificiles de hacer*
+
+. *El costo de hacer cambios en el camino es muy grande*
+. *La tentacion de agregar features a un producto es constante y nunca termina*
