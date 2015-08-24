@@ -8,9 +8,16 @@ Photo: Alex E. Proimos
 
 He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo aprendido.
 
-Empece trabajando a los 15 años, ya poco falta para que cumpla 30 lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y nada se pierde, hoy voy a plazmar las enseñanzas puntuales que he acumulado estos años enfocado principalmente a empresas de tecnologia, que es en donde mas experiencia tengo.
+Empece trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy voy a plazmar las enseñanzas puntuales que he acumulado en el area de tecnologia, que es en donde mas experiencia tengo.
 
-Al ser de un pais del tercer mundo tener acceso a una computadora mientras crecia no era facil, la mayoria de los que tenian era por sus padres o hermanos mayores osea que tenian usos especificos para otras personas, yo tuve el privilegio de comprar mi primera computadora mitad ahorros y mitad ayuda de mi abuelo, eso me llevo a jugar con la computadora mucho tiempo, llegando a aprender a maquetar paginas web, con esos conocimientos llegue a mi primer empleo: 
 
-Dar clases de html y css sobre Dreamweaver
-En esa epoca tuve 5 alumnos, ellos llegaban 1 hora todas las tardes, explicar la diferencia entre usar word y html fue un reto, el porque tomaba mas tiempo hacer lo en un documento  y lgo que me ha costado siempre es poder comunicarme sin quedarme sin aliento, explicar y explicar hasta que alguien entienda es cansado, 
+== Mi primer empleo: Dar clases de html y css sobre Dreamweaver
+
+En esa epoca tuve pocos alumnos, era un cybercafe en el que se daban clases de computacion y en donde se me permitio compartir lo poco que conocia, mis alumnos llegaban 1 hora todas las tardes, explicar el porque tomaba mas trabajo hacer un documento en word vs html, enseñarle a personas que al mismo tiemo estaban aprendiendo computacion era algo dificil, se necesitaba paciencia,cuesta explicar y explicar hasta que se entienda, es un reto poder comunicar sin quedarte sin aliento, *aprendi que siempre hay personas queriendo aprender* y que cambiarle la mentalidad a las personas sobre lo tedioso que puede resultar como funciona el internet es algo que no solo como maestro tocar hacer, *aprendi que comunicarse de manera simple es la mejor herramienta* y aun con esfuerzo hay veces en el que va a ser bastante dificil darse a entender.
+
+
+
+== Arreglar tragamonedas en un casino
+No dure mucho tiempo en ese lugar, en ese tiempo todavia era permitido fumar en lugares cerrados yo venia de provincia y para mi todo era complicado, la parte tecnologica era darles mantenimiento a las maquinas tragamonedas y arreglarlas en lo que pudiera si dejaban de funcionar si en caso no podia, llamar al tecnico externo. *Aqui aprendi que hay un rol de mantenimiento para cada equipo* yo siempre estuve acostumbrado a arreglar mi propia maquina a que si se descomponia batallar horas en internet para encontrar solucion y ser yo el que tenia la tarea de solventar ese inconveniente. *Tambien aprendi que hay personas muy independientes que no les importara nada mas que el dinero y mientras mas facil conseguirlo mejor.*
+
+== 
