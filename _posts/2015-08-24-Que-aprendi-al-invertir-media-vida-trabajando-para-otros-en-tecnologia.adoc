@@ -1,0 +1,58 @@
+= Que aprendi al invertir media vida trabajando para otros en tecnologia
+:hp-image: http://photo.foter.com/photos/44/office-politics-a-rise-to-the-top-2.jpg
+:hp-tags: articles
+
+
+Photo: Alex E. Proimos
+
+
+He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo aprendido.
+
+Empece trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy voy a plazmar las enseñanzas puntuales que he acumulado en el area de tecnologia, que es en donde mas experiencia tengo, mi primer proyecto fue una link:http://mush.5u.com[revista escolar juvenil] que realize durante un curso online de donde aprendi lo basico de la web, pero voy a comenzar por el primero en el que me pagaron. 
+
+
+== Mi primer empleo: Dar clases de html y css sobre Dreamweaver
+
+Era un cybercafe en el que se daban clases de computacion y en donde yo vendia espacios para un directorio digital, ahi me permitieron compartir lo poco que conocia de la web, mis alumnos llegaban todas las tardes y se necesitaba paciencia, cuesta explicarle a las personas lo tedioso que puede resultar como funciona el internet.
+
+. *Aprendi que siempre hay personas queriendo aprender*
+. *Aprendi que comunicarse de manera simple es la mejor herramienta*
+. *Aprendi que vender publicidad en internet puede ser duro si hay poca penetracion de tu producto*
+
+
+
+== Arreglar tragamonedas en un casino
+No dure mucho tiempo en ese lugar, el trabajo era en el hotel mas lujoso que conosco y en ese tiempo todavia era permitido fumar en lugares cerrados yo venia de provincia y eso para mi todo era incomodo, la parte tecnologica era darles mantenimiento a las maquinas tragamonedas y arreglarlas en lo que pudiera si dejaban de funcionar si en caso no podia, llamar al tecnico externo. 
+
+. *Aprendi que hay un rol de mantenimiento para cada equipo, e invertir tiempo en ello te distancia de tu verdadero trabajo*
+. *Aprendi que hay personas muy independientes que no les importara nada mas que el dinero y mientras mas facil conseguirlo mejor.*
+. *Aprendi que el dinero llama mas dinero, las personas tienden a invertir bastante dinero en lugares opulentos*
+
+== Desarrollador junior en una Startup Ecomerce
+En esta empresa comence trabajando con el sueldo minimo de mi pais, porque yo lo decidi, estaba necesitado de un empleo y pense que pidiendo eso me seleccionarian, ademas era de medio tiempo lo cual me permitia estudiar y medio pagar la renta. En este lugar me dieron la oportunidad de aprender, pase bastante tiempo sin ser productivo porque estaba asimilando y la mayor parte del tiempo era autodidacta.
+
+En esta empresa hubieron muchos cambios, tuvimos 3 oficinas, en dos ocaciones diferente jefe de proyecto, luego el cambio el rumbo del projecto y tambien sobre la tecnologia que se usaba,fueron 2 años que recuerdo con nostalgia porque tuve 2 ingenieros muy buenos que guiaron mi camino de lo que hoy se.
+
+
+. *Definir el camino de un projecto y ademas apegarse a el es una de las cosas mas dificiles de hacer*
+
+. *El costo de hacer cambios en el camino es muy grande*
+. *La tentacion de agregar features a un producto es constante y nunca termina*
+
+== Maquetador wordpress
+Hubo un tiempo en el que ademas de mi trabajo en la startup ecomerce maquetaba para uno de mis maestros del curso online esto lo hacia porque su oficina quedaba cerca de mi universidad y el me dio la oportunidad de ayudarlo un par de horas. Los proyectos de programacion aqui se tercerizaban y estaban mas enfocados en la generacion de contenido y creacion de comunidades.
+
+En su momento no mucho entendi el giro de los proyectos y en su lugar decidi involucrarme tiempo completo a la startup ecomerce porque ahi si me estaban enseñando lo que a mi me interesaba.
+
+. *Aprendi que se puede tener dos trabajos y estudiar en la universidad al mismo tiempo sacando buenas notas, pero por un periodo de tiempo corto(3 meses) ya que te consume o "quema"*
+. *Aprendi que los clientes no distinguen muchas cosas que se da por echo que se entienden al hablar de web*
+. *Aprendi que la impresion que dejas en las personas dura mucho mas tiempo del que crees*
+
+== Mi primera agencia digital
+Esta epoca la comece negociando mi sueldo con una persona con la que ya habia trabajado y ella sabia de mis habilidades asi que pude pedir mas :) basicamente me contrataron para desarrollar un proyecto grande en .net, vi el nacimiento y crecimiento de esta agencia que comenzo en una casa, nos trasladamos a una oficina en el area financiera de la ciudad, se compro equipo nuevo, se contrataron varias personas nuevas, todo iba muy bien y en ese tiempo fui requerido para trabajar in situ en las oficinas del cliente, estuve un tiempo asi hasta que fui cambiado de proyecto y ahi las cosas ya no iban muy bien, algunos clientes no habian cumplido con sus pagos y en poco tiempo no habia proyectos para mi, la partida fue triste para mi y me regrese a mi ciudad de origen.
+
+. *Aprendi que el crecimiento de una empresa debe ser secuencial, progresiva y con bastante presupuesto de respaldo*
+. *Que se debe de tolerar poco a los clientes respecto a los pagos pendientes y no seguir trabajando en la espera de que el cliente se digne a continuar pagando*
+. *Que es posible trabajar a distancia, pero que requiere de mucha comunicacion y empeño de parte de las partes involucradas*
+
+== 
