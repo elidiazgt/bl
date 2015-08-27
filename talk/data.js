@@ -19,6 +19,12 @@ data = {
     "title": "Javascript Version 6",
     "url": "javascript-version-6",
     "description": "Nuevos elementos del lenguaje."    
+  },
+   
+    {
+    "title": "Git Basico",
+    "url": "git-basico",
+    "description": "Uso de git basico."    
   }
   
 ]}
