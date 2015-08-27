@@ -62,7 +62,13 @@ Las compras eran carisimas porque siempre habia preferencia sobre el soporte y l
 
 Aqui fue donde aprendi el valor y la utilidad de la tecnologia que desarrollaba, muchas personas dependian de ella y si se cai el sitio significaba perdida de dinero, clientes molestos, auditoria, etc.
 
-. *Aprendi que cuanto mas dependas de la tecnologia, es indispensable pagar soporte, no importa si usas opensource o comercial, tendra un costo alto*
-. *Aprendi que tus desciciones influencian el trabajo de muchas personas y debes de crear un sistema en el que tu confias*
-. **
+. *Aprendi que cuanto mas dependas de la tecnologia, es indispensable pagar soporte, no importa si usas opensource o comercial, tendra un alto costo*
+. *Aprendi que tus desiciones influencian el trabajo de las personas y debes de crear un sistema en el que tu confias, para que las personas crean en el*
+. *El sistema estara listo, hasta que solucione el problema por el que fue concebido*
+
+== Lider de proyecto a distancia
+Obtuve la oportunidad de liderar un proyecto que fue comenzado por otra persona se pudo contratar estudiantes universitarios de ultimo año familiarizados con la tecnologia, pero fue un fracaso el proyecto ya que estaba atrasado, los desarrolladores no lograban familiarizarse con el codigo y la comunicacion era escasa (2 o 3 veces al dia) ya que yo continuaba con mi empleo regular y en teoria solo tenia que supervisar el desarrollo del mismo.
+
+.*Aprendi que credenciales no superan experiencia*
+
 
