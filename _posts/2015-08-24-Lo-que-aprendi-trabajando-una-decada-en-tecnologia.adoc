@@ -3,7 +3,7 @@
 :hp-tags: articles
 
 
-Photo: Alex E. Proimos
+Fotografia por Alex E. Proimos
 
 
 He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo aprendido.
@@ -32,7 +32,6 @@ En esta empresa hubieron muchos cambios, tuvimos 3 oficinas, en dos ocaciones di
 
 
 . *Definir el camino de un projecto y ademas apegarse a el es una de las cosas mas dificiles de hacer*
-
 . *El costo de hacer cambios en el camino es muy grande*
 . *La tentacion de agregar features a un producto es constante y nunca termina*
 
