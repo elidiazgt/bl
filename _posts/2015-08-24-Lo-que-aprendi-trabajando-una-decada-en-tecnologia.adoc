@@ -8,7 +8,7 @@ Fotografia por Alex E. Proimos
 
 He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo aprendido.
 
-Empece trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy solo voy a plazmar las enseñanzas puntuales que he acumulado en el area de tecnologia, que es en donde mas experiencia tengo: mi primer proyecto fue una link:http://mush.5u.com[revista escolar juvenil] que realize durante un curso online de donde aprendi lo basico de la web, pero mejor comenzemos por el primero en el que me pagaron. 
+Empecé trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy solo voy a plasmar las enseñanzas puntuales que he acumulado en el área de tecnología, que es en donde mas experiencia tengo: mi primer proyecto fue una link:http://mush.5u.com[revista escolar juvenil] que realicé durante un curso online de donde aprendí lo básico de la web, pero mejor comencemos por el primero en el que me pagaron. 
 
 
 == Mi primer empleo: Dar clases de html y css sobre Dreamweaver
