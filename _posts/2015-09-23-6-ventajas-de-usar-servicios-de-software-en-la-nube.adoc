@@ -1,8 +1,8 @@
 = 6 ventajas de usar servicios de software en la nube
-:hp-image: https://farm2.staticflickr.com/1390/848650073_191ddfe2f4_b.jpg
+:hp-image: https://farm8.staticflickr.com/7249/7517194634_9b9414f629_b.jpg
 :hp-tag: negocios,server,virtual,product,software,development
 
-Fotografia: ShutterSparks 
+Fotografia: theofilos 
 
 Se ha quedado atrás cierto software de escritorio, que necesita de *personal calificado* para su instalación y mantenimiento, asi como los *altos costos* que significan tener un servidor en sitio.
 
