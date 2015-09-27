@@ -56,6 +56,9 @@
           {{#if @blog.disqus}}
 
         <section class="post-comments">
+        
+        <div class="fb-comments" data-href="{{@blog.url}}{{url}}" data-numposts="5" data-colorscheme="light"></div>
+        
           <div id="disqus_thread"></div>
           <script type="text/javascript">
           var disqus_shortname = '{{@blog.disqus}}'; // required: replace example with your forum shortname
@@ -72,7 +75,7 @@
 
         {{/if}}
         </section>
-        <div class="fb-comments" data-href="{{@blog.url}}{{url}}" data-numposts="5" data-colorscheme="light"></div>
+        
     </article>
 </main>
 
