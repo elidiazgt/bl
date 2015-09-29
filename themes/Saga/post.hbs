@@ -48,9 +48,7 @@
           </div>
             <br><br>
             {{content}}
-            <div style="float:right">
-              <div class="fb-like" data-href="{{@blog.url}} data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
-          </div>
+           
           <br>
           <br>Temas: {{#if tags}}<span class="tags animated fadeInUp"><i class="fa fa-tags"></i> {{tags prefix="" separator=", "}}</span>{{/if}}
           {{#if @blog.disqus}}
