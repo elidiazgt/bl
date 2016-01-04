@@ -11,12 +11,12 @@
         "footer":"partials/footer.hbs",
            "pagination":"partials/pagination.hbs",
         
-             "list":"partials/post/list.hbs",
+             "post/list":"partials/post/list.hbs",
                
-                "config":"partials/custom/config.hbs",
-                   "featured":"partials/custom/featured.hbs",
+                "custom/config":"partials/custom/config.hbs",
+                   "custom/featured":"partials/custom/featured.hbs",
       "custom/meta":"partials/custom/meta.hbs",
-         "navigation":"partials/custom/navigation.hbs"
+         "custom/navigation":"partials/custom/navigation.hbs"
        
         
     
