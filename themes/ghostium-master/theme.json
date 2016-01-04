@@ -4,7 +4,21 @@
     "index": "index.hbs",
     "page": "page.hbs",
     "post": "post.hbs",
-    "tag": "tag.hbs"
+    "tag": "tag.hbs",
+
+"cover":"partials/cover.hbs",
+      "drawer":"partials/drawer.hbs",
+        "footer":"partials/footer.hbs",
+           "pagination":"partials/pagination.hbs",
+        
+             "list":"partials/post/list.hbs",
+               
+                "config":"partials/custom/config.hbs",
+                   "featured":"partials/custom/featured.hbs",
+      "meta":"partials/custom/meta.hbs",
+         "navigation":"partials/custom/navigation.hbs"
+       
+        
     
   },
   "version":"1.0.0"
