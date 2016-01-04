@@ -15,7 +15,7 @@
                
                 "config":"partials/custom/config.hbs",
                    "featured":"partials/custom/featured.hbs",
-      "meta":"partials/custom/meta.hbs",
+      "custom/meta":"partials/custom/meta.hbs",
          "navigation":"partials/custom/navigation.hbs"
        
         
