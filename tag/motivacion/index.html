@@ -1,264 +1,180 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
+<html>
+<head>
     <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>Eli Diaz</title>
-
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-    <meta name="description" content="Full stack javascript developer, builder of useful tools to inspire, educate and empower people.">
-
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Eli Diaz">
-    <meta name="twitter:description" content="Full stack javascript developer, builder of useful tools to inspire, educate and empower people.">
-
-    <meta property="og:url" content="http://elidiaz.com">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="Eli Diaz">  
-    <meta property="og:description" content="Full stack javascript developer, builder of useful tools to inspire, educate and empower people.">
-    <meta property="og:site_name" content="Eli Diaz">
-
-    <meta itemprop="name" content="Eli Diaz">
-    <meta itemprop="description" content="Full stack javascript developer, builder of useful tools to inspire, educate and empower people.">
-
-    <meta name="twitter:site" content="@yourblogtwitter">
-    
-    <meta name="twitter:creator" content="@yourtwitter">
-    
-    <meta property="article:author" content="https://www.facebook.com/yourprofile">
-    
-    <meta property="article:publisher" content="https://www.facebook.com/yourblogprofile">
-    
-    <meta property="fb:admins" content="">
-    
-    <meta name="google-site-verification" content="">
-    
-    <link rel="author" href="https://plus.google.com/yourprofile">
-    
-    <meta name="theme-color" content="">
-
-    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-    <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon">
-
-    <link href="//fonts.googleapis.com/" rel="dns-prefetch">
-    <link href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic|Open+Sans:700,400&subset=latin,latin-ext" rel="stylesheet">
-
-    <link rel="stylesheet" href="//elidiaz.com/themes/ghostium-master/assets/css/main.min.css?v=1.0.0"/>
-
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script type="text/javascript">
-      var ga_ua = 'UA-XXXXX-X';
-      
-      var disqus_shortname = 'example';
-      
-      var enable_pjax = true;
-
-      // Pace Options
-      // ==============
-      window.paceOptions = {
-        catchupTime: 100,
-        minTime: 100,
-        elements: false,
-        restartOnRequestAfter: 500,
-        startOnPageLoad: false
-      }
-
-      // Ghostium Globals
-      // ==============
-      window.GHOSTIUM = {};
-      GHOSTIUM.haveGA = typeof ga_ua !== 'undefined' && ga_ua !== 'UA-XXXXX-X';
-      GHOSTIUM.haveDisqus = typeof disqus_shortname !== 'undefined' && disqus_shortname !== 'example';
-      GHOSTIUM.enablePjax = typeof enable_pjax !== 'undefined' ? enable_pjax : true;
-    </script>
-
-    <script src="//elidiaz.com/themes/ghostium-master/assets/js/head-scripts.min.js?v=1.0.0"></script>
-
+    <meta name="description" content="Full stack javascript developer, builder of useful tools to inspire, educate and empower people." />
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display+SC:700' rel='stylesheet' type='text/css'>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="//elidiaz.com/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/slide.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/custom.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/glide.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//elidiaz.com/themes/Saga/favicon.ico" rel="shortcut icon">
     <link rel="canonical" href="http://elidiaz.com" />
     <meta name="generator" content="Ghost ?" />
     <link rel="alternate" type="application/rss+xml" title="Eli Diaz" href="http://elidiaz.com/rss" />
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
-  </head>
-  <body class="tag-template tag-motivacion home-template">
-
-    <button data-action="open-drawer" id="drawer-button" class="drawer-button"><i class="fa fa-bars"></i></button>
-    <nav tabindex="-1" class="drawer">
-      <div class="drawer-container">
-        <!--.drawer-search(role="search")-->
-        <ul role="navigation" class="drawer-list">
-          
-          <li class="drawer-list-item">
-            <a href="/" data-pjax>
-              <i class="fa fa-home"></i>Home
-            </a>
-          </li>
-          <li class="drawer-list-item">
-            <a href="http://elidiaz.com/rss/">
-              <i class="fa fa-rss"></i>Subscribe to Feed
-            </a>
-          </li>
-          <li class="drawer-list-divider"></li>
-          <li class="drawer-list-item drawer-list-title">
-            Follow me
-          </li>
-          <li class="drawer-list-item">
-            <a href="http://twitter.com" target="_blank">
-              <i class="fa fa-twitter"></i>Twitter
-            </a>
-          </li>
-          <li class="drawer-list-item">
-            <a href="http://github.com" target="_blank">
-              <i class="fa fa-github"></i>Github
-            </a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-    <div class="drawer-overlay"></div>
-    <main id="container" role="main" class="container">
-      <div class="surface">
-        <div class="surface-container">
-          <div data-pjax-container class="content">
-            
-<aside role="banner" class="cover">
-  <div data-load-image="http://40.media.tumblr.com/0bc3865ed930434390a4c8a7c7bf4700/tumblr_nozlce44nq1qa69foo1_1280.jpg" class="cover-image"></div>
-  <div class="cover-container">
-      <a href="http://elidiaz.com" class="cover-logo" data-pjax>
-        <img src="https://avatars1.githubusercontent.com/u/11800064?v=3&amp;s=460" alt="Blog Logo">
-      </a>
-    <h1 class="cover-title">Eli Diaz</h1>
-    <p class="cover-description">Full stack javascript developer, builder of useful tools to inspire, educate and empower people.</p>
-  </div>
-</aside>
-<section class="wrapper" tabindex="0">
-  <div class="wrapper-container">
-    <header>
-      <p><h2>Posts tagged with <i>motivacion</i></h2></p>
-      <hr>
-    </header>
-
-    <section class="post-list">
-        <article itemscope itemtype="http://schema.org/BlogPosting"
-          role="article" class="post-item post tag-filosofia tag-motivacion tag-competencia">
-          <header class="post-item-header">
-            <h2 itemprop="name" class="post-item-title">
-              <a href="http://elidiaz.com/2015/09/28/5-areas-clave-para-aumentar-tu-productividad-hoy.html" itemprop="url" data-pjax title="5 areas clave para aumentar tu productividad hoy">
-                5 areas clave para aumentar tu productividad hoy
-              </a>
-            </h2>
-          </header>
-          <section itemprop="description" class="post-item-excerpt">
-            <p>El camino para lograr la eficiencia del tiempo es adaptarse sobre la marcha a los imprevistos, enfocarnos en nuestros objetivos y no tomarnos ningun dia de descanzo, trabajar en nuestro desempeño como si fueramos un&hellip;</p>
-          </section>
-          <footer class="post-item-footer">
-            <ul class="post-item-meta-list">
-              <li class="post-item-meta-item">
-                <time datetime="2015-09-28" itemprop="datePublished">
-                  2015-09-28 00:00:00<ago class="ago">
-                </time>
-              </li>
-                <li class="post-item-meta-item">
-                    <a itemprop="articleSection" href="" data-pjax>filosofia</a>, 
-                    <a itemprop="keywords" href="" data-pjax>motivacion</a>, 
-                    <a itemprop="keywords" href="" data-pjax>competencia</a> 
-                </li>
-              <li class="post-item-meta-item">
-                <a href="http://elidiaz.com/2015/09/28/5-areas-clave-para-aumentar-tu-productividad-hoy.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
-              </li>
+</head>
+<body class="tag-template tag-motivacion home-template">
+    <header id="header" class="animated fadeIn">
+    <div class="header-background">
+    <section class="blog-content">
+        <a id="site-url" class="blog-title" href="http://elidiaz.com">Eli Diaz</a>
+        <span class="blog-description">Full stack javascript developer, builder of useful tools to inspire, educate and empower people.</span>
+        <nav class="links fadeIn animated">
+            <ul>
+                <li><a href='/bio'>Bio</a></li>
+                <li><a href='/talk'>Charlas</a></li>
+                <!-- <li class="rss"><a title="<!--RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+                <li class="github"><a title="GitHub" href="http://github.com/elidiazgt"><i class="fa fa-fw fa-github-square"></i></a></li>
+                <li class="twitter"><a title="Twitter" href="http://twitter.com/elidiazgt"><i class="fa fa-fw fa-twitter-square"></i></a></li>
+                <li class="instagram"><a title="Instagram" href="http://instagram.com/elidiazgt"><i class="fa fa-fw fa-instagram"></i></a></li>
+                <li class="linkedin"><a title="LinkedIn" href="https://gt.linkedin.com/in/elidiazgt"><i class="fa fa-fw fa-linkedin-square"></i></a></li>
+        
             </ul>
-          </footer>
-        </article>
-        <article itemscope itemtype="http://schema.org/BlogPosting"
-          role="article" class="post-item post tag-liderazgo tag-motivacion tag-competencia tag-negocios tag-software tag-development">
-          <header class="post-item-header">
-            <h2 itemprop="name" class="post-item-title">
-              <a href="http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html" itemprop="url" data-pjax title="Lo que Aprendí trabajando una decada en tecnologia">
-                Lo que Aprendí trabajando una decada en tecnologia
-              </a>
-            </h2>
-          </header>
-          <section itemprop="description" class="post-item-excerpt">
-            <p>Fotografia por Alex E. Proimos He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo Aprendído. Empecé trabajando a los 15 años en campos muy&hellip;</p>
-          </section>
-          <footer class="post-item-footer">
-            <ul class="post-item-meta-list">
-              <li class="post-item-meta-item">
-                <time datetime="2015-08-24" itemprop="datePublished">
-                  2015-08-24 00:00:00<ago class="ago">
-                </time>
-              </li>
-                <li class="post-item-meta-item">
-                    <a itemprop="articleSection" href="" data-pjax>liderazgo</a>, 
-                    <a itemprop="keywords" href="" data-pjax>motivacion</a>, 
-                    <a itemprop="keywords" href="" data-pjax>competencia</a>, 
-                    <a itemprop="keywords" href="" data-pjax>negocios</a>, 
-                    <a itemprop="keywords" href="" data-pjax>software</a>, 
-                    <a itemprop="keywords" href="" data-pjax>development</a> 
-                </li>
-              <li class="post-item-meta-item">
-                <a href="http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
-              </li>
-            </ul>
-          </footer>
-        </article>
-        <article itemscope itemtype="http://schema.org/BlogPosting"
-          role="article" class="post-item post tag-agile tag-scrum tag-competencia tag-motivacion">
-          <header class="post-item-header">
-            <h2 itemprop="name" class="post-item-title">
-              <a href="http://elidiaz.com/2012/02/26/Scrum.html" itemprop="url" data-pjax title="Scrum">
-                Scrum
-              </a>
-            </h2>
-          </header>
-          <section itemprop="description" class="post-item-excerpt">
-            <p>Scrum es un conjunto de buenas practicas para colaborar en equipo y este se basa en comunicación, no solamente hablar sino se trata de una comunicación organica dentro de un equipo, es por eso la&hellip;</p>
-          </section>
-          <footer class="post-item-footer">
-            <ul class="post-item-meta-list">
-              <li class="post-item-meta-item">
-                <time datetime="2012-02-26" itemprop="datePublished">
-                  2012-02-26 00:00:00<ago class="ago">
-                </time>
-              </li>
-                <li class="post-item-meta-item">
-                    <a itemprop="articleSection" href="" data-pjax>agile</a>, 
-                    <a itemprop="keywords" href="" data-pjax>scrum</a>, 
-                    <a itemprop="keywords" href="" data-pjax>competencia</a>, 
-                    <a itemprop="keywords" href="" data-pjax>motivacion</a> 
-                </li>
-              <li class="post-item-meta-item">
-                <a href="http://elidiaz.com/2012/02/26/Scrum.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
-              </li>
-            </ul>
-          </footer>
-        </article>
+        </nav>
     </section>
+    <section class="header-content">
+        <h1 class="tag-title animated fadeInUp">motivacion</h1>
+        <span class="tag-data"><span class="tag-description animated fadeInUp"></span></span>
+    </section>
+    </div>
+</header>
+<main id="main" class="archive">
+    <section id="feed" class="feed">
+        <article class="post tag-filosofia tag-motivacion tag-competencia" >
+    
+              <a href="http://elidiaz.com/2015/09/28/5-areas-clave-para-aumentar-tu-productividad-hoy.html" class="post-image">
+                  <img src="https://farm3.staticflickr.com/2281/1594787423_21a3d9d236_z.jpg?zz=1" alt="">
+                  <h2 class="post-title">5 areas clave para aumentar tu productividad hoy</h2>
+              </a>
+    
+            <section class="post-meta">
+    
+    
+                <span class="date"><i class="fa fa-clock-o"></i> <a href="http://elidiaz.com/2015/09/28/5-areas-clave-para-aumentar-tu-productividad-hoy.html">
+                  <time class="timesince" data-timesince="1443420000"
+                  datetime="2015-09-28T00:00"
+                  title="28 September 2015">
+                  2015-09-28 00:00:00<ago class="ago"></time></a></span>
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="http://elidiaz.com/tag/filosofia">filosofia</a>, <a href="http://elidiaz.com/tag/motivacion">motivacion</a>, <a href="http://elidiaz.com/tag/competencia">competencia</a></span>
+                  </span>
+            </section>
+        </article>    <article class="post tag-liderazgo tag-motivacion tag-competencia tag-negocios tag-software tag-development" >
+    
+              <a href="http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html" class="post-image">
+                  <img src="http://photo.foter.com/photos/44/office-politics-a-rise-to-the-top-2.jpg" alt="">
+                  <h2 class="post-title">Lo que Aprendí trabajando una decada en tecnologia</h2>
+              </a>
+    
+            <section class="post-meta">
+    
+    
+                <span class="date"><i class="fa fa-clock-o"></i> <a href="http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html">
+                  <time class="timesince" data-timesince="1440396000"
+                  datetime="2015-08-24T00:00"
+                  title="24 August 2015">
+                  2015-08-24 00:00:00<ago class="ago"></time></a></span>
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="http://elidiaz.com/tag/liderazgo">liderazgo</a>, <a href="http://elidiaz.com/tag/motivacion">motivacion</a>, <a href="http://elidiaz.com/tag/competencia">competencia</a>, <a href="http://elidiaz.com/tag/negocios">negocios</a>, <a href="http://elidiaz.com/tag/software">software</a>, <a href="http://elidiaz.com/tag/development">development</a></span>
+                  </span>
+            </section>
+        </article>    <article class="post tag-agile tag-scrum tag-competencia tag-motivacion" >
+    
+              <a href="http://elidiaz.com/2012/02/26/Scrum.html" class="post-image">
+                  <img src="https://farm4.staticflickr.com/3391/3654141771_22fe87c875_b.jpg" alt="">
+                  <h2 class="post-title">Scrum</h2>
+              </a>
+    
+            <section class="post-meta">
+    
+    
+                <span class="date"><i class="fa fa-clock-o"></i> <a href="http://elidiaz.com/2012/02/26/Scrum.html">
+                  <time class="timesince" data-timesince="1330236000"
+                  datetime="2012-02-26T00:00"
+                  title="26 February 2012">
+                  2012-02-26 00:00:00<ago class="ago"></time></a></span>
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="http://elidiaz.com/tag/agile">agile</a>, <a href="http://elidiaz.com/tag/scrum">scrum</a>, <a href="http://elidiaz.com/tag/competencia">competencia</a>, <a href="http://elidiaz.com/tag/motivacion">motivacion</a></span>
+                  </span>
+            </section>
+        </article></section>
+    <nav class="pagination" role="navigation">
+        <span class="page-number">Page 1 of 1</span>
+    </nav>
+</main>
 
-      <nav role="pagination" class="post-list-pagination">
-  <span class="post-list-pagination-item post-list-pagination-item-current">Page 1 of 1</span>
-</nav>
-
-
-    <footer role="contentinfo" class="footer">
-      <p><small>© 2016. All Rights Reserved.</small></p>
-      <p><small><a href="http://ghostium.oswaldoacauan.com/" target="_blank">Ghostium Theme</a> by <a href="http://twitter.com/oswaldoacauan" target="_blank">@oswaldoacauan</a></small></p>
-      <p><small>Proudly published with <a href="http://ghost.org" target="_blank">Ghost</a></small></p>
+    <footer class="animated fadeIn" id="footer">
+        <section class="colophon">
+          <div class="column ">
+            Temas
+            <ul>
+              <li><a href="/tag/lenguaje">Lenguaje</a> </li>
+              <li><a href="/tag/negocios">Negocios</a></li>
+              <li><a href="/tag/filosofia">Filosofia</a>  </li>
+              <li><a href="/tag/liderazgo">Liderazgo</a></li>
+              <li><a href="/tag/marketing">Marketing</a>  </li>
+              <li><a href="/tag/motivacion">Motivacion</a>  </li>
+              <li><a href="/tag/competencia">Competencia</a></li>
+              <li><a href="/tag/presentacion">Presentacion</a>  </li>
+              <li><a href="/tag/emprendimiento">Emprendimiento</a></li>
+            </div>
+            <div class="column ">
+              Tecnologia
+              <ul>
+                
+                <li><a href="/tag/data">Data</a></li>
+                <li><a href="/tag/ux-ui">Ux-Ui</a></li>
+                <li><a href="/tag/agile">Agile</a>  </li>
+                <li><a href="/tag/server">Server</a>  </li>
+                <li><a href="/tag/virtual">Virtual</a>  </li>
+                <li><a href="/tag/product">Product</a>  </li>
+                <li><a href="/tag/browser">Browser</a> </li>
+                
+                <li><a href="/tag/software">Software</a></li>
+                <li><a href="/tag/development">Development</a></li>
+              </div>
+        
+              <div class="column ">
+              <form id="mc-embedded-subscribe-form"
+                    action="//elidiaz.us11.list-manage.com/subscribe/post?u=338cfd237d2d246aa1166e0e1&amp;id=5663b9d3ff"
+                    method="post" name="mc-embedded-subscribe-form" class="validate"
+                    target="_blank" novalidate>
+                    <input name="b_f83ef4737eb64377dc769dea2_82d69d0297"
+                             type="text" tabindex="-1" value="" style="display:none">
+        
+        
+                  <input id="mce-EMAIL"
+                        type="email" value="" name="EMAIL" class="email"
+                        placeholder="Ingresa tu Correo electronico" required>
+        
+                  <input id="mc-embedded-subscribe"
+                          type="submit" value="Suscribete a la lista de correo "
+                          name="subscribe"  class="button">
+              </form>
+            </div>
+          </section>
+        
+          <section class="bottom">
+            <section class="attribution">
+              <section class="copyright">Copyright &copy;
+                <span itemprop="copyrightHolder">Eli Diaz</span>.
+                 <span rel="license">All Rights Reserved</span>.</section>
+        
+            </section>
+        
+          </section>
     </footer>
-  </div>
-</section>
-
-          </div>
-        </div>
-      </div>
-    </main>
-
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
       <script type="text/javascript">
         jQuery( document ).ready(function() {
@@ -271,28 +187,18 @@
 
         hljs.initHighlightingOnLoad();      
       </script>
+    <script src="//elidiaz.com/themes/Saga/assets/js/glide.js?v=1.0.0"></script>
+    <script src="//elidiaz.com/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
 
-    <script src="//elidiaz.com/themes/ghostium-master/assets/js/foot-scripts.min.js?v=1.0.0"></script>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    <script type="text/javascript">
+    ga('create', 'UA-37338049-1', 'auto');
+    ga('send', 'pageview');
 
-      if(GHOSTIUM.haveGA) {
-        (function(g,h,o,s,t,z){g.GoogleAnalyticsObject=s;g[s]||(g[s]=
-        function(){(g[s].q=g[s].q||[]).push(arguments)});g[s].s=+new Date;
-        t=h.createElement(o);z=h.getElementsByTagName(o)[0];
-        t.src='//www.google-analytics.com/analytics.js';
-        z.parentNode.insertBefore(t,z)}(window,document,'script','ga'));
-        ga('create',ga_ua);ga('send','pageview');
-      }
-
-      if(GHOSTIUM.haveDisqus) {
-        (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-      }
     </script>
-  </body>
+</body>
 </html>
