@@ -5,13 +5,8 @@
     "index": "index.hbs",
     "page": "page.hbs",
     "post": "post.hbs",
-    "tag": "tag.hbs",
-    "links": "partials/links.hbs",
-    "footer": "partials/footer.hbs",
-    "loop": "partials/loop.hbs",
-    "header": "partials/header.hbs",
-    "vcard": "partials/vcard.hbs",
-    "slider": "partials/slider.hbs"
+    "tag": "tag.hbs"
+    
   },
   "version":"1.0.0"
 }
