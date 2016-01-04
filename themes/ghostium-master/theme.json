@@ -1,6 +1,5 @@
 {
   "files": {
-    "author": "author.hbs",
     "default": "default.hbs",
     "index": "index.hbs",
     "page": "page.hbs",
