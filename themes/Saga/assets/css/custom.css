@@ -115,3 +115,7 @@ h1, h2 {
 #footer .colophon {
 max-width: 931px !important;
 }
+
+#main.archive .post .post-meta {
+	color: #999;
+}
