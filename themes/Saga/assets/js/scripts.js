@@ -3,8 +3,8 @@
 
 /* Glide */
 
-var slider = $('#Glide').glide();
-var slider_api = slider.data('glide_api');
+//var slider = $('#Glide').glide();
+//var slider_api = slider.data('glide_api');
 		
 		
 
