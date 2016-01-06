@@ -15,8 +15,9 @@ h1, h2 {
   color: #8480F8!important;
   font-family: "Playfair Display SC",serif !important;
 }
+
 #footer{
-  background-color:#A31621 !important;
+ /* background-color:#A31621 !important; */
 }
 #main.archive{
   background-color:white !important;
