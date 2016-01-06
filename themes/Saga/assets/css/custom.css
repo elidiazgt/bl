@@ -110,3 +110,6 @@ h1, h2 {
 	-moz-border-radius: 150px;
 	background: url(https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-19/11430203_559400547532581_953879765_a.jpg) no-repeat;
 }
+#footer .colophon {
+max-width: 931px !important;
+}
