@@ -77,7 +77,8 @@ h1, h2 {
   margin: 20px;
 }
 .top-bar{
-  background-color: rgba(30, 43, 51, 0.96);
+  background-color: #333
+    /*rgba(30, 43, 51, 0.96);*/
   max-height: 60px !important;
 }
 .top-bar a:hover{
