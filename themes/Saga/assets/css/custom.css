@@ -127,6 +127,6 @@ max-width: 931px !important;
 #results {
 	color:white;
 }
-#title_results{
+.title_results{
     font-size: 60px;
 }
