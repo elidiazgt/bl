@@ -11,8 +11,8 @@ h1, h2 {
 background-color: #1a1919;
 }
 #main-archive{
-  background-color: #1a1919;
-/*    #F9F9F9 !important; */
+  background:#F9F9F9 !important; 
+/*    */
   
 }
 #site-url{
@@ -25,7 +25,7 @@ background-color: #1a1919;
  /* background-color:#A31621 !important; */
 }
 #main.archive{
-  background-color:white !important;
+  background-color:#1a1919 !important;
 }
 #navigation {
   position: fixed !important;
