@@ -7,8 +7,13 @@ h1, h2 {
 #header .blog-content .blog-title, .archive-template{
   color:#51DFA5;
 }
+#Glide{
+background-color: #1a1919;
+}
 #main-archive{
-  background: #F9F9F9 !important;
+  background-color: #1a1919;
+/*    #F9F9F9 !important; */
+  
 }
 #site-url{
   font-size: 3rem !important;
