@@ -38,8 +38,17 @@
 <script id="template" type="x-handlebars-template">
 
   {{#each link_list}}
-  <div class="title_results"><a href="/talk/{{url}}">{{title}}</a></div>
-  <div>{{description}}</div>
+  
+  <a href="/talk/{{url}}">
+  	<div class="title_results">
+  		{{title}}
+     </div>
+  </a>
+  
+  <div>
+  	{{description}}
+  </div>
+  
   {{/each}}
 
 </script><div id="results"></div>
