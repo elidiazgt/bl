@@ -1,6 +1,6 @@
 = Lo que Aprendí trabajando una decada en tecnologia  
 :hp-image: http://photo.foter.com/photos/44/office-politics-a-rise-to-the-top-2.jpg
-:hp-tags: liderazgo,motivacion,competencia,negocios,software,development
+:hp-tags: competencia,software,development
 
 
 Fotografia por Alex E. Proimos
