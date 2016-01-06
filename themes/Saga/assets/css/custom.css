@@ -47,6 +47,7 @@ h1, h2 {
 #navigation a:hover {
   color: grey;
 }
+/*
 #mc-embedded-subscribe-form{
   padding-top: 70px;
   padding-left: 10px;
@@ -55,6 +56,7 @@ h1, h2 {
 #mce-EMAIL{
   width: 250px;
 }
+*/
 #mc-embedded-subscribe{
   width: 250px;
       border-radius: 10px;
