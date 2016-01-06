@@ -89,7 +89,8 @@ background-color: #1a1919;
 }
 .top-bar a:hover{
   color: #fff !important;
-  background-color: #a72c33 !important;
+  /* #a72c33 */
+  background-color: #D85151  !important;
   padding-left: 5px;
   padding-right: 5px;
 }
