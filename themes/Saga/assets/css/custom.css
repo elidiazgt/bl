@@ -26,6 +26,9 @@ background-color: #1a1919;
 #footer{
  /* background-color:#A31621 !important; */
 }
+#main article {
+  max-width: 700px;
+}
 #main.archive{
   background-color:#1a1919 !important;
 }
