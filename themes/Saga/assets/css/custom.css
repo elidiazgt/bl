@@ -58,6 +58,13 @@ background-color: #1a1919;
 #navigation a:hover {
   color: grey;
 }
+@media screen and (max-width: 600px) {
+          .links .fadeIn .animated{
+             visibility: hidden;
+          }
+        }
+
+
 /*
 #mc-embedded-subscribe-form{
   padding-top: 70px;
