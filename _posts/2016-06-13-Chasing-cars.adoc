@@ -11,4 +11,4 @@ Tal vez la sensacion se acota mejor al definirla como sentir que no me queda muc
 Hace una semana cumpli años y descubri una manera de ver ¨the big picture¨ de las cosas que vas construyendo con tu único recurso EL TIEMPO, les presento lo que le llaman el calendario de vida en semanas, en esta imagen está ejemplificada la expectativa de vida norteamericana, con la cual cualquiera puede identificarse, no sé en qué etapa de tu vida te encuentres ni se que es lo que buscas, pero se que aveces es dificil mantener la certeza de tus acciones diariamente y para eso exactamente sirve esta imagen para darle seguimiento a lo que estás haciendo cada semana y preguntarte si todo lo que haces va en consecuencia con lo que quieres.
 
 
-http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/Weeks-block-LIFE1.png
+image::http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/Weeks-block-LIFE1.png[]
