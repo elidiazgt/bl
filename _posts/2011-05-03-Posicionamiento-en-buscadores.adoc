@@ -1,7 +1,7 @@
 = Posicionamiento en buscadores
 
 :hp-image: http://photo.foter.com/photos/25/seo-myths.jpg
-:hp-tags: software, data,presentacion,browser
+:hp-tags: software, data,browser
 
 
 Segun  Wikipedia es: 
