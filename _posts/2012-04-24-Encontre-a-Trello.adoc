@@ -1,6 +1,6 @@
 = Encontre a Trello
 :hp-image: https://farm3.staticflickr.com/2663/3879260297_dfc867d531_b.jpg
-:hp-tags: agile,product,developement
+:hp-tags: agile,product,development
 
 
 Dentro de lo que es aprender a organizar el trabajo de un equipo, surge la necesidad de utilizar una herramienta de gestión dejando atrás el utilizar papel y lápiz, hojas de Excel e incluso algo que en alguna época utilice mucho y creí que me solucionaban los google docs, que son muy útiles para realizar documentos en conjunto, pero no para llevar el control del trabajo.
