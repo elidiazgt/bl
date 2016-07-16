@@ -1,4 +1,4 @@
-= Scrum
+= Que es scrum y para que sirve
 :hp-image: https://farm4.staticflickr.com/3391/3654141771_22fe87c875_b.jpg
 :hp-tags: agile,product,development
 
