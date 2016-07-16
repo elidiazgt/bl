@@ -1,6 +1,6 @@
 = Scrum
 :hp-image: https://farm4.staticflickr.com/3391/3654141771_22fe87c875_b.jpg
-:hp-tags: agile,scrum,competencia,motivacion
+:hp-tags: agile,product,development
 
 
 Scrum es un conjunto de buenas practicas para colaborar en equipo y este se basa en comunicación, no solamente hablar sino se trata de una comunicación organica dentro de un equipo, es por eso la analogia de la palabra scrum que se utiliza dentro del rugby
