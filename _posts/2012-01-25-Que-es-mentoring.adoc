@@ -1,6 +1,6 @@
 = Que es mentoring?
 :hp-image: https://farm9.staticflickr.com/8164/7161669168_ea32e262d3_c.jpg
-:hp-tags: liderazgo, competencia, startup
+:hp-tags: liderazgo, competencia, negocios
 
 
 Se define como:
