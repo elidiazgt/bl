@@ -14,4 +14,20 @@ Estas técnicas son aplicadas a sitios que tienen mucha competencia dentro de un
 
 El seo conlleva un involucar todas las partes que intervienen en la creación y mantenimiento de un sitio web.
 
-Dentro de este articulo ire añadiendo los cambios seo que implementare para poner en practica estas técnicas.
+
+. Definir diagnóstico del sitio web (aparece o no en Google al buscar la marca y servicios)
+
+. Establecer palabras claves a trabajar (basadas en servicios y en competencia)
+
+. Diseñar plan de contenidos con la frecuencia a ejecutarlo (10 veces al dia, 1 vez al dia, etc)
+
+. Implementar las mejoras SEO en el sitio web de acuerdo a estándares de Google (SEO
+
+check list 2016)(wordpress)
+
+. Incluir sistema de medición (google Analytics)
+
+. Arrancar plan de contenidos
+
+
+Sigueme: http://fb.com/elidiazgt[Facebook] | http://twitter.com/elidiazgt[Twitter] | http://elidiazgt.tumblr.com[Tumblr] | http://github.com/elidiazgt[Github] |  http://medium.com/@elidiazgt[Medium]  |  http://instagram.com/elidiazgt[Instagram]
