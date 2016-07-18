@@ -1,4 +1,4 @@
-= Que es mentoring?
+= Para que sirve la mentoria?
 :hp-image: https://farm9.staticflickr.com/8164/7161669168_ea32e262d3_c.jpg
 :hp-tags: liderazgo, competencia, negocios
 
@@ -37,5 +37,3 @@ Y tambien si alguien que lee este articulo busca ser mentor hay un manifesto esc
 *   Se retador/robusto, pero no destructivo.
 *   Ten empatia, recuerda que los emprendimientos son dificiles.
 
-
-Sigueme: http://fb.com/elidiazgt[Facebook] | http://twitter.com/elidiazgt[Twitter] | http://elidiazgt.tumblr.com[Tumblr] | http://github.com/elidiazgt[Github] |  http://medium.com/@elidiazgt[Medium]  |  http://instagram.com/elidiazgt[Instagram]
