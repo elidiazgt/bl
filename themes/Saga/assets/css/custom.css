@@ -69,8 +69,8 @@ background-color: #1a1919;
 
 #mc-embedded-subscribe-form{
  /* padding-top: 70px;
-  padding-left: 10px;
-  width: 250px;*/
+  padding-left: 10px;*/
+  width: 250px !important;
 }
 /*
 #mce-EMAIL{
