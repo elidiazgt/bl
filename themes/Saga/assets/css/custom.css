@@ -132,7 +132,8 @@ background-color: #1a1919;
 	background: url(https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-19/11430203_559400547532581_953879765_a.jpg) no-repeat;
 }
 #footer .colophon {
-max-width: 931px !important;
+max-width: 960px !important;
+  height: 340px !important;
 }
 
 #main.archive .post .post-meta {
@@ -146,5 +147,5 @@ max-width: 931px !important;
   color: white;
 }
 #footer .colophon {
-height: 340px !important;
+
 }
