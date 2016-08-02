@@ -1,6 +1,13 @@
 {{!< default}}
 {{#post ~}}
 <header id="header" class="animated fadeIn"{{#if image}} style="background-image: url({{image}})"{{/if}}>
+
+<meta property="fb:app_id" content="302184056577324" /> 
+  <meta property="og:type"   content="article" /> 
+  <meta property="og:url"    content="{{@blog.url}}{{url}}" /> 
+  <meta property="og:title"  content="{{@blog.title}}" /> 
+  <meta property="og:image"  content="{{#if image}}{{image}}{{/if}}" /> 
+  
     <div class="header-background">
     <section class="blog-content">
         <a id="site-url" class="blog-title" href="{{@blog.url}}">{{@blog.title}}</a>
