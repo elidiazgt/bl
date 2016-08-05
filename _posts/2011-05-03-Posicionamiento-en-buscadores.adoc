@@ -21,11 +21,9 @@ El seo conlleva un involucar todas las partes que intervienen en la creación y 
 
 . Diseñar plan de contenidos con la frecuencia a ejecutarlo (10 veces al dia, 1 vez al dia, etc)
 
-. Implementar las mejoras SEO en el sitio web de acuerdo a estándares de Google (SEO
-
-check list 2016)(wordpress)
+. Implementar las mejoras SEO en el sitio web de acuerdo a estándares de Google (SEO check list)
 
 . Incluir sistema de medición (google Analytics)
 
-. Arrancar plan de contenidos
+. Arrancar un plan de contenidos
 
