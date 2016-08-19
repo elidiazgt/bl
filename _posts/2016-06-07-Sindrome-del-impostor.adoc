@@ -1,5 +1,5 @@
 = Sindrome del impostor 
-:hp-image: https://pixabay.com/static/uploads/photo/2014/11/21/00/09/gangster-539993_960_720.jpg
+:hp-image: http://67.media.tumblr.com/001eb73f707b2b5e11e2aa5819143e38/tumblr_obo2jxkApq1qa69foo1_1280.jpg
 :hp-tags: filosofia,motivacion,presentacion
 
 Conocí el termino "Síndrome del impostor" no hace mas de un año, y me ha tocado meditarlo cuando reconozco que este tipo de "inseguridad" me ha detenido a la hora de aprovechar oportunidades.
