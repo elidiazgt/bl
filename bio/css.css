@@ -32,11 +32,7 @@ html, body {
   height: 100%;
 }
 
-body {
-  font: 14px/1 'Open Sans', sans-serif;
-  color: #555;
-  background: #eee;
-}
+
 
 h1 {
   padding: 50px 0;
