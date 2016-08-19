@@ -13,7 +13,7 @@ h1{
     margin: 25px;
 }
 .description{
-    width: 50%;
+    
     margin: 0 auto;
   font-style: oblique;
 }
@@ -99,5 +99,3 @@ input:checked + label {
     padding: 15px;
   }
 }
-
-
