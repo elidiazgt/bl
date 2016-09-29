@@ -3,13 +3,11 @@
 :hp-tags: development,software, browser
 
 
-Hace un tiempo encontre un video de link:http://paulirish.com[paul irish] una persona que admiro y que trabaja en el desarrollo de herramientas para el desarrollador en google especializado en front end. En este video el demostraba el uso de la consola de chrome para depurar los archivos cargados en su navegador.
+Hace un tiempo encontré un video de paul irish una persona que admiro y que trabaja en el desarrollo de herramientas para el desarrollador en google especializado en front end. En este video el demostraba el uso de la consola de chrome para depurar los archivos cargados en su navegador.
 
-Con el tiempo descubri que se realizo un curso de codeschool link:http://discover-devtools.codeschool.com[Discover Devtools], donde vas aprendiendo paso a paso como sacarle provecho a esta herramienta, con el tiempo tambien salio link:https://github.com/node-inspector/node-inspector[Node Inspector] que con la ayuda de la empresa StrongLoop ahora podemos usar esa misma herramienta para depurar nuestras aplicaciones hechas en node.
+Con el tiempo descubrí que se realizo un curso de codeschool Discover Devtools, donde vas aprendiendo paso a paso como sacarle provecho a esta herramienta, con el tiempo también salió Node Inspector que con la ayuda de la empresa StrongLoop ahora podemos usar esa misma herramienta para depurar nuestras aplicaciones hechas en node.
 
-Cuando cambie mi navegador a chrome, sabia que habia hecho buena eleccion, pero con esta herramienta se refuerza mi admiracion por toda la gente que trabaja para hacer que este software mejore dia a dia.
+Cuando cambie mi navegador a chrome, sabia que había hecho buena elección, pero con esta herramienta se refuerza mi admiración por toda la gente que trabaja para hacer que este software mejore día a día.
 
 video::4mf_yNLlgic[youtube]
 
-
-Sigueme: http://fb.com/elidiazgt[Facebook] | http://twitter.com/elidiazgt[Twitter] | http://elidiazgt.tumblr.com[Tumblr] | http://github.com/elidiazgt[Github] |  http://medium.com/@elidiazgt[Medium]  |  http://instagram.com/elidiazgt[Instagram]
