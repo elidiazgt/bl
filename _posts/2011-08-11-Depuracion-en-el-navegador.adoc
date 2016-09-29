@@ -1,5 +1,5 @@
 = Depuracion en el navegador
-:hp-image: https://farm3.staticflickr.com/2351/1596018210_f367327780_b.jpg
+:hp-image: https://65.media.tumblr.com/f445970f617bc4fd78abb706d978e309/tumblr_oea2irNpCv1tb3anfo1_1280.jpg
 :hp-tags: development,software, browser
 
 
