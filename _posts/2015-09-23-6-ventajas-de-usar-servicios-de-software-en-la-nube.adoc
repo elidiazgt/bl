@@ -10,19 +10,19 @@ Todos los días usamos servicios como gmail, skype, paypal que hacen gala del t�
 
 ## *Las ventajas de usar un sistema en la nube son*:
 
-### Flexibilidad:
+### Flexibilidad
 Poder *aumentar o disminuir los recursos* que tu organización necesita dependiendo de la demanda de personas a las que tienes que atender, ya no necesitas planificar para el futuro ni comprar equipo costoso para planificar el crecimiento de tu empresa, *pagas por lo que necesitas* en este momento.
 
-### Seguridad:
+### Seguridad
 Los servidores en la nube tienen *ingenieros calificados* trabajando para mantener la seguridad de su servicio, eso es mucho más seguro que tu propia computadora o un pequeño cuarto de servidores con monitoreo de seguridad eventual.
 
 ### Capacidad:
 En el pasado se tenía que gastar el presupuesto en recurso humano que manejara tu software, con la computación en la nube eso ya no es necesario, ahora solo te tienes que *enfocar en la solución* que te ayude a completar tu misión. El mantenimiento está relegado al equipo que provee el servicio.
 
-### Costo:
+### Costo
 Usando tecnología en la nube se *reduce el costo de mantenimiento*, no mas servidores, no más comprar software, ni pagar por actualizaciones, muchos de los costos asociados con el software se deben a la instalación, la personalización, el hardware, el mantenimiento y la capacitación para su uso, con la nube todo se reduce a un *transparente pago mensual*.
 
-### Accesibilidad:
+### Accesibilidad
 Debido a que está disponible en el internet y se utilizar *estándares mundiales*, se pueden conectar a otros servicios de internet de modo que puedes *centralizar tu información* y su acceso desde cualquier parte del mundo en cualquier computadora o dispositivo.
 
 ### Consistencia
