@@ -4,7 +4,7 @@
 
 Fotografia: theofilos 
 
-Se ha quedado atrás cierto software de escritorio, que necesita de *personal calificado* para su instalación y mantenimiento, asi como los *altos costos* que significan tener un servidor en sitio.
+Se ha quedado atrás cierto software de escritorio, que necesita de *personal calificado* para su instalación y mantenimiento, así como los *altos costos* que significan tener un servidor en sitio.
 
 Todos los días usamos servicios como gmail, skype, paypal que hacen gala del término y en el *campo empresarial* hay preferencia sobre la  tecnología en la nube porque *reduce costos* y tiene la característica de que se puede *manejar transparentemente*.
 
@@ -20,10 +20,10 @@ Los servidores en la nube tienen *ingenieros calificados* trabajando para manten
 En el pasado se tenía que gastar el presupuesto en recurso humano que manejara tu software, con la computación en la nube eso ya no es necesario, ahora solo te tienes que *enfocar en la solución* que te ayude a completar tu misión. El mantenimiento está relegado al equipo que provee el servicio.
 
 ### Costo:
-Usando tecnología en la nube se *reduce el costo de mantenimiento*, no mas servidores, no más comprar software, ni pagar por actualizaciones, muchos de los costos asociados con el software se deben a la instalación, la customización, el hardware, el mantenimiento y la capacitación para su uso, con la nube todo se reduce a un *transparente pago mensual*.
+Usando tecnología en la nube se *reduce el costo de mantenimiento*, no mas servidores, no más comprar software, ni pagar por actualizaciones, muchos de los costos asociados con el software se deben a la instalación, la personalización, el hardware, el mantenimiento y la capacitación para su uso, con la nube todo se reduce a un *transparente pago mensual*.
 
 ### Accesibilidad:
-Debido a que está disponible en el internet y se utilizar *estandares mundiales*, se pueden conectar a otros servicios de internet de modo que puedes *centralizar tu información* y su acceso desde cualquier parte del mundo en cualquier computadora o dispositivo.
+Debido a que está disponible en el internet y se utilizar *estándares mundiales*, se pueden conectar a otros servicios de internet de modo que puedes *centralizar tu información* y su acceso desde cualquier parte del mundo en cualquier computadora o dispositivo.
 
 ### Consistencia
 Los usuarios siempre tendrán acceso a la *última versión del software siempre*, no habrá problemas de que cada usuario esté usando una versión diferente del producto, las actualizaciones son instantáneas y automáticas para *todos los usuarios*.
@@ -31,5 +31,5 @@ Los usuarios siempre tendrán acceso a la *última versión del software siempre
 
 La idea detrás de la nube es poder acceder a toda tu información a través del internet conociendo el *mínimo detalle* de la infraestructura que se utiliza para su funcionamiento.
 
-Asi como cuando utilizas un teléfono celular, sabes que el botón verde realiza la llamada y no tienes idea de que infraestructura es la necesaria para que tu llamada se realice y solamente pagas por la *fraccion* del tiempo que lo utilizas.
+Así como cuando utilizas un teléfono celular, sabes que el botón verde realiza la llamada y no tienes idea de que infraestructura es la necesaria para que tu llamada se realice y solamente pagas por la *fracción* del tiempo que lo utilizas.
 
