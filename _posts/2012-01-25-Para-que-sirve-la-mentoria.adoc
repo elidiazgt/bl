@@ -1,39 +1,40 @@
 = Para que sirve la mentoria?
-:hp-image: https://farm9.staticflickr.com/8164/7161669168_ea32e262d3_c.jpg
+:hp-image: http://66.media.tumblr.com/1f6c0508a9cef3b555d2d39037755d7e/tumblr_oea9qkf9PM1qa69foo1_1280.jpg
 :hp-tags: liderazgo, competencia, negocios
 
 
 Se define como:
 
 
-> **Mentoring**: proceso para la transmición informal del conocimiento, el capital social y el apoyo psico-social, percibidos por el recipiente como relevante para el trabajo, la carrera o el desarrollo profesional; la mentoria envuelve la comunicación informal, usualmente cara a cara y durante un periodo de tiempo sostenible entre una persona que se percibe poseedor de conocimiento relevante, sabiduria o experiencia (el mentor) y una persona que se percibe con menos (el protegido)
+> **Mentoring**: proceso para la transmisión informal del conocimiento, el capital social y el apoyo psico-social, percibidos por el recipiente como relevante para el trabajo, la carrera o el desarrollo profesional; la mentoria envuelve la comunicación informal, usualmente cara a cara y durante un periodo de tiempo sostenible entre una persona que se percibe poseedor de conocimiento relevante, sabiduría o experiencia (el mentor) y una persona que se percibe con menos (el protegido)
 
-Pero en resumidas cuentas es buscar y escoger a alguien que te ayude a sacar adelante tus proyectos, claro debes de escoger a alguien que te inspire confianza y con la que puedas tener una comunicacion fluida, es una manera de evitar cometer errores a la hora de emprender y tambien de adquirir conocimientos.
+Pero en resumidas cuentas es buscar y escoger a alguien que te ayude a sacar adelante tus proyectos, claro debes de escoger a alguien que te inspire confianza y con la que puedas tener una comunicación fluida, es una manera de evitar cometer errores a la hora de emprender y también de adquirir conocimientos.
 
-Por el momento ando en busca de un mentor para poder obtener consejo en cuanto a negocios, que creo que es mi parte mas dificil.
+Por el momento ando en busca de un mentor para poder obtener consejo en cuanto a negocios y marketing (aun sigo con eso 2012…2016), que creo que es mi parte mas difícil.
 
-Dejo unos enlaces de guia que pueden ser utiles:
+Dejo unos enlaces de guía que pueden ser útiles, para los que aspiran a ser mentores algún día:
 
 
-Y tambien si alguien que lee este articulo busca ser mentor hay un manifesto escrito por link:http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto[David Cohen] y aqui se los coloco traducido:
+Y también si alguien que lee este articulo busca ser mentor hay un manifesto escrito por link:http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto[David Cohen] y aquí se los coloco traducido:
 
 
 *   Ser Socratico.
 *   Esperar nada a cambio (estar encantado con lo que obtengas)
 *   Ser autentico y practicar lo que predicas.
 *   Ser directo. Decir la verdad, sin importar lo duro que sea.
-*   Tambien escuchar.
+*   También saber escuchar.
 *   Las mejores relaciones mentoras son las que eventualmente se convierten en doble vC-a.
 *   Se cooperativo.
-*   Adopta al menos una compañia cada año. La experiencia cuenta.
+*   Adoptar al menos una empresa cada año. La experiencia cuenta.
 *   Separar claramente opinion de hecho.
 *   Manejar la información confidencialmente
 *   Claramente comprometido como mentor o no cualquier faceta esta bien.
-*   Conocer que no conoces. Decir No se cuando no conoces. "No conozco" es mejor que ser jactancioso.
-*   Guia, no controles. Los equipos deben de tomar sus propias decisiones. Guia pero nunca les digas que es lo que tienen que hacer. Entiende que es su empresa, no la tuya.
-*   Acepta y comunicate con otros mentores que esten involucrados.
+*   Conocer que no conoces. Decir No se cuando no conoces. “No conozco” es mejor que ser jactancioso.
+*   Guía, no controles. Los equipos deben de tomar sus propias decisiones.
+*   Guía pero nunca les digas que es lo que tienen que hacer. Entiende que es su empresa, no la tuya.
+*   Acepta y comunica tus ideas con otros mentores que estén involucrados.
 *   Se optimista.
 *   Proporciona asesoramiento procesable y especifico, no vago.
 *   Se retador/robusto, pero no destructivo.
-*   Ten empatia, recuerda que los emprendimientos son dificiles.
+*   Tener empatia, recuerda que los emprendimientos son difíciles.
 
