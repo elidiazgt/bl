@@ -15,9 +15,10 @@ Una de las búsquedas mas fuertes para mi han sido que realmente quiero, quererl
 El modo en el que actuamos es el resultado de la mezcla entre lo que nos pasa adentro y lo que pasa afuera, de ahí formamos patrones y creamos juicios de comportamiento. De algo estoy seguro es que lo que pasa dentro es igual para nosotros los humanos, la diferencia entre nosotros es lo que decidimos hacer con ellos.
 
 Tengo entendido que Freud utiliza las palabras ego y super-ego para ilustrar este concepto:
-La razón del ego es el placer a través de la descarga de tensión.
 
-La razón del super-ego es inhibir los impulsos busca-placer para actuar bajo las reglas de la sociedad.
+. La razón del ego es el placer a través de la descarga de tensión.
+
+. La razón del super-ego es inhibir los impulsos busca-placer para actuar bajo las reglas de la sociedad.
 
 También dice que el super-ego es el resultado de la resolución del complejo de Edipo. (concepto basado en una historia griega antigua centrada en un conflicto respecto a los padres).
 
@@ -27,8 +28,9 @@ Uno debe de hacer aquello a lo que teme porque solamente así se avanza, buscar 
 
 Uno debe de educarse a si mismo identificando cuales son los comportamientos actuales que no quiere e ir iterando en base a cambios graduales dirigidos hacia la persona que le gustaría ser.
 
+____
 Uno debe de aceptar el hecho de que existir implica un conflicto inevitable.
+____
 
 
-
-Originally published at https://medium.com/@elidiazgt/teoria-cognitiva-712b864c28cf#.2yddkisvb [medium] on July 6, 2014.
+Originally published at https://medium.com/@elidiazgt/teoria-cognitiva-712b864c28cf#.2yddkisvb[medium] on July 6, 2014.
