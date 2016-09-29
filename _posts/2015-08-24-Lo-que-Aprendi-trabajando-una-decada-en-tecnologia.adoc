@@ -6,9 +6,9 @@
 Fotografia por Alex E. Proimos
 
 
-He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo Aprendído.
+He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo que aprendí.
 
-Empecé trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy solo voy a plasmar las enseñanzas puntuales que he acumulado en el área de tecnología, que es en donde mas experiencia tengo: mi primer proyecto fue una link:http://mush.5u.com[revista escolar juvenil] que realicé durante un curso online de donde aprendí lo básico de la web, pero mejor comencemos por el primero en el que me pagaron. 
+Empecé trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy solo voy a plasmar las enseñanzas puntuales que he acumulado en el área de tecnología, que es en donde mas experiencia tengo: mi primer proyecto fue una revista escolar juvenil que realicé durante un curso online de donde aprendí lo básico de la web, pero mejor comencemos por el primero en el que me pagaron.
 
 
 == Mi primer empleo: Dar clases de html y css sobre Dreamweaver
@@ -19,14 +19,14 @@ Era un cybercafe en el que se daban clases de computación y en donde yo vendía
 . *Aprendí que vender publicidad en internet puede ser duro si hay poca penetración de tu producto*
 
 == Arreglar tragamonedas en un casino
-No dure mucho tiempo en ese lugar, el trabajo era en el hotel mas lujoso que conozco y en ese tiempo todavía era permitido fumar en lugares cerrados yo venia de provincia y eso para mi todo era incomodo, la parte tecnológica era darles mantenimiento a las maquínas tragamonedas y arreglarlas en lo que pudiera si dejaban de funcionar si en caso no podía, llamar al técnico externo. 
+No dure mucho tiempo en ese lugar, el trabajo era en el hotel mas lujoso que conozco y en ese tiempo todavía era permitido fumar en lugares cerrados yo venia de provincia y eso para mi todo era incomodo, la parte tecnológica era darles mantenimiento a las maquínas tragamonedas y arreglarlas en lo que pudiera si dejaban de funcionar si en caso no podía, llamar al técnico externo.
 
 . *Aprendí que hay un rol de mantenimiento para cada equipo, e invertir tiempo en ello te distancia de tu verdadero trabajo*
 . *Aprendí que hay personas muy independientes que no les importara nada mas que el dinero y mientras mas fácil conseguirlo mejor.*
 . *Aprendí que el dinero llama mas dinero, las personas tienden a invertir bastante dinero en lugares opulentos*
 
 == Desarrollador junior en una Startup Ecomerce
-En esta empresa comencé trabajando con el sueldo mínimo de mi país, porque yo lo decidí, estaba necesitado de un empleo y pensé que pidiendo eso me aseguraria el puesto, además era de medio tiempo lo cual me permitía estudiar y medio pagar la renta. En este lugar me dieron la oportunidad de aprender, pase bastante tiempo sin ser productivo porque estaba asimilando y la mayor parte del tiempo era autodidacta.
+En esta empresa comencé trabajando con el sueldo mínimo de mi país, porque yo lo decidí, estaba necesitado de un empleo y pensé que pidiendo eso me aseguraría el puesto, además era de medio tiempo lo cual me permitía estudiar y medio pagar la renta. En este lugar me dieron la oportunidad de aprender, pase bastante tiempo sin ser productivo porque estaba asimilando y la mayor parte del tiempo era autodidacta.
 
 En esta empresa hubieron muchos cambios, tuvimos 3 oficinas, en dos ocasiones diferente jefe de proyecto, luego el cambio el rumbo del proyecto y también sobre la tecnología que se usaba,fueron 2 años que recuerdo con nostalgia porque tuve 2 ingenieros muy buenos que guiaron mi camino de lo que hoy se.
 
@@ -36,7 +36,7 @@ En esta empresa hubieron muchos cambios, tuvimos 3 oficinas, en dos ocasiones di
 . *La tentación de agregar features a un producto es constante y nunca termina*
 
 == Maquetador wordpress
-Hubo un tiempo en el que además de mi trabajo en la startup ecomerce maquetaba para uno de mis maestros del curso online esto lo hacia porque su oficina quedaba cerca de mi universidad y el me dio la oportunidad de ayudarlo un par de horas. Los proyectos de programación aquí se tercerizaban y estaban mas enfocados en la generación de contenido y creación de comunidades.
+Hubo un tiempo en el que además de mi trabajo en la startup ecomerce hacia maquetas para uno de mis maestros del curso online esto lo hacia porque su oficina quedaba cerca de mi universidad y el me dio la oportunidad de ayudarlo un par de horas. Los proyectos de programación aquí se tercerizan y estaban mas enfocados en la generación de contenido y creación de comunidades.
 
 En su momento no mucho entendí el giro de los proyectos y en su lugar decidí involucrarme tiempo completo a la startup ecomerce porque ahí si me estaban enseñando lo que a mi me interesaba.
 
@@ -56,14 +56,14 @@ Esta época fue la mas estable de mi vida, tenia todas las prestaciones y la emp
 
 Las compras eran carismas porque siempre había preferencia sobre el soporte y la reputación del proveedor.
 
-aquí fue donde aprendí el valor y la utilidad de la tecnología que desarrollaba, muchas personas dependían de ella y si se caia el sitio significaba perdida de dinero, clientes molestos, auditoría, etc.
+Aquí fue donde aprendí el valor y la utilidad de la tecnología que desarrollaba, muchas personas dependían de ella y si se caia el sitio significaba perdida de dinero, clientes molestos, auditoría, etc.
 
 . *Aprendí que cuanto mas dependas de la tecnología, es indispensable pagar soporte, no importa si usas opensource o comercial, tendrá un alto costo*
 . *Aprendí que tus desiciones influencian el trabajo de las personas y debes de crear un sistema en el que tu confías, para que las personas crean en el*
 . *El sistema estará listo, hasta que solucione el problema por el que fue concebido*
 
 == Líder de proyecto a distancia
-Obtuve la oportunidad de liderar un proyecto que fue comenzado por otra persona se pudo contratar estudiantes universitarios de ultimo año familiarizados con la tecnología, pero fue un fracaso el proyecto ya que estaba atrasado, los desarrolladores no lograban familiarizarse con el código y la comunicación era escasa (2 o 3 veces al día) ya que yo continuaba con mi empleo regular y en teoría solo tenia que supervisar el desarrollo del mismo.
+Obtuve la oportunidad de liderar un proyecto que fue comenzado por otra persona, se pudo contratar estudiantes universitarios de ultimo año familiarizados con la tecnología, pero fue un fracaso el proyecto ya que estaba atrasado, los desarrolladores no lograban familiarizarse con el código y la comunicación era escasa (2 o 3 veces al día) ya que yo continuaba con mi empleo regular y en teoría solo tenia que supervisar el desarrollo del mismo.
 
 . *Aprendí que credenciales no superan experiencia*
 . *Aprendí que no sabia nada sobre planificar tareas para alguien mas que no fuera yo, se debe de encontrar la manera correcta de estar encima sin ofuscar a tus colaboradores*
@@ -74,7 +74,7 @@ Deje mi empleo en la financiera porque ya me había aburrido de lo lento que era
 
 Esta empresa se veía de muy alto nivel, tenia muy buenas relaciones publicas y ofrecía lo que yo estaba buscando, el primer día fue fabuloso, hubieron reuniones tipo scrum, mi equipo de trabajo era costoso y la decoración general de la oficina estaba muy bien hecha.
 
-El problema con esta empresa era su propio éxito, había un exceso de proyectos y hacia falta de talento, la presión sobre todos los empleados era grande.  
+El problema con esta empresa era su propio éxito, había un exceso de proyectos y hacia falta de talento, la presión sobre todos los empleados era grande.
 
 . *Aprendí que el diseño gráfico es rey, lo que los clientes pagan por lo que ven*
 . *Las relaciones publicas mandan en cualquier negocio, presencia online es igual a miles de dolares en contratos*
@@ -97,6 +97,6 @@ El problema con la empresa era la separación por personalidades, la rivalidad e
 . *Aprendí el tremendo valor que tiene la discreción y lo poderoso que puede llegar a ser saber manejarlo a tu favor*
 
 == Conclusion
-Si no se gana se aprende, he tenido una gran cantidad de compañeros y aprecio lo que he aprendido de cada uno de ellos, con muy pocos pude hacer amistad debido a que me es dificil expresarme con claridad, es por eso que inicie esta serie de ensayos llamados #LunesDeIdeas en donde practico expresarme.
+Si no se gana se aprende, he tenido una gran cantidad de compañeros y aprecio lo que he aprendido de cada uno de ellos, con muy pocos pude hacer amistad debido a que me es difícil expresarme con claridad, es por eso que inicie esta serie de ensayos #EliDiazEssay en donde practico como expresarme por escrito y ser mas preciso.
 
-Tambien voy a ir dejando registro de los temas que me interesan y de los cuales quiero profundizar, queda mucho por aprender el camino es largo y yo siempre seguire avanzando. 
+También voy a ir dejando registro de los temas que me interesan y de los cuales quiero profundizar, queda mucho por aprender el camino es largo y siempre seguiré avanzando.
