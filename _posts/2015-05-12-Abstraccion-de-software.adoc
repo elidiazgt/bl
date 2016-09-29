@@ -1,19 +1,17 @@
 = Abstraccion de software
-:hp-image: http://photo.foter.com/photos/272/abstract-flowing-fluid-colours.jpg
+:hp-image: http://65.media.tumblr.com/920e7e2834072b22f247653fd8318869/tumblr_oeabpfx9oB1qa69foo1_1280.jpg
 :hp-tags: development,software
 
-La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar informacion, que luego 
-utilizamos para manejar los eventos que nos interesan.
+La abstracción es uno de las características innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar información, que luego utilizamos para manejar los eventos que nos interesan.
 
-A la pregunta "Estare utilizando los terminos correctos a la hora de estructurar este proyecto?", vinieron horas de navegacion que me llevaron a las exelentes graficas que les comparto mas abajo.
+A la pregunta “Estaré utilizando los términos correctos a la hora de estructurar este proyecto?”, vinieron horas de navegación que me llevaron a las excelentes gráficas que les comparto mas abajo.
 
 No tenia idea que existieran tantas y cada una de ellas satisface una necesidad especifica, que puede ser replicada en cualquier proyecto que lo necesite.
-
 Composite, prototype y singleton son los que mas me ha tocado observar donde he trabajado.
 
-Me encontre con este articulo muy bueno (ingles) que trata sobre el link:http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern[Bridge Pattern].
+Me encontré con este articulo muy bueno (ingles) que trata sobre el link:http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern[Bridge Pattern].
 
-Pero a la pregunta de cual es el mejor patron, no existe el patron ideal, dependiendo el tamaño del proyecto y de la experiencia que tienes con el se podra determinar el exito que tendras, si es un proyecto que involucra varias personas es obligatorio usar uno y que queden bien claros sus alcances, no queremos que los developers se sobreescriban entre si, mas bien que todos podamos reutilizar el codigo que escribimos.
+Pero a la pregunta de cual es el mejor patron, no existe el patron ideal, dependiendo el tamaño del proyecto y de la experiencia que tienes con el se podrá determinar el éxito que tendrás, si es un proyecto que involucra varias personas es obligatorio usar uno y que queden bien claros sus alcances, no queremos que los developers se sobreescriban entre si, mas bien que todos podamos reutilizar el código que escribimos.
 
 
 
