@@ -1,98 +1,41 @@
 = Que aprendi al invertir una decada en tecnologia 
-:hp-image: http://photo.foter.com/photos/44/office-politics-a-rise-to-the-top-2.jpg
-:hp-tags: articles
+:hp-image: http://65.media.tumblr.com/a0fb4f726505e2ed677fb3c36db6846d/tumblr_oeaijohdiK1qa69foo1_1280.jpg
+:hp-tags: filosofia,motivacion,pensamientos
+
+Soy Elí Díaz y estoy satisfecho con ser diferente, busco encontrar la mejor versión de mi persona sin ocultar nada, ser auténtico e inspirar a otros para descubrir ¿hasta dónde podemos llegar?
+
+Debes de comenzar una conversación explicando el motivo principal de tus palabras, marcando el porqué, como punto de inicio de una conversación, esto te facilita desglosar el cómo y finalmente el que.
+
+Existe una TEDtalk de Simon Sinek que explica la idea de que nuestras acciones, la respuesta a las conversaciones que tenemos son el resultado de nuestra identificación con ideas similares a las nuestras, que el error al comunicarnos es expresar una descripción sin motivo ni esencia, describiendo el cómo y el que, pero dejando difuso el porqué.
+
+La inspiración es necesaria pero no suficiente, lo que uno hace prueba lo que uno cree, si encuentras la emoción correcta la consecuencia de acciones simples y contundentes serán naturales y no forzadas.
+
+### Identifica que es importante para ti hoy
+Plantéate lo que no quieres, solamente para identificar tus deseos, no pienses en lo que debería ser basado en el pasado y enfócate en lo que si quieres.
+
+Segun Tony Robbins tenemos 4 necesidades básicas (certeza, variedad, significancia y conexion/amor) para las cuales nosotros encontramos formas de satisfacerlas, pero no son suficientes, en cambio el crecimiento y la contribución nos llenan más.
+
+Si prestas atención a tus patrones de conducta lograrás identificar qué tipo de emoción te importa más, enfoca tu objetivo sobre ella, crece en base a ella y contribuye, dar algo a cambio es la razón del crecimiento.
+
+### Plantea un camino y prepárate para el
+Hasta cierta edad uno lucha con crear comportamientos y hábitos que considera importantes y útiles, y a partir del momento cuando estos se dominan, estos hábitos son los que lo mueven a uno.
+
+Tu objetivo tiene que ser lo suficientemente atractivo para que tú no tengas que esforzarte en buscarlo, en lugar de ello el deseo de obtenerlo te empuje a conseguirlo.
+
+Las experiencias relevantes entrenan tu instinto para que más adelante puedas tomar decisiones rápidas sin pensar y a pesar de eso ser decisiones correctas, media vez tengas un objetivo en mente te será fácil identificar las oportunidades.
+
+Las mejores oportunidades suceden estando en el momento y lugar perfecto, muévete hacia el lugar con más oportunidades y prepárate para lo inesperado, no existe el momento en el que estés totalmente preparado y seguro, tienes que arrebatar esos momentos cuando se te presenten, trabaja todo el tiempo para encontrarte en la mejor condición de tu vida cada día.
+
+### Decide
+Nuestras acciones se rigen por nuestras necesidades, creencias y emociones, aprende a gestionar tus emociones y estados de ánimo para poder manejar los éxitos y los fracasos.
+
+La interpretación que hacemos de las emociones son las que nos dificulta gestionarlas, nosotros decidimos si el miedo nos paraliza o nos estimula a movernos.
+
+Escribe objetivos basados en acción que estén bajo tu control y empieza, nada tarda tanto como lo que nunca se comienza, la decisión es el poder último.
+
+Si tienes éxito no te relajes, el que se relaja pierde y en los fracasos debes de entender que el único verdadero fracaso es no intentar nuevamente, media vez entiendes esto toda tu vida se convierte en progreso y no en perfección.
 
 
-Photo: Alex E. Proimos
 
 
-He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo aprendido.
-
-Empece trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy solo voy a plazmar las enseñanzas puntuales que he acumulado en el area de tecnologia, que es en donde mas experiencia tengo: mi primer proyecto fue una link:http://mush.5u.com[revista escolar juvenil] que realize durante un curso online de donde aprendi lo basico de la web, pero mejor comenzemos por el primero en el que me pagaron. 
-
-
-== Mi primer empleo: Dar clases de html y css sobre Dreamweaver
-Era un cybercafe en el que se daban clases de computacion y en donde yo vendia espacios para un directorio digital, ahi me permitieron compartir lo poco que conocia de la web, mis alumnos llegaban todas las tardes y se necesitaba paciencia, cuesta explicarle a las personas lo tedioso que puede resultar como funciona el internet.
-
-. *Aprendi que siempre hay personas queriendo aprender*
-. *Aprendi que comunicarse de manera simple es la mejor herramienta*
-. *Aprendi que vender publicidad en internet puede ser duro si hay poca penetracion de tu producto*
-
-== Arreglar tragamonedas en un casino
-No dure mucho tiempo en ese lugar, el trabajo era en el hotel mas lujoso que conosco y en ese tiempo todavia era permitido fumar en lugares cerrados yo venia de provincia y eso para mi todo era incomodo, la parte tecnologica era darles mantenimiento a las maquinas tragamonedas y arreglarlas en lo que pudiera si dejaban de funcionar si en caso no podia, llamar al tecnico externo. 
-
-. *Aprendi que hay un rol de mantenimiento para cada equipo, e invertir tiempo en ello te distancia de tu verdadero trabajo*
-. *Aprendi que hay personas muy independientes que no les importara nada mas que el dinero y mientras mas facil conseguirlo mejor.*
-. *Aprendi que el dinero llama mas dinero, las personas tienden a invertir bastante dinero en lugares opulentos*
-
-== Desarrollador junior en una Startup Ecomerce
-En esta empresa comence trabajando con el sueldo minimo de mi pais, porque yo lo decidi, estaba necesitado de un empleo y pense que pidiendo eso me seleccionarian, ademas era de medio tiempo lo cual me permitia estudiar y medio pagar la renta. En este lugar me dieron la oportunidad de aprender, pase bastante tiempo sin ser productivo porque estaba asimilando y la mayor parte del tiempo era autodidacta.
-
-En esta empresa hubieron muchos cambios, tuvimos 3 oficinas, en dos ocaciones diferente jefe de proyecto, luego el cambio el rumbo del projecto y tambien sobre la tecnologia que se usaba,fueron 2 años que recuerdo con nostalgia porque tuve 2 ingenieros muy buenos que guiaron mi camino de lo que hoy se.
-
-
-. *Definir el camino de un projecto y ademas apegarse a el es una de las cosas mas dificiles de hacer*
-
-. *El costo de hacer cambios en el camino es muy grande*
-. *La tentacion de agregar features a un producto es constante y nunca termina*
-
-== Maquetador wordpress
-Hubo un tiempo en el que ademas de mi trabajo en la startup ecomerce maquetaba para uno de mis maestros del curso online esto lo hacia porque su oficina quedaba cerca de mi universidad y el me dio la oportunidad de ayudarlo un par de horas. Los proyectos de programacion aqui se tercerizaban y estaban mas enfocados en la generacion de contenido y creacion de comunidades.
-
-En su momento no mucho entendi el giro de los proyectos y en su lugar decidi involucrarme tiempo completo a la startup ecomerce porque ahi si me estaban enseñando lo que a mi me interesaba.
-
-. *Aprendi que se puede tener dos trabajos y estudiar en la universidad al mismo tiempo sacando buenas notas, pero por un periodo de tiempo corto(3 meses) ya que te consume o "quema"*
-. *Aprendi que los clientes no distinguen muchas cosas que se da por echo que se entienden al hablar de web*
-. *Aprendi que la impresion que dejas en las personas dura mucho mas tiempo del que crees*
-
-== Mi primera agencia digital
-Esta epoca la comece negociando mi sueldo con una persona con la que ya habia trabajado y ella sabia de mis habilidades asi que pude pedir mas :) basicamente me contrataron para desarrollar un proyecto grande en .net, vi el nacimiento y crecimiento de esta agencia que comenzo en una casa, nos trasladamos a una oficina en el area financiera de la ciudad, se compro equipo nuevo, se contrataron varias personas nuevas, todo iba muy bien y en ese tiempo fui requerido para trabajar in situ en las oficinas del cliente, estuve un tiempo asi hasta que fui cambiado de proyecto y ahi las cosas ya no iban muy bien, algunos clientes no habian cumplido con sus pagos y en poco tiempo no habia proyectos para mi, la partida fue triste para mi y me regrese a mi ciudad de origen.
-
-. *Aprendi que el crecimiento de una empresa debe ser secuencial, progresiva y con bastante presupuesto de respaldo*
-. *Que se debe de tolerar poco a los clientes respecto a los pagos pendientes y no seguir trabajando en la espera de que el cliente se digne a continuar pagando*
-. *Que es posible trabajar a distancia, pero que requiere de mucha comunicacion y empeño de parte de las partes involucradas*
-
-== La financiera 
-Esta epoca fue la mas estable de mi vida, tenia todas las prestaciones y la empresa se preocupaba por nuestro bienestar, era una empresa con 100 años de existencia por lo cual todos los procesos internos estaban probados y funcionaban muy bien, el problema era que por la cantidad de iteraciones sobre los mismos se habian vuelto lentos, pasaban por muchas aprobaciones y todo estaba super presupuestado.
-
-Las compras eran carisimas porque siempre habia preferencia sobre el soporte y la reputacion del proveedor.
-
-Aqui fue donde aprendi el valor y la utilidad de la tecnologia que desarrollaba, muchas personas dependian de ella y si se cai el sitio significaba perdida de dinero, clientes molestos, auditoria, etc.
-
-. *Aprendi que cuanto mas dependas de la tecnologia, es indispensable pagar soporte, no importa si usas opensource o comercial, tendra un alto costo*
-. *Aprendi que tus desiciones influencian el trabajo de las personas y debes de crear un sistema en el que tu confias, para que las personas crean en el*
-. *El sistema estara listo, hasta que solucione el problema por el que fue concebido*
-
-== Lider de proyecto a distancia
-Obtuve la oportunidad de liderar un proyecto que fue comenzado por otra persona se pudo contratar estudiantes universitarios de ultimo año familiarizados con la tecnologia, pero fue un fracaso el proyecto ya que estaba atrasado, los desarrolladores no lograban familiarizarse con el codigo y la comunicacion era escasa (2 o 3 veces al dia) ya que yo continuaba con mi empleo regular y en teoria solo tenia que supervisar el desarrollo del mismo.
-
-. *Aprendi que credenciales no superan experiencia*
-. *Aprendi que no sabia nada sobre planificar tareas para alguien mas que no fuera yo, se debe de encontrar la manera correcta de estar encima sin ofuscar a tus colaboradores*
-. *Aprendi que si no presupuestas proyectos bien, te quedas con deudas y disgustos*
-
-== Mi segunda agencia digital
-Deje mi empleo en la financiera porque ya me habia aburrido de lo lento que eran los procesos, lo dificil que era pedir un servidor nuevo, en algun momento me volvi importante dentro de la organizacion y habian bastantes solicitudes de varios departamentos que yo no podia atender. Eso me hizo buscar libertad y dinamismo queria trabajar en una empresa dinamica y moderna.
-
-Esta empresa se veia de muy alto nivel, tenia muy buenas relaciones publicas y ofrecia lo que yo estaba buscando, el primer dia fue fabuloso, hubieron reuniones tipo scrum, mi equipo de trabajo era costoso y la decoracion general de la oficina estaba muy bien hecha.
-
-El problema con esta empresa era su propio exito, habia un exceso de proyectos y hacia falta de talento, la presion sobre todos los empleados era grande.  
-
-. *Aprendi que el diseño grafico es rey, lo que los clientes pagan por lo que ven*
-. *Las relaciones publicas mandan en cualquier negocio, presencia online es igual a miles de dolares en contratos*
-. *La importancia de que un proyect manager pueda manejar tanto clientes como desarrolladores es crucial, no puedes satisfacer clientes sin satisfacer desarrolladores*
-
-
-== La agencia de contenidos
-Esta agencia fue la mas exitosa respecto al conocimiento de como funciona la web y de como crear una cultura organizacional.
-
-En el pasado habia trabajado con el lider de la agencia y pude ver su crecimiento de 3 a 75 empleados en pocos años, cambio de oficina y creo prestigio a su nombre.
-
-Cuando conoci el modelo de negocio de la empresa años atras no le veia sentido y no lo entendia y de ahi aprendi que *de moneda en moneda se hacen fortunas*
-
-El exito de este lider se basa en identificar el talento y cuidarlo, confiar y delegar aunque no conosca completamente todos los temas que esta tratando, sabe lo que quiere y es humilde al tratar con todos sus colaboradores.
-
-El problema con la empresa era la separacion por personalidades, la rivalidad entre departamentos era muy obvia y el respeto tenia que trabajarse, cada mes se hacian sesiones de resultados con toda la empresa y esto era muy bueno porque se lograba la interaccion que hacia falta diariamente.
-
-. *Aprendi que el respeto (no obligado ni a la fuerza, sino real) es la clave para que un equipo camine durante bastante tiempo y logre solucionar problemas*
-. *Aprendi que hay que esforzarse mucho al principio de cada proyecto en dejar claras las espectativas que cada uno de los participantes tiene puesto en ello*
-. *Aprendi el tremendo valor que tiene la discrecion y lo poderoso que puede llegar a ser saber manejarlo a tu favor*
+Originally published at https://medium.com/@elidiazgt/enfoque-b07ba647ec4c#.njjedkael[medium] on July 6, 2014.
