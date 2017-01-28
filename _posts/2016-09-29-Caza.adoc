@@ -1,6 +1,6 @@
 
 = Caza
-:hp-image: image::http://github.com/elidiazgt/mindblog/images/caza.jpeg[]
+:hp-image: caza.jpeg
 :hp-tags: filosofia,motivacion, liderazgo
 
 
