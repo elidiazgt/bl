@@ -1,0 +1,35 @@
+{{!< default}}
+{{! The tag above means - insert everything in this file into the {body} of the default.hbs template }}
+
+{{> "nav" }}
+
+{{! The big featured header }}
+<header id="page-header" class="blog-cover animated fadeIn" {{#if @blog.cover}}data-stellar-background-ratio="0.5" style="background-image: url({{@blog.cover}})"{{/if}}>
+    <div class="container" data-stellar-ratio="0.75">
+        <h1 class="blog-title">{{tag.name}}</h1>
+        <h2 class="animated fadeIn blog-description">A {{pagination.total}}-post collection</h2>
+    </div>
+</header>
+
+{{! The main content area on the homepage }}
+<main id="content" class="main container" role="main">
+    <div class="row portfolio">
+        {{#foreach posts}}
+        <article class="portfolio-item col-sm-2 col-md-3 col-lg-4 well clearfix">
+            {{#if image}}
+                <img src="{{image}}" />
+            {{/if}}
+            <h2 class="post-title">
+                <a href="{{url}}">{{{title}}}</a>
+            </h2>
+            <div class="portfolio-excerpt">
+                <p>{{excerpt words="45"}} <a href="{{url}}">[...]</a></p>
+                <a class="btn btn-default read-more" role="button" href="{{url}}">Read more</a>
+            </div>
+        </article>
+        {{/foreach}}
+    </div>
+    <div class="col-xs-12">
+      {{pagination}}
+    </div>
+</main>

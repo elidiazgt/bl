@@ -1,0 +1,24 @@
+<div class="col-sm-8 col-sm-offset-2 blog-main blog-list">
+    {{! This is the post loop - each post will be output using this markup }}
+    {{#foreach posts}}
+    <article class="row post-list-entry {{post_class}}">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
+            <div class="post-meta">
+                <i class="fa fa-calendar"></i> <time class="post-meta-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMM YYYY"}}</time>
+                <i class="fa fa-edit"></i> <span class="post-meta-author-link">{{author}}</span>          
+                <span class="post-meta-tags"></span><i class="fa fa-tags"></i> {{tags}}</span>
+            </div>
+        </header>
+        <div class="post-list-excerpt">
+            <section class="post-excerpt-content">
+                <p>{{excerpt words="45"}} <a href="{{url}}">[...]</a></p>
+                <a class="btn btn-default read-more" role="button" href="{{url}}">Read more</a>
+            </section>    
+        </div>
+    </article>
+    {{/foreach}}   
+</div>
+<div class="col-xs-12">
+  {{pagination}}
+</div>

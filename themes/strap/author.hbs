@@ -1,0 +1,44 @@
+{{!< default}}
+{{! The tag above means - insert everything in this file into the {body} of the default.hbs template }}
+
+{{> "nav" }}
+{{! Everything inside the #author tags pulls data from the author }}
+{{#author}}
+    <header id="page-header" class="blog-cover animated fadeIn" {{#if cover}}data-stellar-background-ratio="0.5" style="background-image: url({{cover}}){{else}}no-cover{{/if}}">
+        <div class="container" data-stellar-ratio="0.75">
+            <h1 class="blog-title">{{name}}</h1>
+            {{#if location}}
+            <h2 class="animated fadeIn blog-description">{{location}}</h2>
+            {{/if}}
+        </div>
+    </header>    
+
+{{! The main content area on the homepage }}
+<main id="content" class="main container" role="main">
+    <div class="row">
+        <section class="author-profile col-xs-10 col-xs-offset-1">
+            {{#if image}}
+            <figure class="author-image">
+                <div class="img" style="background-image: url({{image}})"><span class="hidden">{{name}}'s Picture</span></div>
+            </figure>
+            {{/if}}
+            {{#if bio}}
+            <h2>Bio</h2>
+            <p class="author-bio">{{bio}}</p>
+            {{/if}}
+            <div class="author-meta">
+                {{#if location}}<div class="author-location"><span class="fa fa-map-marker"></span> {{location}}</div>{{/if}}
+                {{#if website}}<div class="author-link"><span class="fa fa-link"></span> <a href="{{website}}">{{website}}</a></div>{{/if}}
+                <span class="author-stats"><i class="icon-stats"></i> {{plural ../pagination.total empty='No posts' singular='% post' plural='% posts'}}</span>
+            </div>
+        </section>
+    </div>
+    {{/author}}
+    {{! The tag below includes the post loop - partials/loop.hbs }}
+    <div class="row">
+        <div class="author-post-heading col-xs-10 col-xs-offset-1">
+            <h2>{{pagination.total}} Posts</h2> 
+        </div>
+        {{> "loop"}}
+    </div>
+</main>

@@ -1,0 +1,211 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #45402e;
+    background-color: #fefffd;
+}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+a {
+    color: #818181;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-ou t;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+p, ul, ol {
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 3rem;
+}
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #11505d;
+}
+::selection {
+    text-shadow: none;
+    background: #fcfcfc;
+    background: rgba(128, 128, 128, 0.4);
+}
+::-moz-selection {
+    text-shadow: none;
+    background: #fcfcfc;
+    background: rgba(128, 128, 128, 0.4);
+}
+.navbar:after {
+    clear: both;
+}
+.navbar-transparent {
+    color: #9f9f9f;
+    font-weight: 200;
+    letter-spacing: .1em;
+    background-color: #000;
+    background-color: rgba(0, 0, 0, 0);
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 10001;
+    padding: 0 2vh;
+}
+.navbar-transparent:focus {
+    outline: 0;
+}
+.navbar-transparent .nav li a {
+        color: #9f9f9f;
+}
+.navbar-transparent .nav li a:hover,
+.navbar-transparent .nav li a:focus,
+.navbar-transparent .nav li a.active {
+    outline: 0;
+    background-color: rgba(128, 128, 128, 0.4);
+}
+.navbar-transparent .nav li a, 
+header a {
+    color: #9f9f9f;
+}
+.navbar-brand {
+    color: #9f9f9f;
+}#9f9f9f
+.navbar-brand > a:hover,
+.navbar-brand > a:focus {
+    outline: 0;
+    background-color: rgba(128, 128, 128, 0.4);    
+}
+.navbar-solid-override {
+    padding: 0;
+    background-color: #393531;
+}
+.blog-cover {
+    position: relative;
+    font-weight: 200;
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover cover;
+    background-size: cover;
+    -moz-animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    color: #9f9f9f;
+}
+.blog-cover:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #c0c0c0;
+    background: rgba(45, 40, 25, 0.7);
+    content: "";
+}
+.blog-cover .container {
+	padding-top:10vh;
+	padding-bottom:10vh;
+}
+.blog-cover {
+    padding: 12vw 2vh;  
+    text-align: center;
+}
+.blog-title {
+    font-family: "Open Sans Condensed","Helvetica Neue",Helvetica,Arial,sans-serif;;
+    font-weight: 300;
+    font-size: 6rem;
+    line-height: 6rem;
+    letter-spacing: .3rem;
+    position: relative;
+    margin: 0;
+    color: #9f9f9f;
+}
+.blog-description {
+    font-weight: 200;
+    max-width: 80vw;
+    letter-spacing: .2rem;
+    margin: 2vw auto 0;
+    position: relative;
+    font-size: 3rem;
+    color: #9f9f9f;
+}
+.site-footer {
+  background-color: #393531;
+  color: #9f9f9f;
+}
+.divider {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  padding: 1vw 1vh;
+  background-color: #665847;
+  color: #9f9f9f;
+}
+.horizontal-line {
+	border-bottom: 2px solid #384452;
+}
+.horizontal-line-wide {
+	border-bottom: 2px solid #afada7;
+	margin-bottom: 25px;
+}
+.logo {
+    float: left;
+    top: 5px;
+    left: 5px;
+    margin: 10px;
+    padding: 12px 12px;
+    width: 30px;
+    height: 30px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px; 
+    border-radius: 15px;
+    opacity: 0.4;
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover cover;
+    background-size: cover;
+}
+.logo:hover, 
+.logo:focus {
+    opacity: 0.9;
+}
+.portfolio-item {
+    margin: 0;
+    padding-right: 0; 
+    padding-left: 0;
+    border: 0;
+}
+.main,
+.blog-article {
+    margin-top: 5vh;
+    margin-bottom: 4vh;
+}
+.author-meta,
+.post-meta {
+    font-size: 1rem;
+}
+.author-meta a,
+.post-meta a {
+    color: #9f9f9f;
+    text-decoration: none;
+}
+.author-meta a:hover,
+.post-meta a:hover {
+    text-decoration: underline;
+}
+.post-meta-date {
+    font-size: 1rem;
+    color: #9f9f9f;
+}
+.read-more {
+    float: right;
+}
+article {
+    margin-bottom: 8vh;
+}
+.post-list-image {
+    background-position: center;
+    background-size: cover;
+    border: 1;
+    height: 100%;
+}
