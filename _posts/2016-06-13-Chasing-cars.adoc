@@ -1,5 +1,5 @@
 = Chasing cars 
-:hp-image: http://65.media.tumblr.com/c973732cf8b2dbd32a2d06f503b2ac2e/tumblr_obo2miNpNx1qa69foo1_1280.jpg
+:hp-image: chasing-cars.jpeg
 :hp-tags: filosofia,motivacion
 
 Hay una frase con la que me identifico en este momento ¨sentirme como un perro persiguiendo un auto, nunca lo alcanzo y no se que es lo que haría si algún día lo hago ¨
