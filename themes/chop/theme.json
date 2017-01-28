@@ -30,12 +30,10 @@
     "widget-sidebarad": "partials/widget-sidebarad.hbs",
 
 
-    "links": "partials/links.hbs",
+
     "footer": "partials/footer.hbs",
     "loop": "partials/loop.hbs",
-    "header": "partials/header.hbs",
-    "vcard": "partials/vcard.hbs",
-    "slider": "partials/slider.hbs"
+    "header": "partials/header.hbs"
   },
   "version":"1.0.0"
 }
