@@ -7,6 +7,7 @@ To add images to your blog posts:
 +
 [source,AsciiDoc]
 ----
+<<<<<<< HEAD
 image::<filename>[]
 ----
 . See http://asciidoctor.org/docs/asciidoc-writers-guide/ for complex examples of Image syntax.
@@ -17,3 +18,8 @@ If you are embedding images from a hosted source -- such as instagram, another G
 ----
 image::http://<full path to image>[]
 ----
+=======
+image::http://github.com/<username>/<repositoryName>/images/<filename>[]
+----
+. See http://asciidoctor.org/docs/asciidoc-writers-guide/ for complex examples of Image syntax.
+>>>>>>> HubPress/master

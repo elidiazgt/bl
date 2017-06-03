@@ -1,0 +1,136 @@
+{{!< default}}
+{{#post ~}}
+<header id="header" class="animated fadeIn"{{#if image}} style="background-image: url({{image}})"{{/if}}>
+
+<meta property="fb:app_id" content="302184056577324" /> 
+  <meta property="og:type"   content="article" /> 
+  <meta property="og:url"    content="{{@blog.url}}{{url}}" /> 
+  <meta property="og:title"  content="{{@blog.title}}" /> 
+  <meta property="og:image"  content="{{#if image}}{{image}}{{/if}}" /> 
+  
+    <div class="header-background">
+    <section class="blog-content">
+        <a id="site-url" class="blog-title" href="{{@blog.url}}">{{@blog.title}}</a>
+        <span class="blog-description">{{@blog.description}}</span>
+
+        <nav class="links fadeIn animated">
+                <ul>
+                    <li><a href="/bio">Bio</a></li>
+                    <li><a href="/talk">Charlas</a></li>
+                    <!-- <li class="rss"><a title="<!--RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+                    <li class="github"><a title="GitHub" href="http://github.com/elidiazgt"><i class="fa fa-fw fa-github-square"></i></a></li>
+                    <li class="twitter"><a title="Twitter" href="http://twitter.com/elidiazgt"><i class="fa fa-fw fa-twitter-square"></i></a></li>
+                    <li class="instagram"><a title="Instagram" href="http://instagram.com/elidiazgt"><i class="fa fa-fw fa-instagram"></i></a></li>
+                    <li class="linkedin"><a title="LinkedIn" href="https://gt.linkedin.com/in/elidiazgt"><i class="fa fa-fw fa-linkedin-square"></i></a></li>
+
+                </ul>
+            </nav>
+
+
+    </section>
+    <section class="header-content">
+        <h1 class="post-title animated fadeInUp">{{{title}}}</h1>
+        <a href="#main" class="cb-vertical-down"><i class="fa fa-angle-down"></i></a>
+    </section>
+    </div>
+</header>
+<main id="main" class="content">
+    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post {{post_class}}">
+        <section class="post-content">
+          <span class="post-data">
+          
+             {{#author}}
+               <span class="author animated fadeInUp">
+               <br>
+                 Por: <a href="http://fb.com/elidiazgt"> {{name}} </a>
+                 
+               </span>
+             {{/author}}
+           </span> -
+            <span class="date animated fadeInUp">
+               <i class="fa fa-clock-o"></i>
+              <time class="timesince date" data-timesince="{{date format='X'}}" datetime="{{date format='YYYY-MM-DDTHH:mm'}}" title="{{date format='DD MMMM YYYY'}}">{{date published_at timeago='true'}}
+              </time>
+            </span>
+            <div style="float:right">
+              
+              <div class="fb-like" data-href="http://fb.com/elidiazgt" data-size="large" data-show-faces="true" data-layout="button" data-share="false"></div>
+              
+              <div class="fb-like" data-href="{{@blog.url}}" data-layout="button" data-action="recommend" data-size="large" data-show-faces="true" data-share="true"></div>
+              
+          </div>
+            <br>
+             <br>
+              
+            {{content}}
+<<<<<<< HEAD:themes/Saga/post.hbs
+           
+          
+          <p>
+          Te deseo una maravillosa semana,
+          <br>
+Eli Diaz<br>
+<br>
+PS : <b><u><i>Suelo enviar estos artículos a través de mi <a href="http://eepurl.com/bMg5ZH"> lista de correo electrónico privada </a>. Puedes suscribirte en cualquier momento</u></i>. 
+<br>
+Gracias por compartir, eso me dice que si te ha gustado este ensayo y me motiva a escribir más de lo mismo !</b>
+<br>
+<div style="float:right">
+              
+              <div class="fb-like" data-href="http://fb.com/elidiazgt" data-size="large" data-show-faces="true" data-layout="button" data-share="false"></div>
+              
+              <div class="fb-like" data-href="{{@blog.url}}" data-layout="button" data-action="recommend" data-size="large" data-show-faces="true" data-share="true"></div>
+              
+          </div>
+  <br><br>        
+          Sigueme: <a href="http://fb.com/elidiazgt">Facebook</a> | <a href="http://twitter.com/elidiazgt">Twitter</a> | <a href="http://elidiazgt.tumblr.com">Tumblr</a> |  <a href="http://github.com/elidiazgt">Github</a> | <a href="http://medium.com/@elidiazgt">Medium</a> | <a href="http://instagram.com/elidiazgt">Instagram</a> </p>
+          Temas: {{#if tags}}<span class="tags animated fadeInUp"><i class="fa fa-tags"></i> {{tags prefix="" separator=", "}}</span>{{/if}}
+          {{#if @blog.disqus}}
+
+        <section class="post-comments">
+        
+        <div class="fb-comments" data-href="{{@blog.url}}{{url}}" data-numposts="5" data-colorscheme="light"></div>
+        
+=======
+        </section>
+
+        {{#if @blog.disqus}}
+    
+        <section class="post-comments">
+>>>>>>> HubPress/master:themes/saga/post.hbs
+          <div id="disqus_thread"></div>
+          <script type="text/javascript">
+          var disqus_shortname = '{{@blog.disqus}}'; // required: replace example with your forum shortname
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+          <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<<<<<<< HEAD:themes/Saga/post.hbs
+             </section>
+=======
+        </section>
+    
+        {{/if}}
+    </article>
+>>>>>>> HubPress/master:themes/saga/post.hbs
+
+        {{/if}}
+        </section>
+        
+    </article>
+</main>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.4&appId=173089822780208";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+{{~/post}}
