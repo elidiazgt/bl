@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ac886d2d1592c0ebb522a47e8450c36139131f44
 ## 0.8.0
 
 * feat(startup): add a panel to define the username, the repositoryName, the branch and the CNAME before login
@@ -68,7 +71,10 @@
 * feat(theme): add theme uno-zen
 * feat(theme): add theme ghostium
 
+<<<<<<< HEAD
 >>>>>>> HubPress/master
+=======
+>>>>>>> ac886d2d1592c0ebb522a47e8450c36139131f44
 ## 0.3.0
 
 * fix(excerpt): add a fix for CJK language

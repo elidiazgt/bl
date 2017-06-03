@@ -10,11 +10,7 @@
 		
 
 var siteurl = $('#site-url').attr("href"); // Get url for blog (in case site is run under a sub-domain)
-siteurl += "/themes/Saga";
-=======
-var siteurl = $('#site-url').attr("href"); // Get url for blog (in case site is run under a sub-domain)
 siteurl += "/themes/saga";
->>>>>>> HubPress/master:themes/saga/assets/js/scripts.js
 /******************
  * HIGHLIGHT CODE *
  ******************/
