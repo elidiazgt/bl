@@ -1,0 +1,5 @@
+= El placer del sueño
+:hp-image: /covers/cover.png
+:hp-tags: HubPress, Blog, Open_Source,
+
+Content
