@@ -5,6 +5,7 @@
 :toc: macro
 :toclevels: 4
 :sectnums:
+<<<<<<< HEAD
 
 toc::[]
 
@@ -14,6 +15,16 @@ A free, open source tool you can use to build a blog using GitHub Pages and http
 
 image::https://cloud.githubusercontent.com/assets/2006548/23680524/d7cbf68e-038b-11e7-8465-5c70abd852e1.gif[]
 
+=======
+
+toc::[]
+
+A free, open source tool you can use to build a blog using GitHub Pages and http://asciidoctor.org/docs/user-manual/[AsciiDoc].
+
+== What Is HubPress?
+image::https://cloud.githubusercontent.com/assets/2006548/23680524/d7cbf68e-038b-11e7-8465-5c70abd852e1.gif[]
+
+>>>>>>> ac886d2d1592c0ebb522a47e8450c36139131f44
 HubPress is a web application that makes it easy for you to maintain a blog. It provides the following features:
 
 * WYSIWYG editor for writing blog posts.
@@ -44,6 +55,7 @@ Click the Fork icon image:http://hubpress.io/img/fork-icon.png[Fork,80] to creat
 IMPORTANT: The GitHub branch you select is important, and choosing the incorrect one will cause issues with logging onto HubPress for the first time.
 
 Read the next two sections *carefully* *_before_* choosing which branch and `config.json` file to edit.
+<<<<<<< HEAD
 
 ==== I am not using my GitHub Pages domain for any other project
 
@@ -51,6 +63,15 @@ If you are not using your github.io Pages domain you can use it to quickly set u
 
 With this method, only a few steps are required to get HubPress deployed and ready for use.
 
+=======
+
+==== I am not using my GitHub Pages domain for any other project
+
+If you are not using your github.io Pages domain you can use it to quickly set up HubPress.
+
+With this method, only a few steps are required to get HubPress deployed and ready for use.
+
+>>>>>>> ac886d2d1592c0ebb522a47e8450c36139131f44
 IMPORTANT: If you are currently using your `[username].github.io` GitHub Pages domain for another project, or if you want to use a custom domain name, skip to the next procedure for instructions.
 
 . Rename your repository to `<username>.github.io`
@@ -69,11 +90,19 @@ The following parameters are mandatory:
 image:http://hubpress.io/img/home-install.png[Install complete,300]
 
 ==== I am using my GitHub Pages domain already, or I want to use a custom domain
+<<<<<<< HEAD
 
 If you are already using your want your blog to be available on a custom domain, or you are _already using your GitHub Pages domain_ to host another project, some extra configuration is required.
 
 You need to set your blog up on a sub-domain of your GitHub Pages site.
 
+=======
+
+If you are already using your want your blog to be available on a custom domain, or you are _already using your GitHub Pages domain_ to host another project, some extra configuration is required.
+
+You need to set your blog up on a sub-domain of your GitHub Pages site.
+
+>>>>>>> ac886d2d1592c0ebb522a47e8450c36139131f44
 . In the repository settings, set the default branch to `gh-pages`:
 +
 image::https://cloud.githubusercontent.com/assets/8563047/13872457/28d53c9a-ed2e-11e5-9d13-65f5bf2cbbf9.png[Settings gh-pages, 400]
@@ -130,4 +159,7 @@ Translations (Japanese) by:
 HubPress is powered by :beer:, :coffee: and :pizza:.
 
 Use the donation options in the HubPress Settings menu to say thanks: we really appreciate it.
+<<<<<<< HEAD
 >>>>>>> HubPress/master
+=======
+>>>>>>> ac886d2d1592c0ebb522a47e8450c36139131f44
