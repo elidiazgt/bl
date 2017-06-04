@@ -1,6 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://elidiaz.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Jun 2017 06:39:44 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El placer del sueño]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://elidiaz.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Jun 2017 22:05:48 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El placer del sueño]]></title><description><![CDATA[<div class="paragraph">
 <p>Content</p>
-</div>]]></description><link>http://elidiaz.com/2017/06/03/El-placer-del-sueno.html</link><guid isPermaLink="true">http://elidiaz.com/2017/06/03/El-placer-del-sueno.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 03 Jun 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Depuracion en el navegador]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://elidiaz.com/2017/06/03/El-placer-del-sueno.html</link><guid isPermaLink="true">http://elidiaz.com/2017/06/03/El-placer-del-sueno.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 03 Jun 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[De mi ignorancia y el sindrome de Dunning-Kruger]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Hace tiempo utilizaba la frase <strong>¨la ignorancia es felicidad¨</strong> porque tenía la falsa creencia de que si evitas enterarte  de hechos que afecten tu estado de ánimo podés permanecer en un estado de  tranquilidad, pero las cosas que quieres evitar eventualmente salen a la luz y muchas veces es peor  ser el último en enterarte porque ya no puedes hacer nada para solucionar la situación.</p>
+</div>
+<div class="paragraph">
+<p>Eventualmente otra frase que llegué a escuchar fue</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>La ignorancia genera más confianza que el conocimiento.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Tropicalizado seria "La ignorancia es atrevida", este <strong>“fenómeno”</strong> varias veces lo había escuchado mencionar como una experiencia injusta, pero hasta el momento no era importante hasta que encontré un estudio publicado por una revista científica de 1999 y los autores Justin Krugger y David Dunning, psicólogos de la Universidad de Cornell en Nueva York denominada el efecto Dunning-Kruger.</p>
+</div>
+<div class="olist arabic">
+<div class="title">Se basa en 2 cosas</div>
+<ol class="arabic">
+<li>
+<p>Los individuos incompetentes tienden a sobreestimar sus propias habilidades.</p>
+</li>
+<li>
+<p>Los individuos incompetentes son incapaces de reconocer las verdaderas habilidades en los demás.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>Se hicieron 4 estudios donde se evaluaron las habilidades de sus estudiantes y posterior a eso se les preguntó cómo consideraban ellos que fue su desempeño.</p>
+</div>
+<div class="paragraph">
+<p>Resulta que las personas con el peor desempeño se autoevalúan sobre la media creyendo ser superiores y más inteligentes. Mientras las personas con el mejor resultado pensaban que no se desempeñaron muy bien.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_de_qu_nos_sirve_saber_esto">De qué nos sirve saber esto?</h2>
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="https://farm4.staticflickr.com/3570/3472283908_b9aabb4ac3_b.jpg" alt="3472283908 b9aabb4ac3 b.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>Para evitar malentendidos, para entender que así es como naturalmente ha evolucionado la humanidad, que existen estos personajes en todas las esferas de la vida y que muy posiblemente la seguridad que proyectan puede hacerte creer que son muy capaces.</p>
+</div>
+<div class="paragraph">
+<p>Un claro ejemplo de esto son los cantantes sin talento exitosos versus el músico maestro que apenas subsiste o sindicalistas que no trabajan y ganan muchisimo mas que cualquier trabajador esforzado, incluso políticos o líderes religiosos.</p>
+</div>
+<div class="paragraph">
+<p>Con esto no quiero señalar a nadie en mal plan, mas bien quiero que logres entender lo que Aston kutcher repitio, pero jobs dijo en su momento ¨La vida puede ser mas cuando te das cuenta de una sola cosa: cada cosa que nos rodea fue hecha por gente que no es mas inteligente que tu¨.</p>
+</div>
+<div class="videoblock">
+<div class="content">
+<iframe src="https://www.youtube.com/embed/ofYKv31GJiE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>Siento que todas las personas en este mundo deben de tener la oportunidad de demostrar su valor, creo firmemente que uno de los ingredientes del éxito es trabajar en tus destrezas y definitivamente <strong>CREERSELA</strong> y esto lo he visto muy de cerca, amigos muy exitosos que no son mediocres, pero tampoco muy brillantes tienen una pizca de ingenuidad que los hace actuar con total seguridad, lo cual me ha resultado muy conflictivo pero al mismo tiempo muy fascinante.</p>
+</div>
+<div class="paragraph">
+<p>Creo que ultimo que tengo que agregar a esto es que <strong>busques que tu trabajo sea significativo para este mundo, primero porque lo necesita y segundo porque personas menos capaces que tú van a influenciar tu futuro.</strong></p>
+</div>
+</div>
+</div>]]></description><link>http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</link><guid isPermaLink="true">http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[competencia]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Depuracion en el navegador]]></title><description><![CDATA[<div class="paragraph">
 <p>Hace un tiempo encontré un video de paul irish una persona que admiro y que trabaja en el desarrollo de herramientas para el desarrollador en google especializado en front end. En este video el demostraba el uso de la consola de chrome para depurar los archivos cargados en su navegador.</p>
 </div>
 <div class="paragraph">
@@ -13,47 +79,4 @@
 <div class="content">
 <iframe src="https://www.youtube.com/embed/4mf_yNLlgic?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-</div>]]></description><link>http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html</link><guid isPermaLink="true">http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html</guid><category><![CDATA[development]]></category><category><![CDATA[software]]></category><category><![CDATA[browser]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Thu, 11 Aug 2011 00:00:00 GMT</pubDate></item><item><title><![CDATA[Que es el posicionamiento en buscadores?]]></title><description><![CDATA[<div class="paragraph">
-<p>Segun  Wikipedia es:</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>“El posicionamiento en buscadores o posicionamiento web es el resultado de la recuperación de información en la base de datos de los grandes motores de búsqueda de Internet por el uso de algoritmos de búsqueda en el software”.</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p>En pocas palabras es ajustar detalles a los sitios web, para que sean bien visto por los buscadores y estos sean tomados para los primeros lugares.</p>
-</div>
-<div class="paragraph">
-<p>Estas técnicas son aplicadas a sitios que tienen mucha competencia dentro de un marco de mercado especifico, para que que puedan destacar.</p>
-</div>
-<div class="paragraph">
-<p>El seo conlleva un involucar todas las partes que intervienen en la creación y mantenimiento de un sitio web.</p>
-</div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Definir diagnóstico del sitio web (aparece o no en Google al buscar la marca y servicios)</p>
-</li>
-<li>
-<p>Establecer palabras claves a trabajar (basadas en servicios y en competencia)</p>
-</li>
-<li>
-<p>Diseñar plan de contenidos con la frecuencia a ejecutarlo (10 veces al dia, 1 vez al dia, etc)</p>
-</li>
-<li>
-<p>Implementar las mejoras SEO en el sitio web de acuerdo a estándares de Google (SEO check list)</p>
-</li>
-<li>
-<p>Incluir sistema de medición (google Analytics)</p>
-</li>
-<li>
-<p>Arrancar un plan de contenidos</p>
-</li>
-</ol>
-</div>
-<div class="paragraph">
-<p>A todo esto hay que entender que los resultados se van obteniendo con paciencia e identificando cuales son los comportamientos de nuestros potenciales clientes.</p>
-</div>]]></description><link>http://elidiaz.com/2011/05/03/Que-es-el-posicionamiento-en-buscadores.html</link><guid isPermaLink="true">http://elidiaz.com/2011/05/03/Que-es-el-posicionamiento-en-buscadores.html</guid><category><![CDATA[software]]></category><category><![CDATA[data]]></category><category><![CDATA[browser]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Tue, 03 May 2011 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html</link><guid isPermaLink="true">http://elidiaz.com/2011/08/11/Depuracion-en-el-navegador.html</guid><category><![CDATA[development]]></category><category><![CDATA[software]]></category><category><![CDATA[browser]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Thu, 11 Aug 2011 00:00:00 GMT</pubDate></item></channel></rss>
