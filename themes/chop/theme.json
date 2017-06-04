@@ -1,0 +1,39 @@
+{
+  "files": {
+    "author": "author.hbs",
+    "default": "default.hbs",
+    "error": "error.hbs",
+    "home": "home.hbs",
+    "index": "index.hbs",
+
+    "page": "page.hbs",
+    "post": "post.hbs",
+    "tag": "tag.hbs",
+
+    "comments": "partials/comments.hbs",
+    "config": "partials/config.hbs",
+    "footer-socialmedia": "partials/footer-socialmedia.hbs",
+    "headerad": "partials/headerad.hbs",
+    "navigation": "partials/navigation.hbs",
+    "post-author": "partials/post-author.hbs",
+    "share": "partials/share.hbs",
+    "sidebar": "partials/sidebar.hbs",
+
+
+
+    "widget-contacts": "partials/widget-contacts.hbs",
+    "widget-editorspick": "partials/widget-editorspick.hbs",
+    "widget-facebook": "partials/widget-facebook.hbs",
+    "widget-headerad": "partials/widget-headerad.hbs",
+    "widget-newsletter": "partials/widget-newsletter.hbs",
+    "widget-podcasts": "partials/widget-podcasts.hbs",
+    "widget-sidebarad": "partials/widget-sidebarad.hbs",
+
+
+
+    "footer": "partials/footer.hbs",
+    "loop": "partials/loop.hbs",
+    "header": "partials/header.hbs"
+  },
+  "version":"1.0.0"
+}
