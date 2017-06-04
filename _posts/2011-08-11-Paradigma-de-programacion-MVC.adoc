@@ -1,10 +1,7 @@
-
 = Paradigma de programación MVC
-
 :hp-image: paradigma-programacion.jpeg
 
 :hp-tags: development,software,lenguaje
-
 
 
 Hace un poco mas de un año tuve mi primer encuentro con el paradigma llamado mvc dentro del framework symphony, pero no lo logre entender del todo y lo deje para otro momento, pero ahora lo vuelvo a retomar con .net y espero volverme experto en esto.
