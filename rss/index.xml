@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eli Diaz]]></title><description><![CDATA[Constructor de herramientas útiles para inspirar, educar y empoderar a las personas]]></description><link>http://elidiaz.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Jun 2017 23:37:45 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El placer del descanso]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eli Diaz]]></title><description><![CDATA[Constructor de herramientas útiles para inspirar, educar y empoderar a las personas]]></description><link>http://elidiaz.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Jun 2017 23:40:44 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El placer del descanso]]></title><description><![CDATA[<div class="paragraph">
 <p>Content</p>
 </div>]]></description><link>http://elidiaz.com/2017/06/03/El-placer-del-descanso.html</link><guid isPermaLink="true">http://elidiaz.com/2017/06/03/El-placer-del-descanso.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 03 Jun 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[De mi ignorancia y el sindrome de Dunning-Kruger]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -66,7 +66,103 @@
 <p>Creo que ultimo que tengo que agregar a esto es que <strong>busques que tu trabajo sea significativo para este mundo, primero porque lo necesita y segundo porque personas menos capaces que tú van a influenciar tu futuro.</strong></p>
 </div>
 </div>
-</div>]]></description><link>http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</link><guid isPermaLink="true">http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[competencia]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Paradigma de programación MVC]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</link><guid isPermaLink="true">http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[competencia]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Que es scrum y para que sirve]]></title><description><![CDATA[<div class="paragraph">
+<p>Scrum es un conjunto de buenas practicas para colaborar en equipo y este se basa en comunicación, no solamente hablar sino se trata de una comunicación organica dentro de un equipo, es por eso la analogia de la palabra scrum que se utiliza dentro del rugby</p>
+</div>
+<div class="paragraph">
+<p>Al igual que en el rugby un equipo de desarrollo son las personas que la integran, que estan conectadas y al mismo tiempo comprometidas en lograr un objetivo en comun.</p>
+</div>
+<div class="paragraph">
+<p>Esta metodologia fue creada en 1986 por Hirotaka Takeuchi e Ikujiro Nonaka ellos describieron una nueva aproximación holistica que incrementa la rapidez y la flexibilidad en el desarrollo de nuevos productos comerciales.</p>
+</div>
+<div class="paragraph">
+<p>Durante los años en los que me he dedicado al software he experimentado diversas maneras/practicas de trabajo para lograr objetivos junto a mis compañeeros, jefes y clientes. Scrum reune lo que a mi parecer mejor funciona y lo aterriza manejando roles y ciclos de desarrollo por bloques cortos que ha dejado encantado.</p>
+</div>
+<div class="paragraph">
+<p>Claro cada uno es libre de adaptar las ideas a como mejor le funcionen, o a lo que comunmente llamamos tropicalizar el concepto.</p>
+</div>]]></description><link>http://elidiaz.com/2012/02/26/Que-es-scrum-y-para-que-sirve.html</link><guid isPermaLink="true">http://elidiaz.com/2012/02/26/Que-es-scrum-y-para-que-sirve.html</guid><category><![CDATA[agile]]></category><category><![CDATA[product]]></category><category><![CDATA[development]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sun, 26 Feb 2012 00:00:00 GMT</pubDate></item><item><title><![CDATA[Para que sirve la mentoria?]]></title><description><![CDATA[<div class="paragraph">
+<p>Se define como:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p><strong>Mentoring</strong>: proceso para la transmisión informal del conocimiento, el capital social y el apoyo psico-social, percibidos por el recipiente como relevante para el trabajo, la carrera o el desarrollo profesional; la mentoria envuelve la comunicación informal, usualmente cara a cara y durante un periodo de tiempo sostenible entre una persona que se percibe poseedor de conocimiento relevante, sabiduría o experiencia (el mentor) y una persona que se percibe con menos (el protegido)</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Pero en resumidas cuentas es buscar y escoger a alguien que te ayude a sacar adelante tus proyectos, claro debes de escoger a alguien que te inspire confianza y con la que puedas tener una comunicación fluida, es una manera de evitar cometer errores a la hora de emprender y también de adquirir conocimientos.</p>
+</div>
+<div class="paragraph">
+<p>Por el momento ando en busca de un mentor para poder obtener consejo en cuanto a negocios y marketing (aun sigo con eso 2012…2016), que creo que es mi parte mas difícil.</p>
+</div>
+<div class="paragraph">
+<p>Dejo unos enlaces de guía que pueden ser útiles, para los que aspiran a ser mentores algún día:</p>
+</div>
+<div class="paragraph">
+<p>Y también si alguien que lee este articulo busca ser mentor hay un manifesto escrito por <a href="http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto">David Cohen</a> y aquí se los coloco traducido:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Ser Socratico.</p>
+</li>
+<li>
+<p>Esperar nada a cambio (estar encantado con lo que obtengas)</p>
+</li>
+<li>
+<p>Ser autentico y practicar lo que predicas.</p>
+</li>
+<li>
+<p>Ser directo. Decir la verdad, sin importar lo duro que sea.</p>
+</li>
+<li>
+<p>También saber escuchar.</p>
+</li>
+<li>
+<p>Las mejores relaciones mentoras son las que eventualmente se convierten en doble vC-a.</p>
+</li>
+<li>
+<p>Se cooperativo.</p>
+</li>
+<li>
+<p>Adoptar al menos una empresa cada año. La experiencia cuenta.</p>
+</li>
+<li>
+<p>Separar claramente opinion de hecho.</p>
+</li>
+<li>
+<p>Manejar la información confidencialmente</p>
+</li>
+<li>
+<p>Claramente comprometido como mentor o no cualquier faceta esta bien.</p>
+</li>
+<li>
+<p>Conocer que no conoces. Decir No se cuando no conoces. “No conozco” es mejor que ser jactancioso.</p>
+</li>
+<li>
+<p>Guía, no controles. Los equipos deben de tomar sus propias decisiones.</p>
+</li>
+<li>
+<p>Guía pero nunca les digas que es lo que tienen que hacer. Entiende que es su empresa, no la tuya.</p>
+</li>
+<li>
+<p>Acepta y comunica tus ideas con otros mentores que estén involucrados.</p>
+</li>
+<li>
+<p>Se optimista.</p>
+</li>
+<li>
+<p>Proporciona asesoramiento procesable y especifico, no vago.</p>
+</li>
+<li>
+<p>Se retador/robusto, pero no destructivo.</p>
+</li>
+<li>
+<p>Tener empatia, recuerda que los emprendimientos son difíciles.</p>
+</li>
+</ul>
+</div>]]></description><link>http://elidiaz.com/2012/01/25/Para-que-sirve-la-mentoria.html</link><guid isPermaLink="true">http://elidiaz.com/2012/01/25/Para-que-sirve-la-mentoria.html</guid><category><![CDATA[liderazgo]]></category><category><![CDATA[competencia]]></category><category><![CDATA[negocios]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Wed, 25 Jan 2012 00:00:00 GMT</pubDate></item><item><title><![CDATA[Paradigma de programación MVC]]></title><description><![CDATA[<div class="paragraph">
 <p>Hace un poco mas de un año tuve mi primer encuentro con el paradigma llamado mvc dentro del framework symphony, pero no lo logre entender del todo y lo deje para otro momento, pero ahora lo vuelvo a retomar con .net y espero volverme experto en esto.</p>
 </div>
 <div class="quoteblock">
