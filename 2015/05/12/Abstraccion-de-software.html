@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+	<title>Abstraccion de software</title>
+	<meta name="description" content="" />
+	
+	<link rel="apple-touch-icon" href="//elidiaz.com/themes/chop/assets/images/apple-touch-icon.png?v=1496620355792" />
+    <link rel="icon" type="image/png" href="//elidiaz.com/themes/chop/assets/images/favicon-32x32.png?v=1496620355792" sizes="32x32" />
+    <link rel="icon" type="image/png" href="//elidiaz.com/themes/chop/assets/images/favicon-16x16.png?v=1496620355792" sizes="16x16" />
+	
+	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic|Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	
+	<link href="//elidiaz.com/themes/chop/assets/css/normalize.css?v=1496620355792" rel="stylesheet">
+	
+    <link href="//elidiaz.com/themes/chop/assets/css/bootstrap.min.css?v=1496620355792" rel="stylesheet">
+	
+    <link href="//elidiaz.com/themes/chop/assets/css/style.css?v=1496620355792" rel="stylesheet">
+	
+    <link href="//elidiaz.com/themes/chop/assets/css/font-awesome.min.css?v=1496620355792" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	
+	<script type="text/javascript">
+	
+	var disqus_shortname = 'elidiazgt'; // Replace "examplename" with your disqus short name
+	
+	var editors_tag = 'editor';
+	var editors_tag_post_count = 3;
+	
+	var fb_page_url = 'https://www.facebook.com/elidiazgt';
+	
+	
+	var mcform_url = 'http://elidiaz.us11.list-manage.com/subscribe/subscribe?u=338cfd237d2d246aa1166e0e1&id=5663b9d3ff';
+	var msg_success = 'Comprueba tu bandeja de entrada para activar tu suscripción. Gracias!';
+	
+	var cp_youtube = 'https://www.youtube.com/channel/UCSB71MKxYCNvbTjg2SCthCg';
+	var cp_instagram = 'https://instagram.com/elidiazgt';
+	var cp_twitter = 'https://twitter.com/elidiazgt';
+	var cp_googleplus = 'https://plus.google.com/elidiazgt';
+	var cp_facebook = 'https://www.facebook.com/elidiazgt';
+	
+	</script>	
+    <link rel="canonical" href="http://elidiaz.com/2015/05/12/Abstraccion-de-software.html" />
+    <meta name="referrer" content="origin" />
+    
+    <meta property="og:site_name" content="Eli Diaz" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Abstraccion de software" />
+    <meta property="og:description" content="La abstracción es uno de las características innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar información, que luego utilizamos para manejar los eventos que nos interesan. A la pregunta “Estaré utilizando los términos correctos a la hora de estructurar este proyecto?”, vinieron horas de" />
+    <meta property="og:url" content="http://elidiaz.com/2015/05/12/Abstraccion-de-software.html" />
+    <meta property="og:image" content="abstraccion.jpg" />
+    <meta property="article:published_time" content="2015-05-12T00:00:00.000Z" />
+    <meta property="article:tag" content="development" />
+    <meta property="article:tag" content="software" />
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Abstraccion de software" />
+    <meta name="twitter:description" content="La abstracción es uno de las características innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar información, que luego utilizamos para manejar los eventos que nos interesan. A la pregunta “Estaré utilizando los términos correctos a la hora de estructurar este proyecto?”, vinieron horas de" />
+    <meta name="twitter:url" content="http://elidiaz.com/2015/05/12/Abstraccion-de-software.html" />
+    <meta name="twitter:image:src" content="abstraccion.jpg" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "Eli Diaz",
+    "author": {
+        "@type": "Person",
+        "name": "Eli Diaz",
+        "image": "https://avatars1.githubusercontent.com/u/11800064?v=3",
+        "url": "http://elidiaz.com/author/elidiazgt/",
+        "sameAs": "http://elidiaz.com"
+    },
+    "headline": "Abstraccion de software",
+    "url": "http://elidiaz.com/2015/05/12/Abstraccion-de-software.html",
+    "datePublished": "2015-05-12T00:00:00.000Z",
+    "image": "abstraccion.jpg",
+    "keywords": "development, software",
+    "description": "La abstracción es uno de las características innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar información, que luego utilizamos para manejar los eventos que nos interesan. A la pregunta “Estaré utilizando los términos correctos a la hora de estructurar este proyecto?”, vinieron horas de"
+}
+    </script>
+
+    <meta name="generator" content="HubPress" />
+    <link rel="alternate" type="application/rss+xml" title="Eli Diaz" href="http://elidiaz.com/rss/" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css">
+  </head>
+  <body class="post-template tag-development tag-software">
+	<header>
+		<section id="cp-branding" class="cp-branding">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-md-3">
+						<div class="pull-left">
+							<!-- start logo -->
+							<a class="logo" href="http://elidiaz.com"><h1>Eli Diaz</h1></a>
+							<!-- end logo -->
+						</div>
+					</div>
+					<div class="col-xs-12 col-md-9">
+						<!--Start of Header Advert -->
+						
+						<!-- start header ad -->
+							
+							<!-- start header ad -->
+							<div class="header-ad pull-right">
+								<a href="#"><img src="//elidiaz.com/themes/chop/assets/images/ad_banner_728x90.jpg?v=1496620355792"></a>
+							</div>	
+							<!-- end header ad -->	
+						<!-- end header ad -->					
+						<!--End of Header Advert -->
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<nav class="navbar navbar-default">
+		  <div class="container cp-navigation">
+			
+			<form class="navbar-form navbar-right cp-post-search" role="search">
+			  <div class="form-group">
+				<div class="input-group">
+				  <input type="text" class="form-control cp-search" id="search-field" placeholder="Search here...">
+				  <div class="input-group-addon cp-search-icon"><i class="glyphicon glyphicon-search"></i></div>
+				</div>
+			  </div>
+			  <div id="search-results" class="search-results"></div>
+			</form>
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#cp-navbar-collapse" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			</div>
+			
+			
+		  </div><!-- /.container -->
+		</nav><!-- /navigation -->
+	</header>	
+	<section id="main-body">
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			<article class="post tag-development tag-software">
+					<header class="post-header">
+						<h2>Abstraccion de software</h2>
+						<div class="meta-info">
+							<span class="author">
+								<i class="fa fa-user"></i>
+								<a href="http://elidiaz.com/author/elidiazgt/">Eli Diaz</a>
+							</span>
+							<span class="date">
+								<i class="fa fa-clock-o"></i>
+								May 12, 2015
+							</span>
+							<span class="comment">
+								<i class="fa fa-comment"></i>
+								<a href="http://elidiaz.com/2015/05/12/Abstraccion-de-software.html#disqus_thread">0 Comments</a>
+							</span>
+						</div>
+							<img class="featured-image" src="abstraccion.jpg" alt="Abstraccion de software" title="Abstraccion de software" />
+					</header>
+					
+					<section class="post-content">
+						<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>La abstracción es uno de las características innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar información, que luego utilizamos para manejar los eventos que nos interesan.</p>
+</div>
+<div class="paragraph">
+<p>A la pregunta “Estaré utilizando los términos correctos a la hora de estructurar este proyecto?”, vinieron horas de navegación que me llevaron a las excelentes gráficas que les comparto mas abajo.</p>
+</div>
+<div class="paragraph">
+<p>No tenia idea que existieran tantas y cada una de ellas satisface una necesidad especifica, que puede ser replicada en cualquier proyecto que lo necesite.
+Composite, prototype y singleton son los que mas me ha tocado observar donde he trabajado.</p>
+</div>
+<div class="paragraph">
+<p>Me encontré con este articulo muy bueno (ingles) que trata sobre el <a href="http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern">Bridge Pattern</a>.</p>
+</div>
+<div class="paragraph">
+<p>Pero a la pregunta de cual es el mejor patron, no existe el patron ideal, dependiendo el tamaño del proyecto y de la experiencia que tienes con el se podrá determinar el éxito que tendrás, si es un proyecto que involucra varias personas es obligatorio usar uno y que queden bien claros sus alcances, no queremos que los developers se sobreescriban entre si, mas bien que todos podamos reutilizar el código que escribimos.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_listado_de_patrones_de_diseno">Listado de patrones de diseno</h2>
+<div class="sectionbody">
+<div id="gallery" class="imageblock">
+<div class="content">
+<img src="http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg" alt="Design pattern 1 rel="lightbox"">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://41.media.tumblr.com/eca7b79dfe053640e191de22473c4ed/tumblr_noysmqaReq1tb3anfo1_1280.jpg" alt="Design pattern 2 rel="lightbox"">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_interaccion_entre_terminos_de_patrones_de_diseno">Interaccion entre terminos de patrones de diseno</h2>
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="http://41.media.tumblr.com/31bcfdc78d45ba49e9e5861821f71c0a/tumblr_noyspyXlpQ1tb3anfo1_1280.jpg" alt="Patter interaction rel="lightbox"">
+</div>
+</div>
+</div>
+</div>
+					</section>
+					
+					<footer class="post-footer">
+						<section class="tags pull-left">
+							<i class="fa fa-tags"></i> <a href="http://elidiaz.com/tag/development/">development</a> | <a href="http://elidiaz.com/tag/software/">software</a>
+						</section>
+						
+						<section class="cp-social-share pull-right">
+						   <span class="share-text">Share:</span>
+							<!-- twitter -->
+						    <a href="https://twitter.com/share?text=Abstraccion%20de%20software&amp;url=http://elidiaz.com/2015/05/12/Abstraccion-de-software.html" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Twitter"><i class="fa fa-twitter"></i></a>
+							<!-- facebook -->
+						    <a href="https://www.facebook.com/sharer/sharer.php?u=http://elidiaz.com/2015/05/12/Abstraccion-de-software.html" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Facebook"><i class="fa fa-facebook"></i></a>
+							 <!-- google plus -->
+						    <a href="https://plus.google.com/share?url=http://elidiaz.com/2015/05/12/Abstraccion-de-software.html" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;"><i class="fa fa-google-plus" title="Google Plus"></i></a>
+							<!-- linkedin -->
+						    <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://elidiaz.com/2015/05/12/Abstraccion-de-software.html" onclick="window.open(this.href, 'linkedin-share', 'width=490,height=530');return false;" title="Linkedin"><i class="fa fa-linkedin"></i></a>
+							<!-- pinterest -->
+						    <a data-pin-do="skipLink" href="https://pinterest.com/pin/create/button/?url=http://elidiaz.com/2015/05/12/Abstraccion-de-software.html&amp;media=abstraccion.jpg&amp;description=Abstraccion de software"
+						       onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=455,width=600'); return false;">
+						      <i class="fa fa-pinterest-p"></i>
+						    </a>	
+						</section>						<div class="clearfix"></div>
+						
+						<section class="cp-author">
+							<div class="row">
+								<div class="col-md-12 author-img" >
+										<a href="http://elidiaz.com/author/elidiazgt/" alt="Eli Diaz" title="Eli Diaz"><img class="author-img-avatar" src="https://avatars1.githubusercontent.com/u/11800064?v&#x3D;3" alt="Eli Diaz" title="Eli Diaz" /></a>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-12 col-md-8">
+									<div class="author-details">
+										<a href="http://elidiaz.com/author/elidiazgt/"><h4>Eli Diaz</h4></a>
+									</div>
+								</div>
+								<div class="col-xs-12 col-md-4">
+									<div class="author-meta">
+											<div class="location"><i class="glyphicon glyphicon-map-marker"></i>Worldwide</div>
+											<div class="website"><a href="http://elidiaz.com" target="_blank"><i class="glyphicon glyphicon-link"></i>Website</a></div>
+									</div>
+								</div>
+							</div>
+						</section>
+						
+						<div class="clearfix"></div>
+						
+							<nav class="pagination">
+								<div>
+									
+											
+								</div>
+							</nav>
+								
+						<div class="clearfix"></div>
+						
+						<section class="post-comments">
+							<div id="disqus_thread"></div>
+							<script type="text/javascript">
+								/* * * CONFIGURATION VARIABLES * * */
+								var disqus_shortname = disqus_shortname;
+								
+								/* * * DON'T EDIT BELOW THIS LINE * * */
+								(function() {
+									var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+									dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+									(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+								})();
+							</script>
+							<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+						</section>						
+					</footer>
+			</article>
+		</div>
+		<aside class="col-xs-12 col-md-4">
+			<div class="cp-sidebar">
+				<!-- start widget -->
+				<section class="widget">
+					<span><h5>Editor's Pick</h5></span>
+					<div id="editors-pick" class="editors-pick">
+					</div>
+				</section>
+				<!-- end widget -->		<!-- start widget -->
+				<section class="widget">
+					<span><h5>Facebook</h5></span>
+					<div id="fb-widget" class="fb-widget"></div>
+				</section>
+				<!-- end widget -->		<!-- start widget -->
+				<section class="widget">
+					<span><h5>Podcast</h5></span>
+					<div id="podcasts" class="podcasts">
+						<!-- Start of embed code -->
+						
+						<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/79158635&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+						
+						<!-- Embed of embed code -->
+					</div>
+				</section>
+				<!-- end widget -->		<!-- start widget -->
+				<section  id="cp-contacts"  class="widget">
+					<span><h5>Contacts</h5></span>
+					<div class="cp-contacts">
+						<p>Busco inspirar a otros para descubrir ¿hasta dónde podemos llegar?.</p>
+						<p class="sidebar-phone"><i class="fa fa-phone"></i><a href="tel:+254712345678">+502  42474123</a></p>
+						<p class="sidebar-email"><i class="fa fa-envelope-o"></i><a href="mailto:hey@elidiaz.com">hey@elidiaz.com</a></p>
+					</div>
+				</section>
+				<!-- end widget -->		<!-- start widget -->
+				<section class="widget">
+					<span><h5>Advertisement</h5></span>
+					<div class="advert">
+						<a href="#"><img src="//elidiaz.com/themes/chop/assets/images/advert_300x300.jpg?v=1496620355792"></a>
+					</div>
+				</section>
+				<!-- end widget -->	</div>
+		</aside>	</div>
+</div>
+</section>
+	
+	<!-- Start of Newsletter Widget -->
+	
+	<!-- start widget -->
+		<section id="cp-signup" class="cp-signup">
+			<div class="container">
+				<div class="light-overlay"></div>
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 newsletter">
+						<h1>Introduce tu correo electrónico</h1>
+						<p>Suscríbete gratis y recibe todos las semanas por mail un ensayo diferente.</p>
+						<div id="mc_embed_signup">
+							<form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-horizontal" novalidate>
+								<div class="form-group">
+									<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">
+								</div>
+								<div class="form-group">
+									<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+						<div id="message"></div>
+					</div>
+				</div>
+			</div>
+		</section>
+	<!-- end widget -->
+	<!-- End of Newsletter Widget -->
+	
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-md-6">
+					<div class="footer-links">
+						<p>&copy; 2017 <a href="http://elidiaz.com">Eli Diaz</a>. All right Reserved </a></p>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-6">
+					<!-- Start of Social Media Links -->
+						
+						<div id="social-share" class="social-share">
+							<span id="youtube-page"></span>	
+							<span id="instagram-page"></span>
+							<span id="twitter-page"></span>
+							<span id="googleplus-page"></span>					
+							<span id="facebook-page"></span>
+							<a href="http://elidiaz.com/rss/" class="rss-subscribe" target="_blank"><i class="fa fa-rss"></i></a>
+						</div>
+						
+					<!-- End of Social Media Links -->			</div>
+			</div>
+		</div>
+	</footer>
+	<a href="#" id="ScrollToTop"><i class="fa fa-angle-up"></i></a><!-- Scroll to Top -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js?v="></script> 
+	      <script type="text/javascript">
+	        jQuery( document ).ready(function() {
+	          // change date with ago
+	          jQuery('ago.ago').each(function(){
+	            var element = jQuery(this).parent();
+	            element.html( moment(element.text()).fromNow());
+	          });
+	        });
+	
+	        hljs.initHighlightingOnLoad();
+	      </script>
+	       
+	    <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+	
+	<script src="//elidiaz.com/themes/chop/assets/js/bootstrap.min.js?v=1496620355792"></script>
+	<script type="text/javascript" src="//elidiaz.com/themes/chop/assets/js/jquery.fitvids.js?v=1496620355792"></script>
+	<script type="text/javascript" src="//elidiaz.com/themes/chop/assets/js/jquery.ghostHunter.min.js?v=1496620355792"></script>
+	<script type="text/javascript" src="//elidiaz.com/themes/chop/assets/js/plugins.js?v=1496620355792"></script>
+	<script type="text/javascript" src="//elidiaz.com/themes/chop/assets/js/index.js?v=1496620355792"></script>  </body>
+</html>
