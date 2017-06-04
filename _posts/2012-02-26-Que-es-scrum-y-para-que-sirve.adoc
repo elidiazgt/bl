@@ -1,0 +1,15 @@
+= Que es scrum y para que sirve
+:hp-image: https://farm4.staticflickr.com/3391/3654141771_22fe87c875_b.jpg
+:hp-tags: agile,product,development
+
+
+Scrum es un conjunto de buenas practicas para colaborar en equipo y este se basa en comunicación, no solamente hablar sino se trata de una comunicación organica dentro de un equipo, es por eso la analogia de la palabra scrum que se utiliza dentro del rugby
+
+Al igual que en el rugby un equipo de desarrollo son las personas que la integran, que estan conectadas y al mismo tiempo comprometidas en lograr un objetivo en comun.
+
+Esta metodologia fue creada en 1986 por Hirotaka Takeuchi e Ikujiro Nonaka ellos describieron una nueva aproximación holistica que incrementa la rapidez y la flexibilidad en el desarrollo de nuevos productos comerciales.
+
+Durante los años en los que me he dedicado al software he experimentado diversas maneras/practicas de trabajo para lograr objetivos junto a mis compañeeros, jefes y clientes. Scrum reune lo que a mi parecer mejor funciona y lo aterriza manejando roles y ciclos de desarrollo por bloques cortos que ha dejado encantado.
+
+Claro cada uno es libre de adaptar las ideas a como mejor le funcionen, o a lo que comunmente llamamos tropicalizar el concepto.
+

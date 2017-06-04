@@ -1,0 +1,30 @@
+= Que es el posicionamiento en buscadores?
+
+:hp-image: http://66.media.tumblr.com/84010db0e20fc3a349016e1d68b7d35e/tumblr_oea21bE69w1qa69foo1_500.jpg
+:hp-tags: software, data,browser
+
+
+Segun  Wikipedia es: 
+
+> “El posicionamiento en buscadores o posicionamiento web es el resultado de la recuperación de información en la base de datos de los grandes motores de búsqueda de Internet por el uso de algoritmos de búsqueda en el software”.
+
+En pocas palabras es ajustar detalles a los sitios web, para que sean bien visto por los buscadores y estos sean tomados para los primeros lugares.
+
+Estas técnicas son aplicadas a sitios que tienen mucha competencia dentro de un marco de mercado especifico, para que que puedan destacar.
+
+El seo conlleva un involucar todas las partes que intervienen en la creación y mantenimiento de un sitio web.
+
+
+. Definir diagnóstico del sitio web (aparece o no en Google al buscar la marca y servicios)
+
+. Establecer palabras claves a trabajar (basadas en servicios y en competencia)
+
+. Diseñar plan de contenidos con la frecuencia a ejecutarlo (10 veces al dia, 1 vez al dia, etc)
+
+. Implementar las mejoras SEO en el sitio web de acuerdo a estándares de Google (SEO check list)
+
+. Incluir sistema de medición (google Analytics)
+
+. Arrancar un plan de contenidos
+
+A todo esto hay que entender que los resultados se van obteniendo con paciencia e identificando cuales son los comportamientos de nuestros potenciales clientes.
