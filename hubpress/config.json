@@ -26,14 +26,14 @@
     "_Ctor": {}
   },
   "site": {
-    "title": "",
-    "description": "",
+    "title": "Eli Diaz",
+    "description": "Constructor de herramientas útiles para inspirar, educar y empoderar a las personas",
     "logo": "",
     "cover": "",
     "delay": "",
-    "postsPerPage": "",
-    "googleAnalytics": "",
-    "disqus": ""
+    "postsPerPage": "9",
+    "googleAnalytics": "UA-37338049-1",
+    "disqus": "elidiazgt"
   },
   "socialnetwork": {
     "email": "",
