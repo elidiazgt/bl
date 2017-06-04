@@ -6,12 +6,12 @@
     "cname": "elidiaz.com"
   },
   "theme": {
-    "name": "saga"
+    "name": "uno"
   },
   "urls": {
     "site": "http://elidiaz.com",
     "hubpress": "http://elidiaz.com",
-    "theme": "//elidiaz.com/themes/ichi",
+    "theme": "//elidiaz.com/themes/saga",
     "images": "http://elidiaz.com/images"
   },
   "initialisationConfigComponent": {
