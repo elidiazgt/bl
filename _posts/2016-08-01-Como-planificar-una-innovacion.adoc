@@ -1,6 +1,6 @@
 
 = Como planificar una innovación
-:hp-image: innovacion.jpeg
+:hp-image: images/innovacion.jpeg
 :hp-tags: innovacion,negocios, emprendimiento
 
 ¿Què es una innovación?
