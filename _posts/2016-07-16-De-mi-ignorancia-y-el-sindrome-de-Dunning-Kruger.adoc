@@ -1,5 +1,5 @@
 = De mi ignorancia y el sindrome de Dunning-Kruger
-:hp-image: images/ignorancia.jpg
+:hp-image: ./images/ignorancia.jpg
 :hp-tags: filosofia, motivacion, competencia
 
 Hace tiempo utilizaba la frase *¨la ignorancia es felicidad¨* porque tenía la falsa creencia de que si evitas enterarte  de hechos que afecten tu estado de ánimo podés permanecer en un estado de  tranquilidad, pero las cosas que quieres evitar eventualmente salen a la luz y muchas veces es peor  ser el último en enterarte porque ya no puedes hacer nada para solucionar la situación.
