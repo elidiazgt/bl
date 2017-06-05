@@ -1,6 +1,6 @@
 = Que es el posicionamiento en buscadores?
 
-:hp-image: seo-magia.jpg
+:hp-image: /images/seo-magia.jpg
 :hp-tags: software, data,browser
 
 
