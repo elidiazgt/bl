@@ -1,5 +1,5 @@
 = Lo que entiendo por teoria cognitiva
-:hp-image: teoria-cognitiva.jpeg
+:hp-image: /images/teoria-cognitiva.jpeg
 :hp-tags: filosofia,motivacion, lenguaje
 
 
