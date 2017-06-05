@@ -1,5 +1,5 @@
 = Paradigma de programación MVC
-:hp-image: paradigma-programacion.jpeg
+:hp-image: /images/paradigma-programacion.jpeg
 
 :hp-tags: development,software,lenguaje
 
