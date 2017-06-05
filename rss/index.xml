@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eli Diaz]]></title><description><![CDATA[Constructor de herramientas útiles para inspirar, educar y empoderar a las personas]]></description><link>http://elidiaz.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Jun 2017 23:57:51 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El placer del descanso]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eli Diaz]]></title><description><![CDATA[Constructor de herramientas útiles para inspirar, educar y empoderar a las personas]]></description><link>http://elidiaz.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 05 Jun 2017 00:07:26 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El placer del descanso]]></title><description><![CDATA[<div class="paragraph">
 <p>Content</p>
 </div>]]></description><link>http://elidiaz.com/2017/06/03/El-placer-del-descanso.html</link><guid isPermaLink="true">http://elidiaz.com/2017/06/03/El-placer-del-descanso.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 03 Jun 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[De mi ignorancia y el sindrome de Dunning-Kruger]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -66,7 +66,66 @@
 <p>Creo que ultimo que tengo que agregar a esto es que <strong>busques que tu trabajo sea significativo para este mundo, primero porque lo necesita y segundo porque personas menos capaces que tú van a influenciar tu futuro.</strong></p>
 </div>
 </div>
-</div>]]></description><link>http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</link><guid isPermaLink="true">http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[competencia]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lo que Aprendí trabajando una decada en tecnologia]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</link><guid isPermaLink="true">http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[competencia]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[6 ventajas de usar servicios de software en la nube]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Fotografia: theofilos</p>
+</div>
+<div class="paragraph">
+<p>Se ha quedado atrás cierto software de escritorio, que necesita de <strong>personal calificado</strong> para su instalación y mantenimiento, así como los <strong>altos costos</strong> que significan tener un servidor en sitio.</p>
+</div>
+<div class="paragraph">
+<p>Todos los días usamos servicios como gmail, skype, paypal que hacen gala del término y en el <strong>campo empresarial</strong> hay preferencia sobre la  tecnología en la nube porque <strong>reduce costos</strong> y tiene la característica de que se puede <strong>manejar transparentemente</strong>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="__strong_las_ventajas_de_usar_un_sistema_en_la_nube_son_strong"><strong>Las ventajas de usar un sistema en la nube son</strong>:</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_flexibilidad">Flexibilidad</h3>
+<div class="paragraph">
+<p>Poder <strong>aumentar o disminuir los recursos</strong> que tu organización necesita dependiendo de la demanda de personas a las que tienes que atender, ya no necesitas planificar para el futuro ni comprar equipo costoso para planificar el crecimiento de tu empresa, <strong>pagas por lo que necesitas</strong> en este momento.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_seguridad">Seguridad</h3>
+<div class="paragraph">
+<p>Los servidores en la nube tienen <strong>ingenieros calificados</strong> trabajando para mantener la seguridad de su servicio, eso es mucho más seguro que tu propia computadora o un pequeño cuarto de servidores con monitoreo de seguridad eventual.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_capacidad">Capacidad:</h3>
+<div class="paragraph">
+<p>En el pasado se tenía que gastar el presupuesto en recurso humano que manejara tu software, con la computación en la nube eso ya no es necesario, ahora solo te tienes que <strong>enfocar en la solución</strong> que te ayude a completar tu misión. El mantenimiento está relegado al equipo que provee el servicio.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_costo">Costo</h3>
+<div class="paragraph">
+<p>Usando tecnología en la nube se <strong>reduce el costo de mantenimiento</strong>, no mas servidores, no más comprar software, ni pagar por actualizaciones, muchos de los costos asociados con el software se deben a la instalación, la personalización, el hardware, el mantenimiento y la capacitación para su uso, con la nube todo se reduce a un <strong>transparente pago mensual</strong>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_accesibilidad">Accesibilidad</h3>
+<div class="paragraph">
+<p>Debido a que está disponible en el internet y se utilizar <strong>estándares mundiales</strong>, se pueden conectar a otros servicios de internet de modo que puedes <strong>centralizar tu información</strong> y su acceso desde cualquier parte del mundo en cualquier computadora o dispositivo.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_consistencia">Consistencia</h3>
+<div class="paragraph">
+<p>Los usuarios siempre tendrán acceso a la <strong>última versión del software siempre</strong>, no habrá problemas de que cada usuario esté usando una versión diferente del producto, las actualizaciones son instantáneas y automáticas para <strong>todos los usuarios</strong>.</p>
+</div>
+<div class="paragraph">
+<p>La idea detrás de la nube es poder acceder a toda tu información a través del internet conociendo el <strong>mínimo detalle</strong> de la infraestructura que se utiliza para su funcionamiento.</p>
+</div>
+<div class="paragraph">
+<p>Así como cuando utilizas un teléfono celular, sabes que el botón verde realiza la llamada y no tienes idea de que infraestructura es la necesaria para que tu llamada se realice y solamente pagas por la <strong>fracción</strong> del tiempo que lo utilizas.</p>
+</div>
+</div>
+</div>
+</div>]]></description><link>http://elidiaz.com/2015/09/23/6-ventajas-de-usar-servicios-de-software-en-la-nube.html</link><guid isPermaLink="true">http://elidiaz.com/2015/09/23/6-ventajas-de-usar-servicios-de-software-en-la-nube.html</guid><category><![CDATA[negocios]]></category><category><![CDATA[software]]></category><category><![CDATA[product]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Wed, 23 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lo que Aprendí trabajando una decada en tecnologia]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Fotografia por Alex E. Proimos</p>
@@ -308,67 +367,7 @@
 <p>También voy a ir dejando registro de los temas que me interesan y de los cuales quiero profundizar, queda mucho por aprender el camino es largo y siempre seguiré avanzando.</p>
 </div>
 </div>
-</div>]]></description><link>http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html</link><guid isPermaLink="true">http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html</guid><category><![CDATA[competencia]]></category><category><![CDATA[software]]></category><category><![CDATA[development]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Mon, 24 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Enfoque]]></title><description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>Soy Elí Díaz y estoy satisfecho con ser diferente, busco encontrar la mejor versión de mi persona sin ocultar nada, ser auténtico e inspirar a otros para descubrir ¿hasta dónde podemos llegar?</p>
-</div>
-<div class="paragraph">
-<p>Debes de comenzar una conversación explicando el motivo principal de tus palabras, marcando el porqué, como punto de inicio de una conversación, esto te facilita desglosar el cómo y finalmente el que.</p>
-</div>
-<div class="paragraph">
-<p>Existe una TEDtalk de Simon Sinek que explica la idea de que nuestras acciones, la respuesta a las conversaciones que tenemos son el resultado de nuestra identificación con ideas similares a las nuestras, que el error al comunicarnos es expresar una descripción sin motivo ni esencia, describiendo el cómo y el que, pero dejando difuso el porqué.</p>
-</div>
-<div class="paragraph">
-<p>La inspiración es necesaria pero no suficiente, lo que uno hace prueba lo que uno cree, si encuentras la emoción correcta la consecuencia de acciones simples y contundentes serán naturales y no forzadas.</p>
-</div>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_identifica_que_es_importante_para_ti_hoy">Identifica que es importante para ti hoy</h3>
-<div class="paragraph">
-<p>Plantéate lo que no quieres, solamente para identificar tus deseos, no pienses en lo que debería ser basado en el pasado y enfócate en lo que si quieres.</p>
-</div>
-<div class="paragraph">
-<p>Segun Tony Robbins tenemos 4 necesidades básicas (certeza, variedad, significancia y conexion/amor) para las cuales nosotros encontramos formas de satisfacerlas, pero no son suficientes, en cambio el crecimiento y la contribución nos llenan más.</p>
-</div>
-<div class="paragraph">
-<p>Si prestas atención a tus patrones de conducta lograrás identificar qué tipo de emoción te importa más, enfoca tu objetivo sobre ella, crece en base a ella y contribuye, dar algo a cambio es la razón del crecimiento.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_plantea_un_camino_y_prep_rate_para_el">Plantea un camino y prepárate para el</h3>
-<div class="paragraph">
-<p>Hasta cierta edad uno lucha con crear comportamientos y hábitos que considera importantes y útiles, y a partir del momento cuando estos se dominan, estos hábitos son los que lo mueven a uno.</p>
-</div>
-<div class="paragraph">
-<p>Tu objetivo tiene que ser lo suficientemente atractivo para que tú no tengas que esforzarte en buscarlo, en lugar de ello el deseo de obtenerlo te empuje a conseguirlo.</p>
-</div>
-<div class="paragraph">
-<p>Las experiencias relevantes entrenan tu instinto para que más adelante puedas tomar decisiones rápidas sin pensar y a pesar de eso ser decisiones correctas, media vez tengas un objetivo en mente te será fácil identificar las oportunidades.</p>
-</div>
-<div class="paragraph">
-<p>Las mejores oportunidades suceden estando en el momento y lugar perfecto, muévete hacia el lugar con más oportunidades y prepárate para lo inesperado, no existe el momento en el que estés totalmente preparado y seguro, tienes que arrebatar esos momentos cuando se te presenten, trabaja todo el tiempo para encontrarte en la mejor condición de tu vida cada día.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_decide">Decide</h3>
-<div class="paragraph">
-<p>Nuestras acciones se rigen por nuestras necesidades, creencias y emociones, aprende a gestionar tus emociones y estados de ánimo para poder manejar los éxitos y los fracasos.</p>
-</div>
-<div class="paragraph">
-<p>La interpretación que hacemos de las emociones son las que nos dificulta gestionarlas, nosotros decidimos si el miedo nos paraliza o nos estimula a movernos.</p>
-</div>
-<div class="paragraph">
-<p>Escribe objetivos basados en acción que estén bajo tu control y empieza, nada tarda tanto como lo que nunca se comienza, la decisión es el poder último.</p>
-</div>
-<div class="paragraph">
-<p>Si tienes éxito no te relajes, el que se relaja pierde y en los fracasos debes de entender que el único verdadero fracaso es no intentar nuevamente, media vez entiendes esto toda tu vida se convierte en progreso y no en perfección.</p>
-</div>
-<div class="paragraph">
-<p>Originally published at <a href="https://medium.com/@elidiazgt/enfoque-b07ba647ec4c#.njjedkael">medium</a> on October 25, 2014.</p>
-</div>
-</div>]]></description><link>http://elidiaz.com/2015/08/24/Enfoque.html</link><guid isPermaLink="true">http://elidiaz.com/2015/08/24/Enfoque.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[pensamientos]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Mon, 24 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Pensamientos sobre la incertidumbre - Saber cuando?]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html</link><guid isPermaLink="true">http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html</guid><category><![CDATA[competencia]]></category><category><![CDATA[software]]></category><category><![CDATA[development]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Mon, 24 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Pensamientos sobre la incertidumbre - Saber cuando?]]></title><description><![CDATA[<div class="paragraph">
 <p>Cuando crees que vas a llegar, termina tu carrera y te preguntas que fue lo que paso, en donde te equivocaste.</p>
 </div>
 <div class="paragraph">
