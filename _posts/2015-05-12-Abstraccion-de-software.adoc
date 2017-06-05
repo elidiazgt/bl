@@ -1,5 +1,5 @@
 = Abstraccion de software
-:hp-image: abstraccion.jpg
+:hp-image: /images/abstraccion.jpg
 :hp-tags: development,software
 
 La abstracción es uno de las características innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar información, que luego utilizamos para manejar los eventos que nos interesan.
