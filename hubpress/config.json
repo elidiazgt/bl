@@ -28,7 +28,7 @@
   "site": {
     "title": "EliDiaz.com",
     "description": "Constructor de herramientas útiles para inspirar, educar y empoderar a las personas",
-    "logo": "",
+    "logo": "/images/logo.png",
     "cover": "",
     "delay": "",
     "postsPerPage": "9",
