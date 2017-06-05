@@ -1,6 +1,6 @@
 
 = Pensamientos sobre la incertidumbre - Saber cuando?
-:hp-image: saber-cuando.png
+:hp-image: /images/saber-cuando.png
 :hp-tags: filosofia,motivacion, pensamientos
 
 Cuando crees que vas a llegar, termina tu carrera y te preguntas que fue lo que paso, en donde te equivocaste.
