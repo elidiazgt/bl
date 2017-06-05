@@ -1,5 +1,5 @@
 = Enfoque 
-:hp-image: enfoque.jpeg
+:hp-image: /images/enfoque.jpeg
 :hp-tags: filosofia,motivacion,pensamientos
 
 
