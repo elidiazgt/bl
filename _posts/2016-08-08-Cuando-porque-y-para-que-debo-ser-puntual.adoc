@@ -1,5 +1,5 @@
 = Cuando porque y para que debo ser puntual
-:hp-image: puntual.jpeg
+:hp-image: /images/puntual.jpeg
 :hp-tags: liderazgo, negocios, motivacion
 
 Hace un tiempo vi una entrevista que le hicieron a Chris Gardner, la persona sobre la que está basada la pelicula “En busqueda de la felicidad” en donde él contaba el porqué de sus dos relojes sobre sus muñecas, uno en la mano derecha y otro en la mano izquierda. 
