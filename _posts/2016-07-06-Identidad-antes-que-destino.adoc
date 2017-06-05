@@ -1,5 +1,5 @@
 = Identidad antes que destino
-:hp-image: identidad-destino.jpeg
+:hp-image: /images/identidad-destino.jpeg
 :hp-tags: filosofia,motivacion, liderazgo
 
 Quiero mezclar varias ideas a pesar que no son las mejores, ni soy la persona con la mejor dicción pero me es imperativo expresarme, la vida es incierta y puede que no haya mejor ocasión para compartir esto a raíz de lo que hablé hoy con personas con las que puedo contribuir.
