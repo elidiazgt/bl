@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eli Diaz]]></title><description><![CDATA[Constructor de herramientas útiles para inspirar, educar y empoderar a las personas]]></description><link>http://elidiaz.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Jun 2017 23:14:09 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El placer del sueño]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eli Diaz]]></title><description><![CDATA[Constructor de herramientas útiles para inspirar, educar y empoderar a las personas]]></description><link>http://elidiaz.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Jun 2017 23:57:51 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El placer del descanso]]></title><description><![CDATA[<div class="paragraph">
 <p>Content</p>
-</div>]]></description><link>http://elidiaz.com/2017/06/03/El-placer-del-sueno.html</link><guid isPermaLink="true">http://elidiaz.com/2017/06/03/El-placer-del-sueno.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 03 Jun 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[De mi ignorancia y el sindrome de Dunning-Kruger]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://elidiaz.com/2017/06/03/El-placer-del-descanso.html</link><guid isPermaLink="true">http://elidiaz.com/2017/06/03/El-placer-del-descanso.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 03 Jun 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[De mi ignorancia y el sindrome de Dunning-Kruger]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Hace tiempo utilizaba la frase <strong>¨la ignorancia es felicidad¨</strong> porque tenía la falsa creencia de que si evitas enterarte  de hechos que afecten tu estado de ánimo podés permanecer en un estado de  tranquilidad, pero las cosas que quieres evitar eventualmente salen a la luz y muchas veces es peor  ser el último en enterarte porque ya no puedes hacer nada para solucionar la situación.</p>
@@ -66,7 +66,495 @@
 <p>Creo que ultimo que tengo que agregar a esto es que <strong>busques que tu trabajo sea significativo para este mundo, primero porque lo necesita y segundo porque personas menos capaces que tú van a influenciar tu futuro.</strong></p>
 </div>
 </div>
-</div>]]></description><link>http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</link><guid isPermaLink="true">http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[competencia]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Depuracion en el navegador]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</link><guid isPermaLink="true">http://elidiaz.com/2016/07/16/De-mi-ignorancia-y-el-sindrome-de-Dunning-Kruger.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[competencia]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lo que Aprendí trabajando una decada en tecnologia]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Fotografia por Alex E. Proimos</p>
+</div>
+<div class="paragraph">
+<p>He querido hacer este listado desde hace tiempo, es algo que necesito sacar y creo que sera beneficioso sintetizar lo que aprendí.</p>
+</div>
+<div class="paragraph">
+<p>Empecé trabajando a los 15 años en campos muy variados lo que significa muchas experiencias acumuladas de todo tipo, de todas se aprende y de ninguna se pierde, pero hoy solo voy a plasmar las enseñanzas puntuales que he acumulado en el área de tecnología, que es en donde mas experiencia tengo: mi primer proyecto fue una revista escolar juvenil que realicé durante un curso online de donde aprendí lo básico de la web, pero mejor comencemos por el primero en el que me pagaron.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_mi_primer_empleo_dar_clases_de_html_y_css_sobre_dreamweaver">Mi primer empleo: Dar clases de html y css sobre Dreamweaver</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Era un cybercafe en el que se daban clases de computación y en donde yo vendía espacios para un directorio digital, ahí me permitieron compartir lo poco que conocía de la web, mis alumnos llegaban todas las tardes y se necesitaba paciencia, cuesta explicarle a las personas lo tedioso que puede resultar como funciona el internet.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Aprendí que siempre hay personas queriendo aprender</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que comunicarse de manera simple es la mejor herramienta</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que vender publicidad en internet puede ser duro si hay poca penetración de tu producto</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_arreglar_tragamonedas_en_un_casino">Arreglar tragamonedas en un casino</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>No dure mucho tiempo en ese lugar, el trabajo era en el hotel mas lujoso que conozco y en ese tiempo todavía era permitido fumar en lugares cerrados yo venia de provincia y eso para mi todo era incomodo, la parte tecnológica era darles mantenimiento a las maquínas tragamonedas y arreglarlas en lo que pudiera si dejaban de funcionar si en caso no podía, llamar al técnico externo.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Aprendí que hay un rol de mantenimiento para cada equipo, e invertir tiempo en ello te distancia de tu verdadero trabajo</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que hay personas muy independientes que no les importara nada mas que el dinero y mientras mas fácil conseguirlo mejor.</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que el dinero llama mas dinero, las personas tienden a invertir bastante dinero en lugares opulentos</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_desarrollador_junior_en_una_startup_ecomerce">Desarrollador junior en una Startup Ecomerce</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>En esta empresa comencé trabajando con el sueldo mínimo de mi país, porque yo lo decidí, estaba necesitado de un empleo y pensé que pidiendo eso me aseguraría el puesto, además era de medio tiempo lo cual me permitía estudiar y medio pagar la renta. En este lugar me dieron la oportunidad de aprender, pase bastante tiempo sin ser productivo porque estaba asimilando y la mayor parte del tiempo era autodidacta.</p>
+</div>
+<div class="paragraph">
+<p>En esta empresa hubieron muchos cambios, tuvimos 3 oficinas, en dos ocasiones diferente jefe de proyecto, luego el cambio el rumbo del proyecto y también sobre la tecnología que se usaba,fueron 2 años que recuerdo con nostalgia porque tuve 2 ingenieros muy buenos que guiaron mi camino de lo que hoy se.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Definir el camino de un proyecto y además apegarse a el es una de las cosas mas difíciles de hacer</strong></p>
+</li>
+<li>
+<p><strong>El costo de hacer cambios en el camino es muy grande</strong></p>
+</li>
+<li>
+<p><strong>La tentación de agregar features a un producto es constante y nunca termina</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_maquetador_wordpress">Maquetador wordpress</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Hubo un tiempo en el que además de mi trabajo en la startup ecomerce hacia maquetas para uno de mis maestros del curso online esto lo hacia porque su oficina quedaba cerca de mi universidad y el me dio la oportunidad de ayudarlo un par de horas. Los proyectos de programación aquí se tercerizan y estaban mas enfocados en la generación de contenido y creación de comunidades.</p>
+</div>
+<div class="paragraph">
+<p>En su momento no mucho entendí el giro de los proyectos y en su lugar decidí involucrarme tiempo completo a la startup ecomerce porque ahí si me estaban enseñando lo que a mi me interesaba.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Aprendí que se puede tener dos trabajos y estudiar en la universidad al mismo tiempo sacando buenas notas, pero por un periodo de tiempo corto(3 meses) ya que te consume o "quema"</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que los clientes no distinguen muchas cosas que se da por echo que se entienden al hablar de web</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que la impresión que dejas en las personas dura mucho mas tiempo del que crees</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_mi_primera_agencia_digital">Mi primera agencia digital</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Esta época la comencé negociando mi sueldo con una persona con la que ya había trabajado y ella sabia de mis habilidades así que pude pedir mas :) básicamente me contrataron para desarrollar un proyecto grande en .net, vi el nacimiento y crecimiento de esta agencia que comenzó en una casa, nos trasladamos a una oficina en el área financiera de la ciudad, se compro equipo nuevo, se contrataron varias personas nuevas, todo iba muy bien y en ese tiempo fui requerido para trabajar in situ en las oficinas del cliente, estuve un tiempo así hasta que fui cambiado de proyecto y ahí las cosas ya no iban muy bien, algunos clientes no habían cumplido con sus pagos y en poco tiempo no había proyectos para mi, la partida fue triste para mi y me regrese a mi ciudad de origen.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Aprendí que el crecimiento de una empresa debe ser secuencial, progresiva y con bastante presupuesto de respaldo</strong></p>
+</li>
+<li>
+<p><strong>Que se debe de tolerar poco a los clientes respecto a los pagos pendientes y no seguir trabajando en la espera de que el cliente se digne a continuar pagando</strong></p>
+</li>
+<li>
+<p><strong>Que es posible trabajar a distancia, pero que requiere de mucha comunicación y empeño de parte de las partes involucradas</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_la_financiera">La financiera</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Esta época fue la mas estable de mi vida, tenia todas las prestaciones y la empresa se preocupaba por nuestro bienestar, era una empresa con 100 años de existencia por lo cual todos los procesos internos estaban probados y funcionaban muy bien, el problema era que por la cantidad de iteraciones sobre los mismos se habían vuelto lentos, pasaban por muchas aprobaciones y todo estaba súper presupuestado.</p>
+</div>
+<div class="paragraph">
+<p>Las compras eran carismas porque siempre había preferencia sobre el soporte y la reputación del proveedor.</p>
+</div>
+<div class="paragraph">
+<p>Aquí fue donde aprendí el valor y la utilidad de la tecnología que desarrollaba, muchas personas dependían de ella y si se caia el sitio significaba perdida de dinero, clientes molestos, auditoría, etc.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Aprendí que cuanto mas dependas de la tecnología, es indispensable pagar soporte, no importa si usas opensource o comercial, tendrá un alto costo</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que tus desiciones influencian el trabajo de las personas y debes de crear un sistema en el que tu confías, para que las personas crean en el</strong></p>
+</li>
+<li>
+<p><strong>El sistema estará listo, hasta que solucione el problema por el que fue concebido</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_l_der_de_proyecto_a_distancia">Líder de proyecto a distancia</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Obtuve la oportunidad de liderar un proyecto que fue comenzado por otra persona, se pudo contratar estudiantes universitarios de ultimo año familiarizados con la tecnología, pero fue un fracaso el proyecto ya que estaba atrasado, los desarrolladores no lograban familiarizarse con el código y la comunicación era escasa (2 o 3 veces al día) ya que yo continuaba con mi empleo regular y en teoría solo tenia que supervisar el desarrollo del mismo.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Aprendí que credenciales no superan experiencia</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que no sabia nada sobre planificar tareas para alguien mas que no fuera yo, se debe de encontrar la manera correcta de estar encima sin ofuscar a tus colaboradores</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que si no presupuestas proyectos bien, te quedas con deudas y disgustos</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_mi_segunda_agencia_digital">Mi segunda agencia digital</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Deje mi empleo en la financiera porque ya me había aburrido de lo lento que eran los procesos, lo difícil que era pedir un servidor nuevo, en algún momento me volví importante dentro de la organización y habían bastantes solicitudes de varios departamentos que yo no podía atender. Eso me hizo buscar libertad y dinamismo quería trabajar en una empresa dinámica y moderna.</p>
+</div>
+<div class="paragraph">
+<p>Esta empresa se veía de muy alto nivel, tenia muy buenas relaciones publicas y ofrecía lo que yo estaba buscando, el primer día fue fabuloso, hubieron reuniones tipo scrum, mi equipo de trabajo era costoso y la decoración general de la oficina estaba muy bien hecha.</p>
+</div>
+<div class="paragraph">
+<p>El problema con esta empresa era su propio éxito, había un exceso de proyectos y hacia falta de talento, la presión sobre todos los empleados era grande.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Aprendí que el diseño gráfico es rey, lo que los clientes pagan por lo que ven</strong></p>
+</li>
+<li>
+<p><strong>Las relaciones publicas mandan en cualquier negocio, presencia online es igual a miles de dolares en contratos</strong></p>
+</li>
+<li>
+<p><strong>La importancia de que un proyect manager pueda manejar tanto clientes como desarrolladores es crucial, no puedes satisfacer clientes sin satisfacer desarrolladores</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_la_agencia_de_contenidos">La agencia de contenidos</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Esta agencia fue la mas exitosa respecto al conocimiento de como funciona la web y de como crear una cultura organizacional.</p>
+</div>
+<div class="paragraph">
+<p>En el pasado había trabajado con el líder de la agencia y pude ver su crecimiento de 3 a 75 empleados en pocos años, cambio de oficina y creacion de prestigio a su nombre.</p>
+</div>
+<div class="paragraph">
+<p>Cuando conocí el modelo de negocio de la empresa años atrás no le veía sentido y no lo entendía y de ahí aprendi que <strong>de moneda en moneda se hacen fortunas</strong></p>
+</div>
+<div class="paragraph">
+<p>El éxito de este líder se basa en identificar el talento y cuidarlo, confiar y delegar aunque no conozca completamente todos los temas que esta tratando, sabe lo que quiere y es humilde al tratar con todos sus colaboradores.</p>
+</div>
+<div class="paragraph">
+<p>El problema con la empresa era la separación por personalidades, la rivalidad entre departamentos era obvia y el respeto se tenia que trabajar, cada mes se hacían sesiones de resultados con toda la empresa y esto era muy bueno porque se lograba la interacción que hacia falta diariamente.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Aprendí que el respeto (no obligado ni a la fuerza, sino real) es la clave para que un equipo camine durante bastante tiempo y logre solucionar problemas</strong></p>
+</li>
+<li>
+<p><strong>Aprendí que hay que esforzarse mucho al principio de cada proyecto en dejar claras las espectativas que cada uno de los participantes tiene puesto en ello</strong></p>
+</li>
+<li>
+<p><strong>Aprendí el tremendo valor que tiene la discreción y lo poderoso que puede llegar a ser saber manejarlo a tu favor</strong></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_conclusion">Conclusion</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Si no se gana se aprende, he tenido una gran cantidad de compañeros y aprecio lo que he aprendido de cada uno de ellos, con muy pocos pude hacer amistad debido a que me es difícil expresarme con claridad, es por eso que inicie esta serie de ensayos #EliDiazEssay en donde practico como expresarme por escrito y ser mas preciso.</p>
+</div>
+<div class="paragraph">
+<p>También voy a ir dejando registro de los temas que me interesan y de los cuales quiero profundizar, queda mucho por aprender el camino es largo y siempre seguiré avanzando.</p>
+</div>
+</div>
+</div>]]></description><link>http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html</link><guid isPermaLink="true">http://elidiaz.com/2015/08/24/Lo-que-Aprendi-trabajando-una-decada-en-tecnologia.html</guid><category><![CDATA[competencia]]></category><category><![CDATA[software]]></category><category><![CDATA[development]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Mon, 24 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Enfoque]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Soy Elí Díaz y estoy satisfecho con ser diferente, busco encontrar la mejor versión de mi persona sin ocultar nada, ser auténtico e inspirar a otros para descubrir ¿hasta dónde podemos llegar?</p>
+</div>
+<div class="paragraph">
+<p>Debes de comenzar una conversación explicando el motivo principal de tus palabras, marcando el porqué, como punto de inicio de una conversación, esto te facilita desglosar el cómo y finalmente el que.</p>
+</div>
+<div class="paragraph">
+<p>Existe una TEDtalk de Simon Sinek que explica la idea de que nuestras acciones, la respuesta a las conversaciones que tenemos son el resultado de nuestra identificación con ideas similares a las nuestras, que el error al comunicarnos es expresar una descripción sin motivo ni esencia, describiendo el cómo y el que, pero dejando difuso el porqué.</p>
+</div>
+<div class="paragraph">
+<p>La inspiración es necesaria pero no suficiente, lo que uno hace prueba lo que uno cree, si encuentras la emoción correcta la consecuencia de acciones simples y contundentes serán naturales y no forzadas.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_identifica_que_es_importante_para_ti_hoy">Identifica que es importante para ti hoy</h3>
+<div class="paragraph">
+<p>Plantéate lo que no quieres, solamente para identificar tus deseos, no pienses en lo que debería ser basado en el pasado y enfócate en lo que si quieres.</p>
+</div>
+<div class="paragraph">
+<p>Segun Tony Robbins tenemos 4 necesidades básicas (certeza, variedad, significancia y conexion/amor) para las cuales nosotros encontramos formas de satisfacerlas, pero no son suficientes, en cambio el crecimiento y la contribución nos llenan más.</p>
+</div>
+<div class="paragraph">
+<p>Si prestas atención a tus patrones de conducta lograrás identificar qué tipo de emoción te importa más, enfoca tu objetivo sobre ella, crece en base a ella y contribuye, dar algo a cambio es la razón del crecimiento.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_plantea_un_camino_y_prep_rate_para_el">Plantea un camino y prepárate para el</h3>
+<div class="paragraph">
+<p>Hasta cierta edad uno lucha con crear comportamientos y hábitos que considera importantes y útiles, y a partir del momento cuando estos se dominan, estos hábitos son los que lo mueven a uno.</p>
+</div>
+<div class="paragraph">
+<p>Tu objetivo tiene que ser lo suficientemente atractivo para que tú no tengas que esforzarte en buscarlo, en lugar de ello el deseo de obtenerlo te empuje a conseguirlo.</p>
+</div>
+<div class="paragraph">
+<p>Las experiencias relevantes entrenan tu instinto para que más adelante puedas tomar decisiones rápidas sin pensar y a pesar de eso ser decisiones correctas, media vez tengas un objetivo en mente te será fácil identificar las oportunidades.</p>
+</div>
+<div class="paragraph">
+<p>Las mejores oportunidades suceden estando en el momento y lugar perfecto, muévete hacia el lugar con más oportunidades y prepárate para lo inesperado, no existe el momento en el que estés totalmente preparado y seguro, tienes que arrebatar esos momentos cuando se te presenten, trabaja todo el tiempo para encontrarte en la mejor condición de tu vida cada día.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_decide">Decide</h3>
+<div class="paragraph">
+<p>Nuestras acciones se rigen por nuestras necesidades, creencias y emociones, aprende a gestionar tus emociones y estados de ánimo para poder manejar los éxitos y los fracasos.</p>
+</div>
+<div class="paragraph">
+<p>La interpretación que hacemos de las emociones son las que nos dificulta gestionarlas, nosotros decidimos si el miedo nos paraliza o nos estimula a movernos.</p>
+</div>
+<div class="paragraph">
+<p>Escribe objetivos basados en acción que estén bajo tu control y empieza, nada tarda tanto como lo que nunca se comienza, la decisión es el poder último.</p>
+</div>
+<div class="paragraph">
+<p>Si tienes éxito no te relajes, el que se relaja pierde y en los fracasos debes de entender que el único verdadero fracaso es no intentar nuevamente, media vez entiendes esto toda tu vida se convierte en progreso y no en perfección.</p>
+</div>
+<div class="paragraph">
+<p>Originally published at <a href="https://medium.com/@elidiazgt/enfoque-b07ba647ec4c#.njjedkael">medium</a> on October 25, 2014.</p>
+</div>
+</div>]]></description><link>http://elidiaz.com/2015/08/24/Enfoque.html</link><guid isPermaLink="true">http://elidiaz.com/2015/08/24/Enfoque.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[pensamientos]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Mon, 24 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Pensamientos sobre la incertidumbre - Saber cuando?]]></title><description><![CDATA[<div class="paragraph">
+<p>Cuando crees que vas a llegar, termina tu carrera y te preguntas que fue lo que paso, en donde te equivocaste.</p>
+</div>
+<div class="paragraph">
+<p>A quien no le pusiste atención, o a quien debiste nunca escuchar.</p>
+</div>
+<div class="paragraph">
+<p>En la infancia todo fue escrito, todo lo demás vino sin que te dieras cuenta.</p>
+</div>
+<div class="paragraph">
+<p>La vida no se trata del pasado, se trata del ahora.</p>
+</div>
+<div class="paragraph">
+<p>Mañana ya vendrá, y te tomara desprevenido como siempre.</p>
+</div>
+<div class="paragraph">
+<p>Jugar a las cartas es mas seguro, que jurar ante Dios.</p>
+</div>
+<div class="paragraph">
+<p>La negra noche estara sobre ti, eso te aseguro.</p>
+</div>
+<div class="paragraph">
+<p>Y luego el amanecer te devolverá el brillo de tus ojos, eso te juro.</p>
+</div>
+<div class="paragraph">
+<p>Todo pecado fue perdonado, mas nadie realmente lo cree.</p>
+</div>
+<div class="paragraph">
+<p>El camino de la aventura es tu recompensa.</p>
+</div>
+<div class="paragraph">
+<p>Originally published at <a href="https://medium.com/@elidiazgt/saber-cuando-70aff21fed9#.x80jxzkni">medium</a> on October 25, 2013.</p>
+</div>]]></description><link>http://elidiaz.com/2015/08/23/Pensamientos-sobre-la-incertidumbre-Saber-cuando.html</link><guid isPermaLink="true">http://elidiaz.com/2015/08/23/Pensamientos-sobre-la-incertidumbre-Saber-cuando.html</guid><category><![CDATA[filosofia]]></category><category><![CDATA[motivacion]]></category><category><![CDATA[pensamientos]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Sun, 23 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Abstraccion de software]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>La abstracción es uno de las características innatas del ser humano mejor desarrolladas esta capacidad nos permite identificar reducir y aislar información, que luego utilizamos para manejar los eventos que nos interesan.</p>
+</div>
+<div class="paragraph">
+<p>A la pregunta “Estaré utilizando los términos correctos a la hora de estructurar este proyecto?”, vinieron horas de navegación que me llevaron a las excelentes gráficas que les comparto mas abajo.</p>
+</div>
+<div class="paragraph">
+<p>No tenia idea que existieran tantas y cada una de ellas satisface una necesidad especifica, que puede ser replicada en cualquier proyecto que lo necesite.
+Composite, prototype y singleton son los que mas me ha tocado observar donde he trabajado.</p>
+</div>
+<div class="paragraph">
+<p>Me encontré con este articulo muy bueno (ingles) que trata sobre el <a href="http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern">Bridge Pattern</a>.</p>
+</div>
+<div class="paragraph">
+<p>Pero a la pregunta de cual es el mejor patron, no existe el patron ideal, dependiendo el tamaño del proyecto y de la experiencia que tienes con el se podrá determinar el éxito que tendrás, si es un proyecto que involucra varias personas es obligatorio usar uno y que queden bien claros sus alcances, no queremos que los developers se sobreescriban entre si, mas bien que todos podamos reutilizar el código que escribimos.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_listado_de_patrones_de_diseno">Listado de patrones de diseno</h2>
+<div class="sectionbody">
+<div id="gallery" class="imageblock">
+<div class="content">
+<img src="http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg" alt="Design pattern 1 rel="lightbox"">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://41.media.tumblr.com/eca7b79dfe053640e191de22473c4ed/tumblr_noysmqaReq1tb3anfo1_1280.jpg" alt="Design pattern 2 rel="lightbox"">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_interaccion_entre_terminos_de_patrones_de_diseno">Interaccion entre terminos de patrones de diseno</h2>
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="http://41.media.tumblr.com/31bcfdc78d45ba49e9e5861821f71c0a/tumblr_noyspyXlpQ1tb3anfo1_1280.jpg" alt="Patter interaction rel="lightbox"">
+</div>
+</div>
+</div>
+</div>]]></description><link>http://elidiaz.com/2015/05/12/Abstraccion-de-software.html</link><guid isPermaLink="true">http://elidiaz.com/2015/05/12/Abstraccion-de-software.html</guid><category><![CDATA[development]]></category><category><![CDATA[software]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Tue, 12 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Para que sirve la mentoria?]]></title><description><![CDATA[<div class="paragraph">
+<p>Se define como:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p><strong>Mentoring</strong>: proceso para la transmisión informal del conocimiento, el capital social y el apoyo psico-social, percibidos por el recipiente como relevante para el trabajo, la carrera o el desarrollo profesional; la mentoria envuelve la comunicación informal, usualmente cara a cara y durante un periodo de tiempo sostenible entre una persona que se percibe poseedor de conocimiento relevante, sabiduría o experiencia (el mentor) y una persona que se percibe con menos (el protegido)</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Pero en resumidas cuentas es buscar y escoger a alguien que te ayude a sacar adelante tus proyectos, claro debes de escoger a alguien que te inspire confianza y con la que puedas tener una comunicación fluida, es una manera de evitar cometer errores a la hora de emprender y también de adquirir conocimientos.</p>
+</div>
+<div class="paragraph">
+<p>Por el momento ando en busca de un mentor para poder obtener consejo en cuanto a negocios y marketing (aun sigo con eso 2012…2016), que creo que es mi parte mas difícil.</p>
+</div>
+<div class="paragraph">
+<p>Dejo unos enlaces de guía que pueden ser útiles, para los que aspiran a ser mentores algún día:</p>
+</div>
+<div class="paragraph">
+<p>Y también si alguien que lee este articulo busca ser mentor hay un manifesto escrito por <a href="http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto">David Cohen</a> y aquí se los coloco traducido:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Ser Socratico.</p>
+</li>
+<li>
+<p>Esperar nada a cambio (estar encantado con lo que obtengas)</p>
+</li>
+<li>
+<p>Ser autentico y practicar lo que predicas.</p>
+</li>
+<li>
+<p>Ser directo. Decir la verdad, sin importar lo duro que sea.</p>
+</li>
+<li>
+<p>También saber escuchar.</p>
+</li>
+<li>
+<p>Las mejores relaciones mentoras son las que eventualmente se convierten en doble vC-a.</p>
+</li>
+<li>
+<p>Se cooperativo.</p>
+</li>
+<li>
+<p>Adoptar al menos una empresa cada año. La experiencia cuenta.</p>
+</li>
+<li>
+<p>Separar claramente opinion de hecho.</p>
+</li>
+<li>
+<p>Manejar la información confidencialmente</p>
+</li>
+<li>
+<p>Claramente comprometido como mentor o no cualquier faceta esta bien.</p>
+</li>
+<li>
+<p>Conocer que no conoces. Decir No se cuando no conoces. “No conozco” es mejor que ser jactancioso.</p>
+</li>
+<li>
+<p>Guía, no controles. Los equipos deben de tomar sus propias decisiones.</p>
+</li>
+<li>
+<p>Guía pero nunca les digas que es lo que tienen que hacer. Entiende que es su empresa, no la tuya.</p>
+</li>
+<li>
+<p>Acepta y comunica tus ideas con otros mentores que estén involucrados.</p>
+</li>
+<li>
+<p>Se optimista.</p>
+</li>
+<li>
+<p>Proporciona asesoramiento procesable y especifico, no vago.</p>
+</li>
+<li>
+<p>Se retador/robusto, pero no destructivo.</p>
+</li>
+<li>
+<p>Tener empatia, recuerda que los emprendimientos son difíciles.</p>
+</li>
+</ul>
+</div>]]></description><link>http://elidiaz.com/2012/01/25/Para-que-sirve-la-mentoria.html</link><guid isPermaLink="true">http://elidiaz.com/2012/01/25/Para-que-sirve-la-mentoria.html</guid><category><![CDATA[liderazgo]]></category><category><![CDATA[competencia]]></category><category><![CDATA[negocios]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Wed, 25 Jan 2012 00:00:00 GMT</pubDate></item><item><title><![CDATA[Paradigma de programación MVC]]></title><description><![CDATA[<div class="paragraph">
+<p>Hace un poco mas de un año tuve mi primer encuentro con el paradigma llamado mvc dentro del framework symphony, pero no lo logre entender del todo y lo deje para otro momento, pero ahora lo vuelvo a retomar con .net y espero volverme experto en esto.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>El objetivo del mvc es poder separar capas de código y así poder reutilizar el trabajo sin modificaciones.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>La primera capa llamada modelo viene a representar los procedimientos para resolver la aplicación que estemos desarrollando, puede ser desde una clase a un conjunto de clases, las llamadas clases de negocio nos pueden servir para plantear mejor nuestra capa modelo.</p>
+</div>
+<div class="paragraph">
+<p>La capa de vista tiene que ver con lo que el usuario va a percibir de nuestra aplicación, la estructura html, los formularios o cualquiera que sea el medio de salida.</p>
+</div>
+<div class="paragraph">
+<p>La ultima capa es la de controlador o mejor dicho de lógica, ahí es donde programaremos las respuestas de la aplicación para el usuario basándonos en las dos capas anteriores.</p>
+</div>
+<div class="paragraph">
+<p>Un detalle a tener en cuenta es que la capa de modelo debe ser lo mas genérica posible y tratar de pensarse de tal modo que se eviten hacer cambios en esta.</p>
+</div>
+<div class="paragraph">
+<p>La capa controlador puede tener acceso a la capa modelo, pero nunca a la capa de vista ya que las vistas pueden modificarse muy seguidamente.
+Este tipo de abstracción es útil para tener un mayor control sobre el html que es generado al contrario que pasa con los webforms de asp donde puedes tener bastantes controles y tocar poco código, pero puede ser un poco difícil trabajar con elementos javascript del lado de la vista.</p>
+</div>
+<div class="paragraph">
+<p>En fin con mvc reutilizaremos mas nuestro código así como también seremos mas ordenados al manejar capas de abstracción.</p>
+</div>]]></description><link>http://elidiaz.com/2011/08/11/Paradigma-de-programacion-MVC.html</link><guid isPermaLink="true">http://elidiaz.com/2011/08/11/Paradigma-de-programacion-MVC.html</guid><category><![CDATA[development]]></category><category><![CDATA[software]]></category><category><![CDATA[lenguaje]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Thu, 11 Aug 2011 00:00:00 GMT</pubDate></item><item><title><![CDATA[Depuracion en el navegador]]></title><description><![CDATA[<div class="paragraph">
 <p>Hace un tiempo encontré un video de paul irish una persona que admiro y que trabaja en el desarrollo de herramientas para el desarrollador en google especializado en front end. En este video el demostraba el uso de la consola de chrome para depurar los archivos cargados en su navegador.</p>
 </div>
 <div class="paragraph">
