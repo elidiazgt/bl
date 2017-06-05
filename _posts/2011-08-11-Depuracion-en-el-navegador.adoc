@@ -1,5 +1,5 @@
 = Depuracion en el navegador
-:hp-image: depuracion-navegador.jpeg
+:hp-image: /images/depuracion-navegador.jpeg
 :hp-tags: development,software, browser
 
 
