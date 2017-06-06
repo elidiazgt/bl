@@ -1,5 +1,0 @@
-= El placer del sueño
-:hp-image: /images/placer-descanzo.jpg
-:hp-tags: MasSano, salud, health,
-
-Content
