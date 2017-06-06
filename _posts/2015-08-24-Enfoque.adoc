@@ -1,6 +1,6 @@
 = Enfoque 
 :hp-image: /images/enfoque.jpeg
-:hp-tags: filosofia,motivacion,pensamientos
+:hp-tags: filosofia,motivacion,pensamientos,editor
 
 
 Soy Elí Díaz y estoy satisfecho con ser diferente, busco encontrar la mejor versión de mi persona sin ocultar nada, ser auténtico e inspirar a otros para descubrir ¿hasta dónde podemos llegar?
