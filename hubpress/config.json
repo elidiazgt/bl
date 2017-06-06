@@ -29,7 +29,7 @@
     "title": "EliDiaz.com",
     "description": "Constructor de herramientas útiles para inspirar, educar y empoderar a las personas",
     "logo": "/images/banner-blog.png",
-    "cover": "",
+    "cover": "/images/blog-header.jpg",
     "delay": "",
     "postsPerPage": "9",
     "googleAnalytics": "UA-37338049-1",
