@@ -1,5 +1,5 @@
 = Si aprendes a ejercitarte aprendes a emprender #MasSano 2/3
-:hp-image: ejercicio-es-emprender.jpg
+:hp-image: /images/ejercicio-es-emprender.jpg
 :hp-tags: Salud, Healthy, MasSano
 
 Sabia que el estres me iba a traer problemas de salud en el futuro, así que decidi tomar el consejo de mi amigo y empece a correr para quitarme el estres, la primera vez casi me moria pero luego me empezo a gustar, y un día de esos también me invito a inscribirme a un gimnasio, como yo estaba bastante delgado me pareció una buena idea.
