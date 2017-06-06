@@ -1,0 +1,154 @@
+.date{
+    font-size: 5rem;
+  
+  font-weight: 400;
+}
+.timeline_title{
+   font-size: 2rem;
+  font-weight: 900;
+ 
+  color:#D85151;
+  display: list-item;
+   font-family: "Playfair Display SC",serif;
+}
+.timeline li {
+  z-index: 2;
+  position: relative;
+  width: 380px;
+  padding: 20px;
+  float: left;
+  margin-bottom: 30px;
+  
+  background-color: #252525;
+  border-radius: 5px;
+  font-style: oblique;
+}
+/*timeline*/
+* {
+  box-sizing: border-box;   
+}
+.timeline ul {
+  position: relative;
+  overflow: hidden;
+  list-style: none;
+  width: 800px;
+  margin: 30px auto;
+  padding: 0;
+}
+.timeline ul:after {
+  content:"";
+  z-index: 1;
+  position: absolute;
+  left: 50%;
+  top:0;
+  width: 4px;
+  margin-left: -2px;
+  min-height: 100%;
+  background-color: #eee;
+}
+
+
+
+.timeline li.left {
+  float: left;
+  clear: left;
+}
+
+.timeline li.right {
+  float: right;
+  clear: right;
+}
+
+.timeline li.highlight {
+  float: none;
+  clear: both;
+  width: auto;
+  border: 5px solid #fff;
+}
+
+/* arrow */
+
+.timeline li:before {
+  content:"";
+  z-index: 1;
+  position: absolute;
+  top: 14px;
+  right: -6px;
+  left: -6px;
+  width: 12px;
+  height: 12px;
+  background-color: rgba(0, 0, 0, 1);
+  transform: rotate(45deg);
+}
+
+.timeline li.left:before {
+  left: auto;
+}
+
+.timeline li.right + li.left:before,
+.timeline li.left + li.right:before {
+  top: 36px;
+}
+
+.timeline li.highlight:before {
+  left: 50%;
+  margin-left: -6px;
+  right: auto;
+  top: -6px;
+}
+
+/* dot */
+
+.timeline li:after {
+  content:"";
+  z-index: 1;
+  position: absolute;
+  top: 14px;
+  right: -27px;
+  left: -27px;
+  width: 8px;
+  height: 8px;
+  border: 3px solid #fff;
+  border-radius: 100%;
+  background-color: #ccc;
+  transition: .2s;
+}
+
+.timeline li:hover:after {
+  background-color: #999;
+  top: 12px;
+  right: -29px;
+  left: -29px;
+  width: 12px;
+  height: 12px;
+}
+
+.timeline li.left:after {
+  left: auto;
+}
+
+.timeline li.right + li.left:after,
+.timeline li.left + li.right:after {
+  top: 36px;
+}
+
+.timeline li.right + li.left:hover:after,
+.timeline li.left + li.right:hover:after {
+  top: 34px;
+}
+
+.timeline li.right:after {
+  right: auto;
+}
+
+.timeline li.highlight:after {
+  left: 50%;
+  margin-left: -7px;
+  right: auto;
+  top: -24px;
+}
+
+.timeline li.highlight:hover:after {
+  margin-left: -9px;
+  top: -26px;
+}
