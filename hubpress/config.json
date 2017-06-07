@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://elidiaz.com",
     "hubpress": "http://elidiaz.com",
-    "theme": "//elidiaz.com/themes/chop",
+    "theme": "//elidiaz.com/themes/casper",
     "images": "http://elidiaz.com/images"
   },
   "initialisationConfigComponent": {
@@ -27,11 +27,11 @@
   },
   "site": {
     "title": "EliDiaz.com",
-    "description": "Construyo de herramientas útiles para inspirar, educar y empoderar personas",
+    "description": "Construyo de herramientas útiles para inspirar, educar y empoderar personas.",
     "logo": "/images/banner-blog.png",
     "cover": "/images/blog-header.jpg",
     "delay": "",
-    "postsPerPage": "10",
+    "postsPerPage": "9",
     "googleAnalytics": "UA-37338049-1",
     "disqus": "elidiazgt"
   },
