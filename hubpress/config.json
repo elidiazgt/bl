@@ -31,7 +31,7 @@
     "logo": "/images/banner-blog.png",
     "cover": "/images/blog-header.jpg",
     "delay": "",
-    "postsPerPage": "10",
+    "postsPerPage": "9",
     "googleAnalytics": "UA-37338049-1",
     "disqus": "elidiazgt"
   },
