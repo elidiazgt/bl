@@ -89,7 +89,7 @@
         function facebook() {
 			if ($('#fb-widget').length) {
 				var facebook_sdk_script = '<div id="fb-root"></div><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";fjs.parentNode.insertBefore(js, fjs);}(document, \'script\', \'facebook-jssdk\'));</script>'
-				var fb_page = '<div class="fb-page" data-href="'+fb_page_url+'" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore">Facebook</div></div>';
+				var fb_page = '<div class="fb-page" data-tabs="timeline,messages,events" data-href="'+fb_page_url+'" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore">Facebook</div></div>';
 				$('body').append(facebook_sdk_script);
 				$('#fb-widget').append(fb_page);
 				$("#fb-widget").fitVids();
