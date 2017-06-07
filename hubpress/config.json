@@ -6,12 +6,12 @@
     "cname": "elidiaz.com"
   },
   "theme": {
-    "name": "casper"
+    "name": "chop"
   },
   "urls": {
     "site": "http://elidiaz.com",
     "hubpress": "http://elidiaz.com",
-    "theme": "//elidiaz.com/themes/chop",
+    "theme": "//elidiaz.com/themes/casper",
     "images": "http://elidiaz.com/images"
   },
   "initialisationConfigComponent": {
