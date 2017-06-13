@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[EliDiaz.com]]></title><description><![CDATA[Construyo herramientas útiles para inspirar, educar y empoderar personas.]]></description><link>http://elidiaz.com</link><image><url>/images/blog-header.jpg</url><title>EliDiaz.com</title><link>http://elidiaz.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 13 Jun 2017 18:29:09 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Es posible dormir menos de ocho horas? #MasSano 3/3]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[EliDiaz.com]]></title><description><![CDATA[Construyo herramientas útiles para inspirar, educar y empoderar personas.]]></description><link>http://elidiaz.com</link><image><url>/images/blog-header.jpg</url><title>EliDiaz.com</title><link>http://elidiaz.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 13 Jun 2017 18:35:48 GMT</lastBuildDate><atom:link href="http://elidiaz.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Es posible dormir menos de ocho horas? #MasSano 3/3]]></title><description><![CDATA[<div class="paragraph">
 <p>￼
 Escuche  decir que uno puede dormir un total de 6 horas al día, dejándonos con 18 horas productivas para perseguir nuestros sueños.</p>
 </div>
@@ -37,8 +37,10 @@ Escuche  decir que uno puede dormir un total de 6 horas al día, dejándonos co
 <div class="paragraph">
 <p>Lo que me encanta al utilizar esta app es colocarle de tono el inicio de la canción Non, je ne regrette rien de Edith Piaf que es la canción que se utiliza en mi segunda película favorita inception y si la han visto entenderán porque lo hago.</p>
 </div>
-<div class="paragraph">
-<p>video::fFtGfyruroU[youtube]]</p>
+<div class="videoblock">
+<div class="content">
+<iframe src="https://www.youtube.com/embed/fFtGfyruroU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 <div class="paragraph">
 <p>Siempre le he tenido envidia a mis amigos y familia que toman la siesta de la tarde, es cierto después de almuerzo todo mundo esta cansado y con sueño, pero para mi es la hora en la que puedo escribir estos ensayos porque estoy mas tranquilo.</p>
@@ -57,29 +59,17 @@ Escuche  decir que uno puede dormir un total de 6 horas al día, dejándonos co
 <div class="paragraph">
 <p>Pero aun asi­ descubrí que hay personas que a propósito duermen mucho menos, utilizando técnicas de descanso que tratan de engañar a su reloj biológico obligando a su cuerpo a dormir pequeñas siestas durante el día para mantener energía.</p>
 </div>
-<div class="imageblock">
-<div class="content">
-<img src="/images/17-6/uberman.png" alt="Uberman">
-</div>
+<div class="paragraph">
+<p>Uberman:  Siestas de 20 a 30 minutos cada 4 horas, ósea 6 siestas cada dia.
+image::/images/17-6/uberman.png[Uberman]</p>
 </div>
 <div class="paragraph">
-<p>Uberman:  Siestas de 20 a 30 minutos cada 4 horas, ósea 6 siestas cada dia.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="/images/17-6/everyman.png" alt="Everyman">
-</div>
+<p>Everyman: Una siesta base de 3 horas y 3 siestas de 20 minutos.
+image::/images/17-6/everyman.png[Everyman]</p>
 </div>
 <div class="paragraph">
-<p>Everyman: Una siesta base de 3 horas y 3 siestas de 20 minutos.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="/images/17-6/dymaxion.png" alt="Dymaxion">
-</div>
-</div>
-<div class="paragraph">
-<p>Dymaxion:  dormir 30 minutos cada 6 horas</p>
+<p>Dymaxion:  dormir 30 minutos cada 6 horas
+image::/images/17-6/dymaxion.png[Dymaxion]</p>
 </div>
 <div class="paragraph">
 <p>Existen muchos testimonios de personas que han utilizado estas técnicas durante años y no tienen efectos negativos, yo todavía no tengo un veredicto porque no he ejercido una técnica estricta todavía, pero es algo que me llama mucho la atención.</p>
@@ -87,17 +77,26 @@ Escuche  decir que uno puede dormir un total de 6 horas al día, dejándonos co
 <div class="paragraph">
 <p>Es posible dormir menos de ocho horas? si, pero requiere de riesgo y esfuerzo y básicamente las horas que logras ganar deberían de utilizarse en actividades de distraccion mas que de trabajo, porque aunque quieras trabajar a tu mente le va a costar concentrarse.</p>
 </div>
-<div class="imageblock">
-<div class="content">
-<img src="/images/17-6/concentracion.jpg" alt="concentración">
-</div>
-</div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
 <p>Dedicale la importancia necesaria al descanso, recuerda que la cadena siempre se rompe por el eslabon mas debil.</p>
 </div>
 </blockquote>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="/images/17-6/concentracion.jpg" alt="concentración">
+</div>
+</div>
+<div class="paragraph">
+<p>Te deseo una maravillosa semana,
+Eli Diaz</p>
+</div>
+<div class="paragraph">
+<p>Gracias por compartir, eso me dice que si te ha gustado este ensayo y me motiva a escribir más de lo mismo !
+ PS : Envío estos artículos a mi lista de correo privada, todos los lunes. Suscribete es gratis.
+Sigueme: Facebook | Twitter | Tumblr | Github | Medium | Instagram</p>
 </div>]]></description><link>http://elidiaz.com/2017/06/12/Es-posible-dormir-menos-de-ocho-horas-Mas-Sano-33.html</link><guid isPermaLink="true">http://elidiaz.com/2017/06/12/Es-posible-dormir-menos-de-ocho-horas-Mas-Sano-33.html</guid><category><![CDATA[massano]]></category><category><![CDATA[salud]]></category><category><![CDATA[descanso]]></category><dc:creator><![CDATA[Eli Diaz]]></dc:creator><pubDate>Mon, 12 Jun 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Si aprendes a ejercitarte aprendes a emprender #MasSano 2/3]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
