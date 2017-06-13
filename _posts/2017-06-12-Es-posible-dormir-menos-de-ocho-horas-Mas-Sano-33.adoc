@@ -40,13 +40,13 @@ Si interrumpimos este reloj maestro que es parte de nuestro organismo podemos ob
 
 Pero aun asi­ descubrí que hay personas que a propósito duermen mucho menos, utilizando técnicas de descanso que tratan de engañar a su reloj biológico obligando a su cuerpo a dormir pequeñas siestas durante el día para mantener energía.
 
-image::/images/17-6/uberman.jpg[Uberman]
+image::/images/17-6/uberman.png[Uberman]
 Uberman:  Siestas de 20 a 30 minutos cada 4 horas, ósea 6 siestas cada dia.
 
-image::/images/17-6/everyman.jpg[Everyman]
+image::/images/17-6/everyman.png[Everyman]
 Everyman: Una siesta base de 3 horas y 3 siestas de 20 minutos.
 
-image::/images/17-6/dymaxion.jpg[Dymaxion]
+image::/images/17-6/dymaxion.png[Dymaxion]
 Dymaxion:  dormir 30 minutos cada 6 horas
 
 Existen muchos testimonios de personas que han utilizado estas técnicas durante años y no tienen efectos negativos, yo todavía no tengo un veredicto porque no he ejercido una técnica estricta todavía, pero es algo que me llama mucho la atención.
