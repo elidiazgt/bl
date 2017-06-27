@@ -1,0 +1,71 @@
+= Simple y muy breve historia del dinero..
+:hp-image: /images/2017/06/26/headpost.jpg
+:hp-tags: masprospero, dinero, deuda
+
+Ayer platique con una chica venezolana sobre la *inflación* del papel moneda en su país ella me contaba que un refresco cuesta lo mismo que el billete de mayor valor.
+
+Esta situación es un claro ejemplo de la percepción del *valor* que se tiene sobre un *pedazo de papel*, que es prácticamente nulo.
+
+image::/images/2017/06/26/mercado.jpg[Mercado]
+
+## La necesidad del mercado
+Ilustrando esto de una manera opuesta pero con una *historia*, un par de amigos subieron el volcán pero cuando regresaron se perdieron durante días.
+
+Ya hambrientos uno de ellos encontró una palmera, se subió a ella y bajo unos cocos y aquí se le ocurrió decirles a sus compañeros *"Se los vendo"*.
+
+Bajo esta situación de escasez la percepción del valor de un simple coco es altísima y cualquiera de ellos estaba dispuesto a pagar lo que sea.
+
+image::/images/2017/06/26/origen-dinero.jpg[Dinero]
+
+## El origen del dinero
+Si tomamos esta ultima situación como ejemplo de como se dio el primer intercambio de valor en la humanidad en la antigüedad
+
+Imaginemos que en esa época si un cazador quería *repartir su presa* en su aldea, como podría contabilizar o saber a *quien y cuanto* le había dado a cada uno.
+
+En base a esa necesidad se invento el dinero, para *llevar un registro de la deuda* que una persona tiene con otra, este fue un modelo muy exitoso.
+
+Al principio se intercambiaba con algún elemento que el proveedor deseaba.
+
+Pero llego el momento en que el comercio creció y la gente necesitaba un nuevo elemento de intercambio que fuera universal y que las demás comunidades aceptaran afuera de la suya.
+
+____
+Debía de ser un elemento escaso, divisible, transportable, durable y fácilmente reconocible.
+____
+
+image::/images/2017/06/26/oro.jpeg[Oro]
+
+## El oro
+Asi fue como se eligió el oro y desde hace 5000 años la gente ya tiene una idea del valor que este representa que fue transmitido *de generación en generación* hasta el día de hoy
+
+Si lo examinamos objetivamente el oro es solamente un *mineral* mas, de por si no tiene un valor intrínseco, mas que el uso que se le da.
+
+Por este valor es que las personas lo acumulan, especulan con el y lo llevan como adorno.
+
+image::/images/2017/06/26/bancos-tarjetas.jpg[Tarjetas]
+
+## Los bancos y las tarjetas de crédito
+Cuando volvió a crecer el mercado y se necesitaba una mejor manera de transporte e intercambio de valor surgieron los bancos
+
+Los bancos almacenan el oro por una *comisión en bóvedas* seguras y a cambio emiten billetes de papel como registro de deuda
+
+Debido a las necesidades de los pueblos se empezó a crear mas y mas billetes pero sin el respaldo del oro ni de metales preciosos
+
+Ese es el dinero fiduciario que esta *basado en la fe y la confianza* de la comunidad, es decir que es solamente una promesa de pago por parte del emisor.
+
+Ese es el dinero fiat que la mayoría de nosotros utilizamos hoy en día *emitido por el banco central* de nuestro país de residencia.
+
+Con este cambio que fue realizado hace 40 años surgió una mejora en el registro de la deuda porque se empezó a utilizar las *tarjetas de crédito*.
+
+image::/images/2017/06/26/dinero-digital.jpg[Digital]
+
+## Dinero digital
+
+Desde esa fecha para el tiempo actual se han desarrollado muchos mecanismos financieros que facilitan el control y el intercambio.
+
+Y es cierto al día de hoy existen empresas que han aprovechado la versatilidad del internet para llevar este sistema de intercambio a *medios digitales*
+
+Sin embargo a pesar de que estamos acostumbrados a usar PayPal y a comprar en amazon, la aceptación de medios digitales todavía se esta construyendo en nuestra sociedad.
+
+Por eso se debe de apoyar *cualquier iniciativa* que nos ayude a agilizar nuestro manejo de la deuda localmente.
+
+El dinero existe porque satisface una necesidad social básica, el intercambio de valor, ósea el registro de la deuda.
