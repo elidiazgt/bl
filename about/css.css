@@ -2,8 +2,13 @@
 body{
     /*background: url(http://i.imgur.com/i3OA2PJ.jpg) !important;*/
    background-image: url("../images/blog-header.jpg");
-  background-size: 100%;
+  
     background-repeat: no-repeat;;
+      width: 100%;
+    padding: 3rem;
+    background-size: cover;
+    background-position: 50% 50%;
+  
     color:white;
     background-color:#1a1919;
 }
