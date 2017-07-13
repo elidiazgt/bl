@@ -1,6 +1,8 @@
 
 body{
     /*background: url(http://i.imgur.com/i3OA2PJ.jpg) !important;*/
+   background-image: url("paper.gif");
+    background-repeat: no;
     color:white;
     background-color:#1a1919;
 }
