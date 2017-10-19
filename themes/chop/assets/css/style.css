@@ -996,3 +996,8 @@ footer .social-share a i {
 	margin: 5rem 0 0;
 }
 
+.home_link{
+	text-decoration: underline;
+    color: blue;
+    font-style: italic;
+}
