@@ -997,7 +997,10 @@ footer .social-share a i {
 }
 
 .home_link{
-	text-decoration: underline;
-    color: blue;
+	text-decoration: underline !important;
+    color: blue !important;
     font-style: italic;
+}
+.skype-button{
+	margin-left:0px !important;
 }
