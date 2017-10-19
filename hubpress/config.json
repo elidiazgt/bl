@@ -30,7 +30,7 @@
     "description": "I build useful tools to inspire, educate and empower people.",
     "logo": "/images/banner-blog.png",
     "cover": "/images/blog-header.jpg",
-    "delay": "324",
+    "delay": "321",
     "postsPerPage": "9",
     "googleAnalytics": "UA-37338049-1",
     "disqus": "elidiazgt"
