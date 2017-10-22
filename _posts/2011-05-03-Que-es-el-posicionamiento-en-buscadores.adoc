@@ -1,7 +1,7 @@
 = Que es el posicionamiento en buscadores?
 
 :hp-image: /images/seo-magia.jpg
-:hp-tags: software, data,browser
+:hp-tags: seo, technology, data, browser, spanish 
 
 
 Segun  Wikipedia es: 
