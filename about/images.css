@@ -1,7 +1,7 @@
 .item-image{
-	margin:10px;
-  width:500px;
-  height:300px;
+	margin: 5%;
+    width: 90%;
+    border: 9px solid white;
 }
 
 .timeline:before{
