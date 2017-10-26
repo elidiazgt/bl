@@ -9,7 +9,7 @@ background-image: url("../images/about/about-header.jpg");
 }
 body{
     /*background: url(http://i.imgur.com/i3OA2PJ.jpg) !important;*/
-   
+       font-family: 'Montserrat', Helvetica, Arial, sans-serif;
   
     color:white;
     background-color:#1a1919;
