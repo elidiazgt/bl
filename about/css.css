@@ -13,6 +13,7 @@ body{
   
     color:white;
     background-color:#1a1919;
+      font-size: 1.1em;
 }
 h1{
     font-size:4rem;
@@ -65,8 +66,10 @@ main {
 
 section {
   display: none;
-  padding: 20px 0 0;
   border-top: 1px solid #ddd;
+  background-color: #252525;
+    border-radius: 5px;
+    padding: 30px;
 }
 
 input {
@@ -111,7 +114,7 @@ input:checked + label {
 #tab3:checked ~ #content3,
 #tab4:checked ~ #content4 {
   display: block;
-  margin: 0px 15%;
+  margin: 0px 10%;
 }
 
 @media screen and (max-width: 650px) {
