@@ -12,7 +12,8 @@ body{
        font-family: 'Montserrat', Helvetica, Arial, sans-serif;
   
     color:white;
-    background-color:#1a1919;
+    background-color: #232323;
+    -webkit-font-smoothing: antialiased;
       font-size: 1.1em;
 }
 h1{
