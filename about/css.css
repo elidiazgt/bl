@@ -17,7 +17,7 @@ body{
       font-size: 1.1em;
 }
 h1{
-    font-size:4rem;
+    font-size:3rem;
   
 }
 .center{
@@ -116,6 +116,7 @@ input:checked + label {
 #tab4:checked ~ #content4 {
   display: block;
   margin: 0px 10%;
+  background-color:#2d2c2c;
 }
 
 @media screen and (max-width: 650px) {
