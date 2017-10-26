@@ -44,7 +44,7 @@
   width: 4px;
   margin-left: -2px;
   min-height: 100%;
-  background-color: #cccccc;
+  background-color: #d85050;
 }
 
 
@@ -63,7 +63,7 @@
   float: none;
   clear: both;
   width: auto;
-  border: 5px solid #fff;
+  /*border: 5px solid #fff;*/
 }
 
 /* arrow */
@@ -104,13 +104,13 @@
   z-index: 1;
   position: absolute;
   top: 14px;
-  right: -27px;
+  right: -25px;
   left: -27px;
   width: 8px;
   height: 8px;
-  border: 3px solid #fff;
+  border: 2px solid #d85050;
   border-radius: 100%;
-  background-color: #ccc;
+  background-color: #252525;
   transition: .2s;
 }
 
