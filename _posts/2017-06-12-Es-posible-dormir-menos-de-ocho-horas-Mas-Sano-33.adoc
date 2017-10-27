@@ -2,7 +2,7 @@
 = Es posible dormir menos de ocho horas? #MasSano 3/3
  
 :hp-image: /images/17-6/head.jpg
-:hp-tags: massano, salud, descanso,
+:hp-tags: massano, salud, healthy
 :published_at: 2017-06-12
 
 ￼
