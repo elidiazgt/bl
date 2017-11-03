@@ -2,28 +2,30 @@
 background-image: url("../images/about/about-header.jpg");
   
     background-repeat: no-repeat;;
-      width: 100%;
+      height: 33em;
     padding: 3rem;
     background-size: cover;
     background-position: 50% 50%;
 }
 body{
     /*background: url(http://i.imgur.com/i3OA2PJ.jpg) !important;*/
-   
+       font-family: 'Montserrat', Helvetica, Arial, sans-serif;
   
     color:white;
-    background-color:#1a1919;
+    background-color: #232323;
+    -webkit-font-smoothing: antialiased;
+      font-size: 1.1em;
 }
 h1{
     font-size:3rem;
-  color:#8480F8;
+  
 }
 .center{
     text-align: center;
     margin-top: 300px;
 }
 .description{
-    
+        background-color: #2d2c2c61;
     margin: 0 auto;
   font-style: oblique;
 }
@@ -65,8 +67,10 @@ main {
 
 section {
   display: none;
-  padding: 20px 0 0;
   border-top: 1px solid #ddd;
+  background-color: #252525;
+    border-radius: 5px;
+    padding: 30px;
 }
 
 input {
@@ -111,7 +115,8 @@ input:checked + label {
 #tab3:checked ~ #content3,
 #tab4:checked ~ #content4 {
   display: block;
-  margin: 0px 15%;
+  margin: 0px 10%;
+  background-color:#2d2c2c;
 }
 
 @media screen and (max-width: 650px) {
