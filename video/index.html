@@ -1,0 +1,111 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Eli Diaz - (Videos) </title>
+    <style type="text/css">
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #f4f4f4;
+        }
+
+        #container {
+            max-width: 960px;
+            margin: 0 auto;
+            font-family: arial;
+        }
+
+        ul {
+            display: flex;
+            flex-flow: row wrap;
+            padding: 0;
+            align-content: space-between;
+        }
+
+        li {
+            width: 31%;
+            margin-right: 2%;
+            list-style: none;
+            margin-bottom: 30px;
+            background: white;
+            border-radius: 3px;
+            padding: 10px;
+        }
+
+        p {
+            font-size: 15px;
+            min-height: 40px;
+        }
+
+        a {
+            color: #2793da;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #333;
+            text-decoration: underline;
+        }
+
+        .thumbnail {
+            border: 1px solid #fcfcfc;
+            padding: 2px;
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <h1>Videos</h1>
+        <gallery></gallery>
+
+        <template id="videos-template">
+            <ul>
+                <li v-for="video in videos">
+                    <p>
+                        <a href="http://www.youtube.com/watch?v={{video.snippet.resourceId.videoId}}">{{ video.snippet.title }} </a>
+                    </p>
+                    <a href="http://www.youtube.com/watch?v={{video.snippet.resourceId.videoId}}">
+                        <img src="{{video.snippet.thumbnails.medium.url}}" alt="{{video.snippet.title}}" title="{{video.snippet.title}}"
+                            class="thumbnail" />
+                    </a>
+                </li>
+            </ul>
+        </template>
+    </div>
+    <!-- #container -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.16/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/0.7.0/vue-resource.js"></script>
+    <script>
+        Vue.component('gallery', {
+            template: '#videos-template',
+            data: function () {
+                return {
+                    videos: []
+                };
+            },
+            created: function () {
+                this.fetchVideoList();
+            },
+            methods: {
+                fetchVideoList: function () {
+                    this.$http.get('https://www.googleapis.com/youtube/v3/playlistItems?playlistId=PLaeVO-DauJ8-4V2arNfPn69losFh9H5qi&key=AIzaSyD4O-DOa1TihOEo4USsJy7faBdqXIN0UGY&fields=items&part=snippet&maxResults=15', function (videosList) {
+                        this.videos = videosList.items;
+                        console.log(videosList.items);
+                    });
+                }
+            }
+        });
+
+        new Vue({
+            el: 'body'
+        });
+    </script>
+</body>
+
+</html>
