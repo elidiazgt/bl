@@ -36,25 +36,31 @@
         }
 
         p {
-            font-size: 15px;
+            font-size: 24px;
             min-height: 40px;
         }
 
         a {
-            color: #2793da;
+            color: white;
             text-decoration: none;
         }
 
         a:hover {
-            color: #333;
-            text-decoration: underline;
+            color: rgb(153, 153, 153);
+            text-decoration: none;
         }
 
         .thumbnail {
-            border: 1px solid #fcfcfc;
+            /* border: 1px solid #fcfcfc; */
             padding: 2px;
             width: 100%;
             height: auto;
+            opacity: 0.65;
+            text-rendering: optimizeLegibility;
+            transition-delay: 0s;
+            transition-duration: 0.3s;
+            transition-property: opacity;
+            transition-timing-function: ease-in;
         }
     </style>
 </head>
@@ -71,8 +77,8 @@
                         <a href="http://www.youtube.com/watch?v={{video.snippet.resourceId.videoId}}">{{ video.snippet.title }} </a>
                     </p>
                     <a href="http://www.youtube.com/watch?v={{video.snippet.resourceId.videoId}}">
-                        <img src="{{video.snippet.thumbnails.medium.url}}" alt="{{video.snippet.title}}" title="{{video.snippet.title}}"
-                            class="thumbnail" />
+                        <img src="{{video.snippet.thumbnails.medium.url}}" alt="{{video.snippet.title}}" title="{{video.snippet.title}}" class="thumbnail"
+                        />
                     </a>
                 </li>
             </ul>
@@ -95,7 +101,7 @@
             methods: {
                 fetchVideoList: function () {
                     this.$http.get('https://www.googleapis.com/youtube/v3/playlistItems?playlistId=PLaeVO-DauJ8-4V2arNfPn69losFh9H5qi&key=AIzaSyD4O-DOa1TihOEo4USsJy7faBdqXIN0UGY&fields=items&part=snippet&maxResults=15&order=date', function (videosList) {
-                        this.videos = videosList.items;
+                        this.videos = videosList.items.reverse();
                         console.log(videosList.items);
                     });
                 }
