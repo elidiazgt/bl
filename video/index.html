@@ -94,7 +94,7 @@
             },
             methods: {
                 fetchVideoList: function () {
-                    this.$http.get('https://www.googleapis.com/youtube/v3/playlistItems?playlistId=PLaeVO-DauJ8-4V2arNfPn69losFh9H5qi&key=AIzaSyD4O-DOa1TihOEo4USsJy7faBdqXIN0UGY&fields=items&part=snippet&maxResults=15', function (videosList) {
+                    this.$http.get('https://www.googleapis.com/youtube/v3/playlistItems?playlistId=PLaeVO-DauJ8-4V2arNfPn69losFh9H5qi&key=AIzaSyD4O-DOa1TihOEo4USsJy7faBdqXIN0UGY&fields=items&part=snippet&maxResults=15&order=date', function (videosList) {
                         this.videos = videosList.items;
                         console.log(videosList.items);
                     });
