@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <link href="http://fonts.googleapis.com/css?family=Playfair+Display+SC:700" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<link href="/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
+<link href="/themes/Saga/assets/css/custom.css?v=1.0.0" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css.css">
+      
+      <script src="//load.sumome.com/" data-sumo-site-id="8a5c184ba8b8f1c69c4d17ea90c72f28293b64e5724894bb8206a99dff64b54b" async="async"></script>
+    </head>
+    <body class="home-template">
+
+
+<header id="header">
+    <div class="header-background">
+    
+    <section id="navigation" class="blog-content animated fadeIn top-bar">
+            <a id="site-url" class="blog-title" href="http://elidiaz.com">Eli Diaz</a>
+            <span class="blog-description">Builder of useful tools to inspire, educate and empower people.</span>
+            <nav class="links fadeIn animated">
+                <ul>
+                    <li><a href="/bio">Bio</a></li>
+                    <li><a href="/talk">Charlas</a></li>
+                    <!-- <li class="rss"><a title="<!--RSS Feed" href="/rss/"><i class="fa fa-fw fa-rss-square"></i></a></li> -->
+                    <li class="github"><a title="GitHub" href="http://github.com/elidiazgt"><i class="fa fa-fw fa-github-square"></i></a></li>
+                    <li class="twitter"><a title="Twitter" href="http://twitter.com/elidiazgt"><i class="fa fa-fw fa-twitter-square"></i></a></li>
+                    <li class="instagram"><a title="Instagram" href="http://instagram.com/elidiazgt"><i class="fa fa-fw fa-instagram"></i></a></li>
+                    <li class="linkedin"><a title="LinkedIn" href="https://gt.linkedin.com/in/elidiazgt"><i class="fa fa-fw fa-linkedin-square"></i></a></li>
+            
+                </ul>
+            </nav>
+        </section>
+    </div>
+</header>
+      
+<main id="main" class="archive" >
+    <section id="feed" class="feed" >
+      
+<script id="template" type="x-handlebars-template">
+
+  {{#each link_list}}
+  
+  <a href="/talk/{{url}}">
+  	<div class="title_results">
+  		{{title}}
+     </div>
+  </a>
+  
+  <div>
+  	{{description}}
+  </div>
+  
+  {{/each}}
+
+</script><div id="results"></div>
+
+  </section>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js">
+</script>
+
+<script src="data.js"></script><script src="render.js"></script>
