@@ -1,0 +1,80 @@
+
+<div class="reveal"><div class="slides"><section data-background="../../keynote.jpg"  data-markdown data-separator-notes="^Note:" data-separator="---"><script type="text/template">
+
+# Meteor + vue + web3
+## elidiaz.com
+## @elidiazgt
+
+---
+## Que es Vue?
+<img class="plain"  src="statejs2018.png">
+---
+## Quien esta detras?
+<img class="plain"  src="vue-creator.png">
+---
+## Estatisticas
+<img class="plain"  src="vue.png">
+---
+## Meteor
+<img class="plain"  src="meteorjs.png">
+---
+## Manejos de paquetes
+<img class="plain"  src="meteor-packages.png">
+
+---
+## Dapp
+<img class="plain"  src="dapp.png">
+---
+## La wallet de ethereum es meteor
+<img class="plain"  src="wallet-ethereum.png">
+---
+## Requisitos
+
+curl https://install.meteor.com/ | sh
+
+meteor npm install --save vue
+
+meteor add akryum:vue-component
+
+meteor add ethereum:web3
+
+npm install -g ethereumjs-testrpc
+
+---
+##  El contrato
+<pre><code class="bash">
+
+        pragma solidity ^0.4.18;
+
+        contract Coursetro {
+            
+           string fName;
+           uint age;
+           
+           function setInstructor(string _fName, uint _age) public {
+               fName = _fName;
+               age = _age;
+           }
+           
+           function getInstructor() public constant returns (string, uint) {
+               return (fName, age);
+           }
+            
+        }
+  </code></pre>
+
+---
+# Manos a la obra
+---
+<!-- .slide: data-background="#ff0000" -->
+# Thank You
+## elidiaz.com
+## @elidiazgt
+
+</script></section></div></div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.1.0/css/reveal.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.1.0/css/theme/night.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.1.0/lib/js/head.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.1.0/js/reveal.min.js"></script>
+<script src='../../main.js'></script>
