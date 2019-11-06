@@ -1,8 +1,8 @@
 data = {
  "link_list": [
   {
-    "title": "Javascript Basico",
-    "url": "javascript-basico",
+    "title": "Javascript Basico 2",
+    "url": "wealthy/javascript-basico",
     "description": "Historia del lenguaje, sintaxis y api."    
   },
   {
